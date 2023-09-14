@@ -105,7 +105,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en Java</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Curso de PowerPoint Basico</h2>
                 </div>
             </div>
         </div>

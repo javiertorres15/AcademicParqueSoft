@@ -101,7 +101,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en Java</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Curso de PowePoint Intermedio</h2>
                 </div>
             </div>
         </div>
@@ -155,11 +155,11 @@
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
-                    <h3>Unidad 4: TRABAJAR CON
-                        GRÁFICOS</h3>
+                    <h3>Unidad 5: PATRÓN DE
+                        DIAPOSITIVAS</h3>
                     <p>5.1. ¿Para qué sirve un
                         patrón de diapositivas?.</p>
-                    <p>5.2. Patrón de diapositiva.      .</p>
+                    <p>5.2. Patrón de diapositiva. .</p>
                 </div>
             </div>
         </div>
