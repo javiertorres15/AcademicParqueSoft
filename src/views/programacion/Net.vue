@@ -11,6 +11,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
+                <div>
                 <p class="lead">Aprender .NET es esencial debido a su versatilidad para crear aplicaciones y las oportunidades profesionales en un mercado en crecimiento.</p>
                 <p class="lead">
                     .NET es flexible con múltiples lenguajes como C#, VB.NET y F#, lo que te permite elegir el más adecuado para tu proyecto y aprovechar sus ventajas.
@@ -18,32 +19,32 @@
                 <p class="lead">
                     Aprender .NET ofrece un sólido potencial de carrera con alta demanda en el mercado laboral y la posibilidad de encontrar empleo bien remunerado o emprender tu propio negocio.
                 </p>
-
             </div>
-            <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                <div class="row">
-                    <div class="col-sm-12 col-xl-4 ">
-                        <div class="card">
-                            <div class="face front">
-                                <img src="@/assets/imagenes/programacion/metodologia.png" alt="">
-                                <h3>Metodología</h3>
-                            </div>
+        </div>
+        <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+            <div class="row">
+                <div class="col-sm-12 col-xl-4 ">
+                    <div class="card">
+                        <div class="face front">
+                            <img src="@/assets/imagenes/programacion/metodologia.png" alt="">
+                            <h3>Metodología</h3>
+                        </div>
 
-                            <div class="face back">
-                                <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
-                                <div class="link">
+                        <div class="face back">
+                            <h3>Metodología</h3>
+                            <p>Educación a distancia en modalidad híbrida</p>
+                            <div class="link">
 
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
-    <!-- /.container -->
+
+</div>
+<!-- /.container -->
 
 </div>
 

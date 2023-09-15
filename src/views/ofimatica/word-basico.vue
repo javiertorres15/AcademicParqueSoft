@@ -123,57 +123,25 @@
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
-                    <h3>Unidad 2: Edición Avanzada de
-                        las Diapositivas.</h3>
-                    <p>2.1. Utilizar Colores o Texturas
-                        para el Fondo de la Diapositiva. </p>
-                    <p>2.2. Aplicar Diseños de
-                        Diapositiva.</p>
-                    <p>2.3. Modificar temas.</p>
-                    <p>2.4. Estilos de Fondo.</p>
-                    <p>2.5. Ordenar las Diapositivas
-                        dentro de una Presentación.</p>
-                    <p>2.6. Guardar como Plantilla.</p>
+                    <h3>Unidad 2: Uso de Pestañas. </h3>
+                    <p>2.1. Pestaña insertar: smart art, hipervínculos, encabezados, pie de página,
+                        número de página, cuadro de texto y word art. </p>
+                    <p>2.2. Pestaña diseño de página; temas: colores, fuentes, efectos, márgenes,
+                        orientación, tamaño, columnas, marca de agua, color de página, bordes
+                        de página.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
-                    <h3>Unidad 3: Trabajo Avanzado con
-                        Objetos. </h3>
-                    <p>3.1. Tablas.</p>
-                    <p>3.2. Audio y Video.</p>
-                    <p>3.3. Trabajo con objetos.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
-                    <h3>Unidad 4: Revisar, Documentar e
-                        Imprimir una Presentación.</h3>
-                    <p>4.1. Trabajar con gráficos.</p>
-                    <p>4.2. Documentación de la
-                        Presentación.</p>
-                    <p>4.3. Empleo de Patrones.</p>
-                    <p>4.4. Impresión y Presentación
-                        de Diapositivas en Diferentes
-                        Soportes.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
-                    <h3>Unidad 5: Presentación de
-                        Diapositivas.</h3>
-                    <p>5.1. Animación de Elementos.</p>
-                    <p>5.2. Transición de Diapositivas.</p>
-                    <p>5.3. Selección de Intervalos de
-                        Tiempo.</p>
-                    <p>5.4. Configuración de la
-                        Presentación.</p>
-                    <p>5.5. Conexión a un Proyector y
-                        Configuración.</p>
-                    <p>5.6. Ensayo de la Presentación.</p>
+                    <h3>Unidad 3: Tablas y Formulas. </h3>
+                    <p>3.1. Revisando opciones.</p>
+                    <p>3.2. Tablas, columnas, filas, celdas.</p>
+                    <p>3.3. Trabajo con fórmulas básicas.</p>
+                    <p>3.4. Elaboración de factura.</p>
+                    <p>3.5. Poner una página horizontal y otra en vertical.</p>
+                    <p>3.6. Bordes y marcos de página personalizados.</p>
+                    <p>3.7. Encabezado o pie de página diferente en la primera página.</p>
                 </div>
             </div>
         </div>

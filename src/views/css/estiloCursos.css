@@ -5,7 +5,10 @@
   * {
     box-sizing: border-box !important;
   }
-  
+  p{
+    text-align: justify;
+  }
+
   html {
     scroll-behavior: smooth;
   }
