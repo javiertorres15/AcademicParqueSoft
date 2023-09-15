@@ -1,8 +1,7 @@
 <template>
 <div>
-    <InicioTic />
+    <InicioMar />
 </div>
-
 <div class="content-section-b">
 
     <div class="container">
@@ -12,7 +11,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"></p>
+                <p class="lead"> El diplomado en Posicionamiento en Buscadores ofrece herramientas técnicas para mejorar la visibilidad de una marca en motores de búsqueda como Google y Bing. Estas estrategias buscan mejorar la posición de una página web en los resultados de búsqueda, ya que cada vez más personas utilizan la web para buscar información.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -104,54 +103,38 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
-                    <h3>Unidad 1: Competencias TIC para los Docentes de Educación Superior. </h3>
-                    <p>1.1. Competencias digitales y educación.</p>
-                    <p>1.2. Estándares y Competencias TIC de los docentes.</p>
-                    <p>1.3. Lineamientos de competencias TIC del MEN.</p>
-                    <p>1.4. Características de un docente TIC: dimensiones de sus competencias.</p>
-                    <p>1.5. Modelo de Competencias TIC para docentes de educación superior.</p>
-                    <p>1.6. Niveles de las competencias TIC para docentes de educación superior.</p>
-                    <p>1.7. Educación 4.0.</p>
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 1: Posicionamiento en Buscadores. </h3>
+                    <p>1.1. ¿Cómo funcionan los grandes motores de búsqueda?.</p>
+                    <p>1.2. Estrategias para la asociación de nuestra URL a un término de búsqueda.</p>
+                    <p>1.3. Compitiendo en la lista (estrategias de popularidad).</p>
+                    <p>1.4. Cosas que jamás hay que hacer.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
-                    <h3>Unidad 2: Producción de Materiales Didácticos Digitales. </h3>
-                    <p>2.1. Pautas en el diseño de guía didáctica. </p>
-                    <p>2.2. Criterios de calidad en material didáctico digital (MDD).</p>
-                    <p>2.3. Guía Para La Producción Y Uso De Materiales Didácticos Digitales.</p>
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 2: SEO. </h3>
+                    <p>2.1. ¿Cómo adaptar el SEO a cada CMS?. </p>
+                    <p>2.2. Tutorial de posicionamiento web desde cero.</p>
+                    <p>2.3. Penalidades de Google.</p>
+                    <p>2.4. El plan de marketing o plan estratégico</p>
+                    <p>2.5. Glosario básico de SEO</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
-                    <h3>Unidad 3: Herramientas y Recursos Educativos para el Aprendizaje en
-                        Entornos Digitales. </h3>
-                    <p>3.1. Recursos digitales (vídeos, audios, webs, etc.).</p>
-                    <p>3.2. TIC en el aula y su aplicación.</p>
-                    <p>3.3. TIC en la web y su aplicación.</p>
-                    <p>3.4. Redes Sociales y sus aplicaciones en la docencia..</p>
-                    <p>3.5. Plataformas digitales para de apoyo al aprendizaje.</p>
-                    <p>3.6. Team.</p>
-                    <p>3.7. Moodle.</p>
-                    <p>3.8. Classroom.</p>
-                    <p>3.9. Blackboard.</p>
-                    <p>3.10. Recursos para la comunicación.</p>
-                    <p>3.11. Zoom.</p>
-                    <p>3.12. Blackboard Collaborate.</p>
-                    <p>3.13. Google meet.</p>
-                    <p>3.14. Redes sociales y blogs en docencia.</p>
-                    <p>3.15. Facebook.</p>
-                    <p>3.16. Twitter.</p>
-                    <p>3.17. Linkedin.</p>
-                    <p>3.18. YouTube.</p>
-                    <p>3.19. Instagram.</p>
-                    <p>3.20. Concepto de Gamificación.</p>
-                    <p>3.21. Gamificaciones estructurales.</p>
-                    <p>3.22. Gamificaciones de contenido.</p>
-                    <p>3.23. Ludificaciones y Serious Games.</p>
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 3: Google AdWords. </h3>
+                    <p>3.1. Google AdWords.</p>
+                    <p>3.2. Fundamentos de AdWords.</p>
+                    <p>3.3. Tipos de Campañas de AdWords.</p>
+                    <p>3.4. Estructura del negocio online.</p>
+                    <p>3.5. Opciones para móviles y tablets en las campañas “Solo para la Red de
+                        Display”.</p>
+                    <p>3.6. Segmentación por idioma.</p>
+                    <p>3.7. Cómo segmentar los anuncios a ubicaciones geográficas.</p>
+                    <p>3.8. Cómo utilizar la información de subasta para comparar el rendimiento.</p>
                 </div>
             </div>
         </div>
@@ -160,13 +143,12 @@
 </template>
 
 <script>
-import InicioTic from './InicioTic.vue';
+import InicioMar from './InicioMar.vue';
 
 export default {
     components: {
-        InicioTic,
+        InicioMar,
     },
-
     mounted() {
         this.loadMercadoPagoScript(this.$refs.dropdownContainer1);
         this.loadMercadoPagoScript(this.$refs.dropdownContainer2);

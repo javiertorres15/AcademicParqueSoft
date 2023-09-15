@@ -179,6 +179,7 @@
                     <a href="/instagram">Instagram para el desarrollo de marcas</a>
                     <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
                     <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
+                    <a href="/posicionamiento.buscadores">Posicionamiento en buscadores</a>
                 </div>
             </div>
         </div>

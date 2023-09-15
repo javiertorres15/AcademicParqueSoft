@@ -281,6 +281,11 @@ const router = createRouter({
       component: () => import('../views/marketing/internet-rs-dg.vue')
     }
     ,
+    {
+      path: '/posicionamiento-buscadores',
+      name: 'posicionamiento-buscadores',
+      component: () => import('../views/marketing/posicionamiento-buscadores.vue')
+    }
   ]
 })
 

@@ -13,6 +13,7 @@
                         <h1 v-if="$route.name === 'instagram'">Instagram para el desarrollo de marcas</h1>
                         <h1 v-if="$route.name === 'posicionamientos-marcas'">Posicionamientos de marcas</h1>
                         <h1 v-if="$route.name === 'internet-rs-dg'">Internet, redes sociales y dispositivos digitales</h1>
+                        <h1 v-if="$route.name === 'posicionamiento-buscadores'">Posicionamiento en buscadores</h1>
                         <span>Marketing</span>
                     </div>
                 </div>
