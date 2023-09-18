@@ -10,7 +10,8 @@
                         <h1 v-if="$route.name === 'creacion-de-marcas'">Creación de marcas</h1>
                         <h1 v-if="$route.name === 'creacion-tiendas-online'">Creación de tiendas online</h1>
                         <h1 v-if="$route.name === 'economia-domestica'">Economía doméstica</h1>
-                        <h1 v-if="$route.name === 'ads-facebook-google'">Google Ads y Facebook Ads</h1>
+                        <h1 v-if="$route.name === 'google-ads'">Google Ads</h1>
+                        <h1 v-if="$route.name === 'meta-ads'">Facebook e Instagram Ads</h1>
                         <h1 v-if="$route.name === 'maduracion-de-proyectos'">Maduración de proyectos</h1>
                         <h1 v-if="$route.name === 'plan-de-negocios'">Plan de negocios</h1>
                         <span>Emprendimiento</span>

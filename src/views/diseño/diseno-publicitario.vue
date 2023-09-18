@@ -117,7 +117,7 @@
           <div class="row">
               <div class="col-md-4 col-sm-6">
                   <div id="ho_color" class="service_box">
-                      <img src="@/assets/imagenes/programacion/servicios/icon-java.png" />
+                      <img src="@/assets/imagenes/diseno/iconos/diseno-publicitario.png" />
                       <h3>Unidad 1: Lenguaje Java </h3>
                       <p>1.1. Introducción al curso.</p>
                       <p>1.2. ¿Qué es Java?</p>

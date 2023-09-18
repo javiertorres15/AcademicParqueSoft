@@ -12,11 +12,11 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> En este curso, aprenderás habilidades esenciales para administrar
-                    eficazmente tus finanzas personales y tomar decisiones financieras
-                    informadas.
-                    La economía doméstica trata de tomar el control de tu dinero y
-                    asegurarte de que trabaje para ti y para tus metas de vida.</p>
+                <p class="lead"> En este curso, explicaremos cómo utilizar una de las plataformas de
+                    publicidad en línea más poderosas para alcanzar a tu audiencia,
+                    promocionar tu negocio y obtener resultados medibles.
+                    Google Ads ofrece una amplia gama de herramientas y estrategias para
+                    anunciantes, desde pequeñas empresas hasta grandes corporaciones.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -75,9 +75,8 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Adultos Jóvenes y Estudiantes Universitarios, Profesionales en
-                        Desarrollo, padres y madres de familia, emprendedores y autónomos y
-                        Cualquier persona interesada en Educación Financiera.</p>
+                    <p class="lead">todas las personas que usan las soluciones y herramientas
+                        profesionales de Google.</p>
                 </div>
             </div>
         </div>
@@ -101,7 +100,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Economia domestica</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Google Ads</h2>
                 </div>
             </div>
         </div>
@@ -110,74 +109,77 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 1: Introducción a la Economía Doméstica. </h3>
-                    <p>1.1. Conceptos básicos de economía doméstica.</p>
-                    <p>1.2. Importancia de la educación financiera.</p>
-                    <p>1.3. Establecimiento de metas financieras personales.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 1: Introducción a Google Ads. </h3>
+                    <p>1.1. ¿Qué es Google Ads y por qué es importante?.</p>
+                    <p>1.2. Tipos de anuncios disponibles en Google Ads.</p>
+                    <p>1.3. Configuración de una cuenta de Google Ads.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 2: Presupuesto Personal. </h3>
-                    <p>2.1. Creación de presupuesto personal. </p>
-                    <p>2.2. Seguimiento de gastos y control del dinero.</p>
-                    <p>2.3. Estrategias para reducir gastos no esenciales.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 2: Planificación de Campañas Publicitarias. </h3>
+                    <p>2.1. Definición de objetivos publicitarios. </p>
+                    <p>2.2. Investigación de palabras clave.</p>
+                    <p>2.3. Estrategias de segmentación de audiencia.</p>
+                    <p>2.4. Presupuesto y puja en Google Ads.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 3: Ahorro y Gestión de Cuentas </h3>
-                    <p>3.1. Importancia del ahorro.</p>
-                    <p>3.2. Tipos de cuentas de ahorro.</p>
-                    <p>3.3. Estrategias de ahorro efectivas.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 3: Creación y Optimización de Anuncios </h3>
+                    <p>3.1. Diseño de anuncios efectivos.</p>
+                    <p>3.2. Uso de extensiones de anuncios.</p>
+                    <p>3.3. Pruebas A/B y optimización de anuncios.</p>
+                    <p>3.4. Calidad del anuncio y puntuación de calidad.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 4: Inversiones y Crecimiento Financiero. </h3>
-                    <p>4.1. Introducción a la inversión.</p>
-                    <p>4.2. Opciones de inversión (acciones, bonos, bienes raíces).</p>
-                    <p>4.3. Diversificación y gestión de riesgos.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 4: Gestión de Campañas y Presupuesto. </h3>
+                    <p>4.1. Configuración de campañas y grupos de anuncios.</p>
+                    <p>4.2. Programación de anuncios y ajustes de oferta.</p>
+                    <p>4.3. Seguimiento y control del presupuesto.</p>
+                    <p>4.4. Herramientas de programación y automatización.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 5: Deudas y Manejo Responsable. </h3>
-                    <p>5.1. Tipos de deudas (tarjetas de crédito, préstamos estudiantiles, hipotecas).</p>
-                    <p>5.2. Estrategias para reducir y eliminar deudas.</p>
-                    <p>5.3. Mantenimiento de un buen historial crediticio.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 5: Estrategias Avanzadas de Google Ads. </h3>
+                    <p>5.1. Segmentación por ubicación y dispositivos.</p>
+                    <p>5.2. Estrategias de puja avanzadas.</p>
+                    <p>5.3. Remarketing y público similar.</p>
+                    <p>5.4. Informes y análisis de rendimiento.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 6: Planificación Financiera a Largo Plazo </h3>
-                    <p>6.1. Planificación para la jubilación.</p>
-                    <p>6.2. Seguro de vida y planificación patrimonial.</p>
-                    <p>6.3. Planificación de herencia y testamentos.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 6: Cumplimiento Legal y Ético. </h3>
+                    <p>6.1. Directrices de Google Ads y políticas publicitarias.</p>
+                    <p>6.2. Buenas prácticas en publicidad en línea.</p>
+                    <p>6.3. Consideraciones éticas en la publicidad digital.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 7: Implementación y Presentación del Plan de Negocios. </h3>
-                    <p>7.1. Estudios de casos reales de éxito financiero..</p>
-                    <p>7.2. Aplicación de conceptos aprendidos en situaciones de la vida real.</p>
-                    <p>7.3. Lecciones de errores financieros comunes.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
+                    <h3>Unidad 7: Casos Prácticos y Ejemplos. </h3>
+                    <p>7.1. Estudios de casos reales de campañas exitosas.</p>
+                    <p>7.2. Creación y optimización de campañas en tiempo real.</p>
+                    <p>7.3. Lecciones aprendidas de campañas anteriores.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" />
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final.</p>
-                    <p>8.2. Evaluación de proyectos personales de presupuesto y planificación
-                        financiera.</p>
+                    <p>8.2. Evaluación de campañas publicitarias individuales .</p>
                     <p>8.3. Entrega de certificados aprobados.</p>
                 </div>
             </div>

@@ -12,11 +12,12 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> En este curso, aprenderás habilidades esenciales para administrar
-                    eficazmente tus finanzas personales y tomar decisiones financieras
-                    informadas.
-                    La economía doméstica trata de tomar el control de tu dinero y
-                    asegurarte de que trabaje para ti y para tus metas de vida.</p>
+                <p class="lead"> En este curso, explicaremos cómo utilizar dos de las principales
+                    plataformas de publicidad en redes sociales para llegar a tu audiencia,
+                    promocionar tu negocio y obtener resultados medibles.
+                    Facebook e Instagram Ads ofrecen herramientas de segmentación
+                    avanzadas y oportunidades de publicidad efectiva para empresas de todos
+                    los tamaños.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -75,9 +76,10 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Adultos Jóvenes y Estudiantes Universitarios, Profesionales en
-                        Desarrollo, padres y madres de familia, emprendedores y autónomos y
-                        Cualquier persona interesada en Educación Financiera.</p>
+                    <p class="lead">Profesionales de publicidad, marketing digital y redes sociales
+                        que deseen iniciarse en la planificación de campañas de anuncios en
+                        social media y necesiten, para ello, comprender el funcionamiento de la
+                        herramienta de Facebook e Instagram Ads.</p>
                 </div>
             </div>
         </div>
@@ -101,7 +103,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Economia domestica</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Facebook e Instagram Ads</h2>
                 </div>
             </div>
         </div>
@@ -110,74 +112,74 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 1: Introducción a la Economía Doméstica. </h3>
-                    <p>1.1. Conceptos básicos de economía doméstica.</p>
-                    <p>1.2. Importancia de la educación financiera.</p>
-                    <p>1.3. Establecimiento de metas financieras personales.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 1: Introducción a Facebook e Instagram Ads. </h3>
+                    <p>1.1. Importancia de la publicidad en redes sociales.</p>
+                    <p>1.2. Diferencias entre Facebook e Instagram Ads.</p>
+                    <p>1.3. Configuración de una cuenta publicitaria.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 2: Presupuesto Personal. </h3>
-                    <p>2.1. Creación de presupuesto personal. </p>
-                    <p>2.2. Seguimiento de gastos y control del dinero.</p>
-                    <p>2.3. Estrategias para reducir gastos no esenciales.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 2: Planificación de Campañas Publicitarias. </h3>
+                    <p>2.1. Definición de objetivos publicitarios en redes sociales.</p>
+                    <p>2.2. Investigación de audiencia y segmentación.</p>
+                    <p>2.3. Presupuesto y programación de anuncios.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 3: Ahorro y Gestión de Cuentas </h3>
-                    <p>3.1. Importancia del ahorro.</p>
-                    <p>3.2. Tipos de cuentas de ahorro.</p>
-                    <p>3.3. Estrategias de ahorro efectivas.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 3: Creación de Anuncios Efectivos. </h3>
+                    <p>3.1. Diseño de anuncios creativos y atractivos.</p>
+                    <p>3.2. Uso de imágenes, videos y creatividad.</p>
+                    <p>3.3. Pruebas A/B y optimización de anuncios.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 4: Inversiones y Crecimiento Financiero. </h3>
-                    <p>4.1. Introducción a la inversión.</p>
-                    <p>4.2. Opciones de inversión (acciones, bonos, bienes raíces).</p>
-                    <p>4.3. Diversificación y gestión de riesgos.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 4: Gestión de Campañas y Estrategias Avanzadas. </h3>
+                    <p>4.1. Configuración de campañas y grupos de anuncios.</p>
+                    <p>4.2. Estrategias de puja y ajustes de oferta.</p>
+                    <p>4.3. Uso de públicos personalizados y similares.</p>
+                    <p>4.4. Estrategias de remarketing.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 5: Deudas y Manejo Responsable. </h3>
-                    <p>5.1. Tipos de deudas (tarjetas de crédito, préstamos estudiantiles, hipotecas).</p>
-                    <p>5.2. Estrategias para reducir y eliminar deudas.</p>
-                    <p>5.3. Mantenimiento de un buen historial crediticio.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 5: Seguimiento y Medición de Resultados </h3>
+                    <p>5.1. Instalación y configuración del píxel de seguimiento.</p>
+                    <p>5.2. Informes de rendimiento y métricas clave.</p>
+                    <p>5.3. Interpretación de resultados y toma de decisiones.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 6: Planificación Financiera a Largo Plazo </h3>
-                    <p>6.1. Planificación para la jubilación.</p>
-                    <p>6.2. Seguro de vida y planificación patrimonial.</p>
-                    <p>6.3. Planificación de herencia y testamentos.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 6: Cumplimiento Legal y Ético. </h3>
+                    <p>6.1. Directrices de publicidad en redes sociales..</p>
+                    <p>6.2. Políticas de publicidad en Facebook e Instagram.</p>
+                    <p>6.3. Consideraciones éticas en la publicidad en redes sociales.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
-                    <h3>Unidad 7: Implementación y Presentación del Plan de Negocios. </h3>
-                    <p>7.1. Estudios de casos reales de éxito financiero..</p>
-                    <p>7.2. Aplicación de conceptos aprendidos en situaciones de la vida real.</p>
-                    <p>7.3. Lecciones de errores financieros comunes.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <h3>Unidad 7: Casos Prácticos y Ejemplos. </h3>
+                    <p>7.1. Estudios de casos reales de campañas exitosas.</p>
+                    <p>7.2. Creación y optimización de campañas en tiempo real.</p>
+                    <p>7.3. Lecciones aprendidas de campañas anteriores.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final.</p>
-                    <p>8.2. Evaluación de proyectos personales de presupuesto y planificación
-                        financiera.</p>
+                    <p>8.2. Evaluación de campañas publicitarias individuales .</p>
                     <p>8.3. Entrega de certificados aprobados.</p>
                 </div>
             </div>

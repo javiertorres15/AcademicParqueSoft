@@ -77,7 +77,8 @@
                     <a href="/creacion-de-marcas">Creación de marcas</a>
                     <a href="/creacion-tiendas-online">Creación de tiendas online</a>
                     <a href="/economia-domestica">Economía doméstica</a>
-                    <a href="/ads-facebook-google">Google Ads y Facebook Ads</a>
+                    <a href="/google-ads">Google Ads</a>
+                    <a href="/meta-ads">Facebook e Instagram Ads</a>
                     <a href="/maduracion-de-proyectos">Maduración de proyectos</a>
                     <a href="/plan-de-negocios">Plan de negocios</a>
                 </div>

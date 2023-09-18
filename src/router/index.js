@@ -92,9 +92,15 @@ const router = createRouter({
     }
     ,
     {
-      path: '/ads-facebook-google',
-      name: 'ads-facebook-google',
-      component: () => import('../views/emprendimiento/ads-facebook-google.vue')
+      path: '/google-ads',
+      name: 'google-ads',
+      component: () => import('../views/emprendimiento/google-ads.vue')
+    }
+    ,
+    {
+      path: '/meta-ads',
+      name: 'meta-ads',
+      component: () => import('../views/emprendimiento/meta-ads.vue')
     }
     ,
     {
