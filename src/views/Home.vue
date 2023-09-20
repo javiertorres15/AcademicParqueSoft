@@ -81,6 +81,7 @@
                     <a href="/meta-ads">Facebook e Instagram Ads</a>
                     <a href="/maduracion-de-proyectos">Maduración de proyectos</a>
                     <a href="/plan-de-negocios">Plan de negocios</a>
+                    <a href="/gestion-procesos">Gestión de procesos</a>
                 </div>
             </div>
         </div>
@@ -180,7 +181,7 @@
                     <a href="/instagram">Instagram para el desarrollo de marcas</a>
                     <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
                     <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                    <a href="/posicionamiento.buscadores">Posicionamiento en buscadores</a>
+                    <a href="/posicionamiento-buscadores">Posicionamiento en buscadores</a>
                 </div>
             </div>
         </div>

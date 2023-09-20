@@ -184,7 +184,6 @@
 </div>
 </template>
 
-  
 <script>
 import InicioEmpren from './InicioEmpren.vue';
 
@@ -209,7 +208,6 @@ export default {
 };
 </script>
 
-  
 <style scoped>
 @import '../css/estiloCursos.css';
 

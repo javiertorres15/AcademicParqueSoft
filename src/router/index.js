@@ -115,6 +115,12 @@ const router = createRouter({
       component: () => import('../views/emprendimiento/plan-de-negocios.vue')
     }
     ,
+    {
+      path: '/gestion-procesos',
+      name: 'gestion-procesos',
+      component: () => import('../views/emprendimiento/gestion-procesos.vue')
+    }
+    ,
     // RUTAS CURSOS DE Ofimatica
     {
       path: '/excel-basico',

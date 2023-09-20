@@ -11,7 +11,12 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> El diplomado en Posicionamiento en Buscadores ofrece herramientas técnicas para mejorar la visibilidad de una marca en motores de búsqueda como Google y Bing. Estas estrategias buscan mejorar la posición de una página web en los resultados de búsqueda, ya que cada vez más personas utilizan la web para buscar información.</p>
+                <p class="lead"> El curso de Posicionamiento en Buscadores es una
+                    oportunidad única para explorar las estrategias y técnicas que te
+                    permitirán destacar en la era digital. En este programa, te sumergirás en
+                    el mundo del SEO (Search Engine Optimization) y aprenderás cómo
+                    mejorar la visibilidad de tu sitio web en los motores de búsqueda como
+                    Google, lo que es esencial para el éxito en línea.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -70,7 +75,15 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead"> </p>
+                    <p class="lead">Este curso de Posicionamiento en Buscadores está diseñado para
+                        profesionales de marketing digital, propietarios de sitios web,
+                        especialistas en SEO, emprendedores, estudiantes y cualquier persona
+                        interesada en mejorar la visibilidad de un sitio web en los motores de
+                        búsqueda. No se requieren conocimientos previos en SEO, ya que el curso
+
+                        abarca desde conceptos fundamentales hasta estrategias avanzadas,
+                        brindando las habilidades necesarias para optimizar eficazmente el
+                        rendimiento en línea de cualquier sitio web. </p>
                 </div>
             </div>
         </div>
@@ -94,7 +107,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Excel Basico</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Posicionamiento en buscadores</h2>
                 </div>
             </div>
         </div>
@@ -104,37 +117,62 @@
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
-                    <h3>Unidad 1: Posicionamiento en Buscadores. </h3>
-                    <p>1.1. ¿Cómo funcionan los grandes motores de búsqueda?.</p>
-                    <p>1.2. Estrategias para la asociación de nuestra URL a un término de búsqueda.</p>
-                    <p>1.3. Compitiendo en la lista (estrategias de popularidad).</p>
-                    <p>1.4. Cosas que jamás hay que hacer.</p>
+                    <h3>Unidad 1: Introducción al Posicionamiento en Buscadores </h3>
+                    <p>1.1. Importancia del SEO en el marketing digital.</p>
+                    <p>1.2. Evolución de los motores de búsqueda.</p>
+                    <p>1.3. Investigación de Palabras Clave</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
-                    <h3>Unidad 2: SEO. </h3>
-                    <p>2.1. ¿Cómo adaptar el SEO a cada CMS?. </p>
-                    <p>2.2. Tutorial de posicionamiento web desde cero.</p>
-                    <p>2.3. Penalidades de Google.</p>
-                    <p>2.4. El plan de marketing o plan estratégico</p>
-                    <p>2.5. Glosario básico de SEO</p>
+                    <h3>Unidad 2: Selección de palabras clave relevantes. </h3>
+                    <p>2.1. Herramientas de investigación de palabras clave. </p>
+                    <p>2.2. Estrategias de palabras clave a largo plazo.</p>
+                    <p>2.3. Optimización en Página.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
-                    <h3>Unidad 3: Google AdWords. </h3>
-                    <p>3.1. Google AdWords.</p>
-                    <p>3.2. Fundamentos de AdWords.</p>
-                    <p>3.3. Tipos de Campañas de AdWords.</p>
-                    <p>3.4. Estructura del negocio online.</p>
-                    <p>3.5. Opciones para móviles y tablets en las campañas “Solo para la Red de
-                        Display”.</p>
-                    <p>3.6. Segmentación por idioma.</p>
-                    <p>3.7. Cómo segmentar los anuncios a ubicaciones geográficas.</p>
-                    <p>3.8. Cómo utilizar la información de subasta para comparar el rendimiento.</p>
+                    <h3>Unidad 3: Mejora de la estructura del sitio web. </h3>
+                    <p>3.1. Creación de contenido optimizado para SEO.</p>
+                    <p>3.2. Uso de etiquetas HTML y meta descripciones.</p>
+                    <p>3.3. Optimización Fuera de Página.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 4: Estrategias de construcción de enlaces. </h3>
+                    <p>4.1. Importancia de la autoridad del dominio.</p>
+                    <p>4.2. Gestión de perfiles en redes sociales.</p>
+                    <p>4.3. Herramientas de Análisis de SEO</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 5: Uso de Google Analytics. </h3>
+                    <p>5.1. Herramientas de seguimiento de posiciones.</p>
+                    <p>5.2. Evaluación del rendimiento del sitio web.</p>
+                    <p>5.3. SEO Local y Móvil.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 6: Estrategias de SEO para búsquedas locales. </h3>
+                    <p>6.1. Optimización para dispositivos móviles.</p>
+                    <p>6.2. Estrategias Avanzadas de SEO.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <h3>Unidad 7: Técnicas de SEO avanzadas. </h3>
+                    <p>7.1. Actualizaciones de algoritmos de Google.</p>
+                    <p>7.2. Casos de estudio de éxito en SEO.</p>
                 </div>
             </div>
         </div>
