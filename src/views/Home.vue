@@ -130,7 +130,7 @@
                     <a href="/ciudadano-digital1">Ciudadano digital nivel 1</a>
                     <a href="/ciudadano-digital2">Ciudadano digital nivel 2</a>
                     <a href="/alfabetizacion-digital">Alfabetización digital</a>
-                    <a href="/herranientas-comunicativas">Herramientas comunicativas</a>
+                    <a href="/herramientas-comunicativas">Herramientas comunicativas</a>
                     <a href="/competencias-comunicativas">Competencias comunicativas para docentes</a>
                 </div>
             </div>

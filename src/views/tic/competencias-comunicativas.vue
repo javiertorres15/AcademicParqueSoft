@@ -12,7 +12,13 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"></p>
+                <p class="lead">Bienvenidos al Curso de Competencias Comunicativas Digitales diseñado
+                    específicamente para docentes universitarios. En este programa,
+                    exploramos cómo aprovechar las competencias comunicativas digitales
+                    para enriquecer tu enseñanza, fomentar la participación de los
+                    estudiantes y adaptarse eficazmente a un entorno académico cada vez
+                    más digital. Esta capacitación está diseñada para que puedas maximizar
+                    tu impacto educativo en la era digital.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -71,7 +77,12 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead"> </p>
+                    <p class="lead">Este curso está dirigido a docentes universitarios que
+                        deseen mejorar sus habilidades de comunicación en entornos digitales,
+                        ya sea para la enseñanza presencial, en línea o mixta. También puede
+                        beneficiar a asistentes de enseñanza, administradores académicos y
+                        profesionales de la educación interesados en la enseñanza en línea y
+                        la mejora de la calidad educativa.</p>
                 </div>
             </div>
         </div>
@@ -95,7 +106,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Excel Basico</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Competencias comunicativas digitales para docentes universitarios</h2>
                 </div>
             </div>
         </div>
@@ -105,53 +116,47 @@
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
-                    <h3>Unidad 1: Competencias TIC para los Docentes de Educación Superior. </h3>
-                    <p>1.1. Competencias digitales y educación.</p>
-                    <p>1.2. Estándares y Competencias TIC de los docentes.</p>
-                    <p>1.3. Lineamientos de competencias TIC del MEN.</p>
-                    <p>1.4. Características de un docente TIC: dimensiones de sus competencias.</p>
-                    <p>1.5. Modelo de Competencias TIC para docentes de educación superior.</p>
-                    <p>1.6. Niveles de las competencias TIC para docentes de educación superior.</p>
-                    <p>1.7. Educación 4.0.</p>
+                    <h3>Unidad 1: Fundamentos de la Comunicación Digital.</h3>
+                    <p>1.1. Introducción a la comunicación digital en la educación universitaria.</p>
+                    <p>1.2. Herramientas y plataformas esenciales para docentes.</p>
+                    <p>1.3. Ética y responsabilidad en la comunicación en línea.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
-                    <h3>Unidad 2: Producción de Materiales Didácticos Digitales. </h3>
-                    <p>2.1. Pautas en el diseño de guía didáctica. </p>
-                    <p>2.2. Criterios de calidad en material didáctico digital (MDD).</p>
-                    <p>2.3. Guía Para La Producción Y Uso De Materiales Didácticos Digitales.</p>
+                    <h3>Unidad 2: Comunicación Escrita en Línea. </h3>
+                    <p>2.1. Técnicas de escritura efectiva para plataformas digitales. </p>
+                    <p>2.2. Uso de correos electrónicos, foros y redes sociales académicas.</p>
+                    <p>2.3. Evaluación y retroalimentación escrita en línea.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
-                    <h3>Unidad 3: Herramientas y Recursos Educativos para el Aprendizaje en
-                        Entornos Digitales. </h3>
-                    <p>3.1. Recursos digitales (vídeos, audios, webs, etc.).</p>
-                    <p>3.2. TIC en el aula y su aplicación.</p>
-                    <p>3.3. TIC en la web y su aplicación.</p>
-                    <p>3.4. Redes Sociales y sus aplicaciones en la docencia..</p>
-                    <p>3.5. Plataformas digitales para de apoyo al aprendizaje.</p>
-                    <p>3.6. Team.</p>
-                    <p>3.7. Moodle.</p>
-                    <p>3.8. Classroom.</p>
-                    <p>3.9. Blackboard.</p>
-                    <p>3.10. Recursos para la comunicación.</p>
-                    <p>3.11. Zoom.</p>
-                    <p>3.12. Blackboard Collaborate.</p>
-                    <p>3.13. Google meet.</p>
-                    <p>3.14. Redes sociales y blogs en docencia.</p>
-                    <p>3.15. Facebook.</p>
-                    <p>3.16. Twitter.</p>
-                    <p>3.17. Linkedin.</p>
-                    <p>3.18. YouTube.</p>
-                    <p>3.19. Instagram.</p>
-                    <p>3.20. Concepto de Gamificación.</p>
-                    <p>3.21. Gamificaciones estructurales.</p>
-                    <p>3.22. Gamificaciones de contenido.</p>
-                    <p>3.23. Ludificaciones y Serious Games.</p>
+                    <h3>Unidad 3: Comunicación Oral en Entornos Virtuales. </h3>
+                    <p>3.1. Estrategias para impartir clases en línea de manera efectiva.</p>
+                    <p>3.2. Técnicas de presentación y moderación en webinars y videoconferencias.</p>
+                    <p>3.3. Fomentar la participación activa de los estudiantes en línea.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <h3>Unidad 4: Creación de Contenido Digital Educativo </h3>
+                    <p>4.1. Diseño de materiales didácticos digitales.</p>
+                    <p>4.2. Uso de herramientas multimedia y recursos interactivos.</p>
+                    <p>4.3. Evaluación de la calidad y efectividad del contenido digital.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <h3>Unidad 4: Inclusión y Diversidad en la Comunicación Digital </h3>
+                    <p>5.1. Promoción de la inclusión en línea.</p>
+                    <p>5.2. Atención a las necesidades de estudiantes con diversidad de habilidades y
+                        culturas.</p>
+                    <p>5.3. Estrategias para prevenir y abordar conflictos en línea.</p>
                 </div>
             </div>
         </div>
