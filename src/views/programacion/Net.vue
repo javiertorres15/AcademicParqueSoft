@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
                     <h3>Unidad 1: Introducción a .Net </h3>
                     <p>1.1. ¿Qué es .NET?</p>
                     <p>1.2. NET Framework.</p>
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
                     <h3>Unidad 2: El IDE</h3>
                     <p>2.1. La Página de Inicio. </p>
                     <p>2.2. Plantilla de Aplicación.</p>
@@ -138,7 +138,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
                     <h3>Unidad Unidad 3: Fundamentos de
                         programación</h3>
                     <p>3.1. Las Variables.</p>
@@ -152,7 +152,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
                     <h3>Unidad 4: Estructuras de control </h3>
                     <p>4.1. Sentencias If.</p>
                     <p>4.2. Estructura else if.</p>
@@ -164,7 +164,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
                     <h3>Unidad 5: Procedimientos.</h3>
                     <p>5.1. Procedimientos. </p>
                     <p>5.2. Procedimientos Sub. </p>

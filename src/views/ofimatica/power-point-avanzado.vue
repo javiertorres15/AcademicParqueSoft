@@ -109,7 +109,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 1: Operaciones
                         Avanzadas con Texto. </h3>
                     <p>1.1.Selección de texto.</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 2: Edición Avanzada de
                         las Diapositivas.</h3>
                     <p>2.1. Utilizar Colores o Texturas
@@ -143,7 +143,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 3: Trabajo Avanzado con
                         Objetos. </h3>
                     <p>3.1. Tablas.</p>
@@ -153,7 +153,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 4: Revisar, Documentar e
                         Imprimir una Presentación.</h3>
                     <p>4.1. Trabajar con gráficos.</p>
@@ -167,7 +167,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 5: Presentación de
                         Diapositivas.</h3>
                     <p>5.1. Animación de Elementos.</p>

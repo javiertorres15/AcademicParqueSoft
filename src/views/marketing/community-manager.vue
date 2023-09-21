@@ -113,7 +113,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/manager.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/manager.png" alt="#" />
                     <h3>Unidad 1: Introducción al Community Management. </h3>
                     <p>1.1. ¿Qué es un Community Manager?</p>
                     <p>1.2. Evolución del marketing en redes sociales.</p>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/manager.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/manager.png" alt="#" />
                     <h3>Unidad 2: Creación de contenido de calidad.</h3>
                     <p>2.1. Planificación de calendario editorial. </p>
                     <p>2.2. Estrategias de storytelling.</p>
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/manager.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/manager.png" alt="#" />
                     <h3>Unidad 3: Plataformas principales (Facebook, Twitter, Instagram, LinkedIn,
                         etc.). </h3>
                     <p>3.1. Programación de publicaciones.</p>
@@ -140,7 +140,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/manager.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/manager.png" alt="#"/>
                     <h3>Unidad 4: Analítica y Métricas </h3>
                     <p>4.1. Herramientas de análisis.</p>
                     <p>4.2. Interpretación de datos.</p>
@@ -149,7 +149,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/manager.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/manager.png" alt="#"/>
                     <h3>Unidad 5:5 Gestión de Crisis en Línea</h3>
                     <p>5.1. Identificación y prevención de problemas.</p>
                     <p>5.2. Estrategias de gestión de crisis.</p>
@@ -158,7 +158,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/manager.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/manager.png" alt="#"/>
                     <h3>Unidad 6: Comunidades en Línea </h3>
                     <p>6.1. Creación y moderación de comunidades.</p>
                     <p>6.2. Fomentar la participación y el compromiso.</p>

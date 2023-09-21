@@ -116,7 +116,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 1: Introducción al Posicionamiento en Buscadores </h3>
                     <p>1.1. Importancia del SEO en el marketing digital.</p>
                     <p>1.2. Evolución de los motores de búsqueda.</p>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 2: Selección de palabras clave relevantes. </h3>
                     <p>2.1. Herramientas de investigación de palabras clave. </p>
                     <p>2.2. Estrategias de palabras clave a largo plazo.</p>
@@ -134,7 +134,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 3: Mejora de la estructura del sitio web. </h3>
                     <p>3.1. Creación de contenido optimizado para SEO.</p>
                     <p>3.2. Uso de etiquetas HTML y meta descripciones.</p>
@@ -143,7 +143,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 4: Estrategias de construcción de enlaces. </h3>
                     <p>4.1. Importancia de la autoridad del dominio.</p>
                     <p>4.2. Gestión de perfiles en redes sociales.</p>
@@ -152,7 +152,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 5: Uso de Google Analytics. </h3>
                     <p>5.1. Herramientas de seguimiento de posiciones.</p>
                     <p>5.2. Evaluación del rendimiento del sitio web.</p>
@@ -161,7 +161,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 6: Estrategias de SEO para búsquedas locales. </h3>
                     <p>6.1. Optimización para dispositivos móviles.</p>
                     <p>6.2. Estrategias Avanzadas de SEO.</p>
@@ -169,7 +169,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/psc-buscadores.png" alt="#"/>
                     <h3>Unidad 7: Técnicas de SEO avanzadas. </h3>
                     <p>7.1. Actualizaciones de algoritmos de Google.</p>
                     <p>7.2. Casos de estudio de éxito en SEO.</p>

@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" alt="#"/>
                     <h3>Unidad 1: Fundamentos del Posicionamiento de Marca </h3>
                     <p>1.1. Introducción al posicionamiento de marca en el entorno digital.</p>
                     <p>1.2. Identificación de la identidad y valores de la marca.</p>
@@ -124,7 +124,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" alt="#"/>
                     <h3>Unidad 2: SEO y Optimización de Contenido </h3>
                     <p>2.1. Estrategias de SEO para mejorar la visibilidad en motores de búsqueda. </p>
                     <p>2.2. Investigación de palabras clave y optimización de contenido.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" alt="#">
                     <h3>Unidad 3: Estrategias de Redes Sociales. </h3>
                     <p>3.1. Creación de perfiles efectivos en redes sociales.</p>
                     <p>3.2. Planificación y programación de contenido en redes sociales.</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" alt="#"/>
                     <h3>Unidad 4: Marketing de Contenidos. </h3>
                     <p>4.1. Diseño y desarrollo de estrategias de marketing de contenidos.</p>
                     <p>4.2. Creación de contenido atractivo y de valor.</p>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/posicionamiento-marcas.png" alt="#"/>
                     <h3>Unidad 5: Análisis y Mejora Continua. </h3>
                     <p>5.1. Uso de herramientas de análisis y métricas clave.</p>
                     <p>5.2. Interpretación de datos para tomar decisiones informadas.</p>

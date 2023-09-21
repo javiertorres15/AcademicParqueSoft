@@ -120,7 +120,7 @@
           <div class="row">
               <div class="col-md-4 col-sm-6">
                   <div id="ho_color" class="service_box">
-                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" />
+                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#"/>
                       <h3>Unidad 1: Lenguaje Java </h3>
                       <p>1.1. Introducción al curso.</p>
                       <p>1.2. ¿Qué es Java?</p>
@@ -132,7 +132,7 @@
               </div>
               <div class="col-md-4 col-sm-6">
                   <div id="ho_color" class="service_box">
-                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" />
+                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#"/>
                       <h3>Unidad 2: Variables y operadores</h3>
                       <p>2.1. Variable y tipos de datos. </p>
                       <p>2.2. Operadores.</p>
@@ -142,7 +142,7 @@
               </div>
               <div class="col-md-4 col-sm-6">
                   <div id="ho_color" class="service_box">
-                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" />
+                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#"/>
                       <h3>Unidad 3: Sentencias condicionales y
                           repetitivas.</h3>
                       <p>3.1. Sentencia condicional if.</p>
@@ -154,7 +154,7 @@
               </div>
               <div class="col-md-4 col-sm-6">
                   <div id="ho_color" class="service_box">
-                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" />
+                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#"/>
                       <h3>Unidad 4: Excepciones, funciones y
                           recursividad.</h3>
                       <p>4.1. Excepciones.</p>
@@ -165,7 +165,7 @@
               </div>
               <div class="col-md-4 col-sm-6">
                   <div id="ho_color" class="service_box">
-                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" />
+                      <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#"/>
                       <h3>Unidad 5: Programación orientada a
                           Objetos.</h3>
                       <p>5.1. Clases y Objetos. </p>

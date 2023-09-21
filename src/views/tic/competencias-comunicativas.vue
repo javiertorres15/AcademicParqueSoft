@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" alt="#"/>
                     <h3>Unidad 1: Fundamentos de la Comunicación Digital.</h3>
                     <p>1.1. Introducción a la comunicación digital en la educación universitaria.</p>
                     <p>1.2. Herramientas y plataformas esenciales para docentes.</p>
@@ -124,7 +124,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" alt="#"/>
                     <h3>Unidad 2: Comunicación Escrita en Línea. </h3>
                     <p>2.1. Técnicas de escritura efectiva para plataformas digitales. </p>
                     <p>2.2. Uso de correos electrónicos, foros y redes sociales académicas.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" alt="#"/>
                     <h3>Unidad 3: Comunicación Oral en Entornos Virtuales. </h3>
                     <p>3.1. Estrategias para impartir clases en línea de manera efectiva.</p>
                     <p>3.2. Técnicas de presentación y moderación en webinars y videoconferencias.</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" alt="#"/>
                     <h3>Unidad 4: Creación de Contenido Digital Educativo </h3>
                     <p>4.1. Diseño de materiales didácticos digitales.</p>
                     <p>4.2. Uso de herramientas multimedia y recursos interactivos.</p>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" />
+                    <img src="@/assets/imagenes/tic/iconos/competencia-ciudadana.jpg" alt="#"/>
                     <h3>Unidad 4: Inclusión y Diversidad en la Comunicación Digital </h3>
                     <p>5.1. Promoción de la inclusión en línea.</p>
                     <p>5.2. Atención a las necesidades de estudiantes con diversidad de habilidades y

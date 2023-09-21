@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" alt="#"/>
                     <h3>Unidad 1: Introducción al Marketing Digital. </h3>
                     <p>1.1. Fundamentos y evolución.</p>
                     <p>1.2. Tendencias actuales.</p>
@@ -123,7 +123,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" alt="#"/>
                     <h3>Unidad 2: Optimización de Motores de Búsqueda (SEO).</h3>
                     <p>2.1. Estrategias de optimización en página y fuera de página. </p>
                     <p>2.2. Palabras clave y análisis de competidores.</p>
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" alt="#"/>
                     <h3>Unidad 3: Publicidad en Motores de Búsqueda (SEM) </h3>
                     <p>3.1. Creación de campañas en Google AdWords.</p>
                     <p>3.2. Gestión de presupuesto y pujas.</p>
@@ -139,7 +139,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" alt="#"/>
                     <h3>Unidad 4: Marketing de Contenidos </h3>
                     <p>4.1. Creación de contenido de calidad.</p>
                     <p>4.2. Estrategias de blog y redes sociales.</p>
@@ -148,7 +148,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" alt="#"/>
                     <h3>Unidad 5: Redes Sociales y Marketing en Redes Sociales</h3>
                     <p>5.1. Estrategias de redes sociales.</p>
                     <p>5.2. Publicidad en plataformas sociales.</p>
@@ -157,7 +157,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/marketing-digital.png" alt="#"/>
                     <h3>Unidad 6: Analítica Web </h3>
                     <p>6.1. Herramientas de análisis (Google Analytics).</p>
                     <p>6.2. Fomentar la participación y el compromiso.</p>

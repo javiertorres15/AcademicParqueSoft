@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#" />
                     <h3>Unidad 1: Introducción a JavaScript. </h3>
                     <p>1.1. Introducción al curso.</p>
                     <p>1.2. JavaScript.</p>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
                     <h3>Unidad 2: Primitivas de JavaScript.</h3>
                     <p>2.1. Primer archivo en JavaScript. </p>
                     <p>2.2. Tipos de datos y variables.</p>
@@ -136,7 +136,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
                     <h3>Unidad 3: Funciones.</h3>
                     <p>3.1. Funciones.</p>
                     <p>3.2. Funciones con parámetros.</p>
@@ -147,7 +147,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
                     <h3>Unidad 4: Programación Orientada a
                         Objetos.</h3>
                     <p>4.1. La programación orientada a
@@ -158,7 +158,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
                     <h3>Unidad 5: Modificando el DOM.</h3>
                     <p>5.1. Introducción al dom.</p>
                     <p>5.2. Creando nodos en el dom. </p>

@@ -1,11 +1,11 @@
 <template>
     <section class=" galery container">
-    <img src="@/assets/Imagenes/diseno.png" alt="#">
-    <img src="@/assets/Imagenes/ofimatica.png" alt="#">
-    <img src="@/assets/Imagenes/programacion.png" alt="#">
-    <img src="@/assets/Imagenes/marketing.png" alt="#">
-    <img src="@/assets/Imagenes/tic02.png" alt="#">
-    <img src="@/assets/Imagenes/emprendimiento.png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/0.png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/5.png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/7.png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/9.png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/emprendimiento (1).png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/programacion1.png" alt="#">
   </section>
 <br>
 <h1 class="text-center">Bienestar Institucional</h1>

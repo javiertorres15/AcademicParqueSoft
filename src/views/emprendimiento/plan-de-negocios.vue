@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#"/>
                     <h3>Unidad 1: Introducción al Plan de Negocios. </h3>
                     <p>1.1. ¿Qué es un plan de negocios y su importancia?.</p>
                     <p>1.2. Objetivos y beneficios de un plan de negocios.</p>
@@ -121,7 +121,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#"/>
                     <h3>Unidad 2: Análisis de Mercado y Competencia. </h3>
                     <p>2.1. Investigación de mercado y su relevancia. </p>
                     <p>2.2. Identificación y segmentación de mercado.</p>
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
                     <h3>Unidad 3: Desarrollo de la Estrategia de Negocio </h3>
                     <p>3.1. Definición de la idea de negocio.</p>
                     <p>3.2. Misión, visión y valores empresariales.</p>
@@ -141,7 +141,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#"/>
                     <h3>Unidad 4: Plan Financiero y de Operaciones. </h3>
                     <p>4.1. Estimación de costos iniciales.</p>
                     <p>4.2. Proyecciones de ingresos y gastos.</p>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#"/>
                     <h3>Unidad 5: Implementación y Presentación del Plan de Negocios. </h3>
                     <p>5.1. Desarrollo del plan de implementación.</p>
                     <p>5.2. Planificación del seguimiento y control.</p>

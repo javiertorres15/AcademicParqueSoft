@@ -110,7 +110,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#" />
                     <h3>Unidad 1: Introducción a la Economía Doméstica. </h3>
                     <p>1.1. Conceptos básicos de economía doméstica.</p>
                     <p>1.2. Importancia de la educación financiera.</p>
@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 2: Presupuesto Personal. </h3>
                     <p>2.1. Creación de presupuesto personal. </p>
                     <p>2.2. Seguimiento de gastos y control del dinero.</p>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 3: Ahorro y Gestión de Cuentas </h3>
                     <p>3.1. Importancia del ahorro.</p>
                     <p>3.2. Tipos de cuentas de ahorro.</p>
@@ -137,7 +137,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 4: Inversiones y Crecimiento Financiero. </h3>
                     <p>4.1. Introducción a la inversión.</p>
                     <p>4.2. Opciones de inversión (acciones, bonos, bienes raíces).</p>
@@ -146,7 +146,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 5: Deudas y Manejo Responsable. </h3>
                     <p>5.1. Tipos de deudas (tarjetas de crédito, préstamos estudiantiles, hipotecas).</p>
                     <p>5.2. Estrategias para reducir y eliminar deudas.</p>
@@ -155,7 +155,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 6: Planificación Financiera a Largo Plazo </h3>
                     <p>6.1. Planificación para la jubilación.</p>
                     <p>6.2. Seguro de vida y planificación patrimonial.</p>
@@ -164,7 +164,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 7: Implementación y Presentación del Plan de Negocios. </h3>
                     <p>7.1. Estudios de casos reales de éxito financiero..</p>
                     <p>7.2. Aplicación de conceptos aprendidos en situaciones de la vida real.</p>
@@ -173,7 +173,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/economia-domestica.png" alt="#"/>
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final.</p>
                     <p>8.2. Evaluación de proyectos personales de presupuesto y planificación

@@ -110,7 +110,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" alt="#"/>
                     <h3>Unidad 1: Primeros pasos con
                         Python. </h3>
                     <p>1.1. Introducción al curso de Python.</p>
@@ -120,7 +120,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" alt="#"/>
                     <h3>Unidad 2: Variables y operadores en
                         Python</h3>
                     <p>2.1. Introducción a la unidad 2. </p>
@@ -130,7 +130,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" alt="#"/>
                     <h3>Unidad 3: Unidad 3. Condicionales y ciclos en
                         Python</h3>
                     <p>3.1. Introducción a la unidad 3.</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" alt="#"/>
                     <h3>Unidad 4: Funciones y estructuras de
                         datos en Python</h3>
                     <p>4.1. Introducción a la unidad 4.</p>
@@ -152,7 +152,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-python.png" alt="#"/>
                     <h3>Unidad 5: Programación orientada a
                         Objetos en Python.</h3>
                     <p>5.1. Introducción a la unidad 5. </p>

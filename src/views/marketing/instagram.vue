@@ -117,7 +117,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#" />
                     <h3>Unidad 1: Introducción a Instagram como Plataforma de Marketing. </h3>
                     <p>1.1. Importancia de Instagram en el panorama del marketing.</p>
                     <p>1.2. Evolución y tendencias de la plataforma.</p>
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 2: Creación de un perfil empresarial efectivo.</h3>
                     <p>2.1. Uso de biografía y enlace.</p>
                     <p>2.2. Coherencia de marca.</p>
@@ -135,7 +135,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 3: Fotografía y diseño gráfico.</h3>
                     <p>3.1. Videos y Stories.</p>
                     <p>3.2. Estrategias de storytelling visual.</p>
@@ -144,7 +144,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 4: Estrategias para aumentar la audiencia. </h3>
                     <p>4.1. Interacción con la comunidad.</p>
                     <p>4.2. Uso de hashtags y geolocalización.</p>
@@ -153,7 +153,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 5: Creación de anuncios efectivos.</h3>
                     <p>5.1. Segmentación de audiencia.</p>
                     <p>5.2. Estrategias de publicidad exitosas.</p>
@@ -162,7 +162,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 6: Herramientas de análisis en Instagram. </h3>
                     <p>6.1. Interpretación de datos y métricas clave.</p>
                     <p>6.2. Ajuste de estrategias en función de los resultados.</p>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 7: Gestión de la Ansiedad Social y Timidez </h3>
                     <p>7.1. Reconocimiento y manejo de la ansiedad social.</p>
                     <p>7.2. Superación de la timidez.</p>
@@ -179,7 +179,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/instagram.png" alt="#"/>
                     <h3>Unidad 8: Desarrollo Continuo de Habilidades Sociales </h3>
                     <p>8.1. Estrategias para seguir mejorando las habilidades sociales.</p>
                     <p>8.2. Aplicación de las habilidades sociales en contextos específicos.</p>

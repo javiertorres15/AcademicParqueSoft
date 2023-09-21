@@ -215,12 +215,6 @@ const router = createRouter({
     }
     ,
     {
-      path: '/imagen-marcas',
-      name: 'imagen-marcas',
-      component: () => import('../views/diseño/imagen-marcas.vue')
-    }
-    ,
-    {
       path: '/diseno-publicitario',
       name: 'diseno-publicitario',
       component: () => import('../views/diseño/diseno-publicitario.vue')

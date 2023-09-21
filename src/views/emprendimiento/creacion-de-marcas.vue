@@ -109,7 +109,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 1: Introducción a las Marcas. </h3>
                     <p>1.1. ¿Qué es una marca y por qué es crucial?.</p>
                     <p>1.2. Ejemplos de marcas exitosas.</p>
@@ -118,7 +118,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 2: Definición de la Identidad de Marca. </h3>
                     <p>2.1. Misión, visión y valores de la marca. </p>
                     <p>2.2. Definición de la voz y personalidad de la marca.</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 3: Diseño de la Identidad de Marca </h3>
                     <p>3.1. Creación de logotipos y elementos visuales.</p>
                     <p>3.2. Elección de colores, tipografías y elementos gráficos.</p>
@@ -137,7 +137,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 4: Estrategia de Comunicación de Marca. </h3>
                     <p>4.1. Creación de mensajes y eslogan de marca..</p>
                     <p>4.2. Canales de comunicación y estrategia de contenido.</p>
@@ -146,7 +146,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
                     <h3>Unidad 5: Gestión y Expansión de Marca</h3>
                     <p>5.1. Protección legal de la marca (registro de marca, derechos de autor, etc.).</p>
                     <p>5.2. Mantenimiento de la consistencia de marca.</p>
@@ -155,7 +155,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
                     <h3>Unidad 6: Desarrollo de una Estrategia de Marca a Largo Plazo. </h3>
                     <p>6.1. Evaluación del impacto de la marca a lo largo del tiempo.</p>
                     <p>6.2. Adquisición de lealtad de marca y compromiso del cliente.</p>
@@ -164,7 +164,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
                     <h3>Unidad 7: Casos Prácticos y Ejemplos. </h3>
                     <p>7.1. Estudios de casos de marcas exitosas.</p>
                     <p>7.2. Creación de una marca en tiempo real.</p>
@@ -173,7 +173,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final y evaluación de proyectos de marca.</p>
                     <p>8.2. Entrega de certificados aprobados.</p>

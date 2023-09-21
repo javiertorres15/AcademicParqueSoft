@@ -114,7 +114,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 1: CREAR UNA
                         PRESENTACIÓN </h3>
                     <p>1.1. Crear
@@ -138,7 +138,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 2: INSERTAR TEXTO</h3>
                     <p>2.1. Insertar texto en
                         las diapositivas. </p>
@@ -156,7 +156,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 3: INSERTAR ELEMENTOS
                         GRÁFICOS.</h3>
                     <p>3.1. Insertar imágenes.</p>
@@ -174,7 +174,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 4: PRESENTACIONES
                         ELECTRÓNICAS</h3>
                     <p>4.1. Animar el texto y

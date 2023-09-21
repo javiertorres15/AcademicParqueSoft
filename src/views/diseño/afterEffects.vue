@@ -11,14 +11,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En este curso de Java aprenderás a dominar este lenguaje de
-                    programación básico, desde los conceptos, y poniendo en práctica ejemplos funcionales
-                    para su aprendizaje.</p>
-                <p class="lead">
-                    Aprenderás las sentencias condicionales y repetitivas, que te van a permitir desarrollar tu
-                    lógica de programación con éxito y la teoría base para poner en práctica con ejemplos
-                    sobre la Programación Orienta a Objetos con JAVA.
-                </p>
+                <p class="lead">En este curso, aprenderás animación y motion graphics para contenido audiovisual. Trabajarás con vídeos, imágenes, Adobe Bridge y simulaciones 3D. También dominarás expresiones, máscaras y composiciones creativas, destacándote en tu carrera. Temas incluyen vincular activos externos, curvas de animación, entornos 3D, cámaras y luces.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -77,14 +70,9 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso es perfecto para principiantes sin experiencia en programación,
-                        orientado a cualquier persona con deseo de aprender a programar en JAVA.</p>
-                    <p class="lead">Estudiantes de carreras de informática, sistemas y programación, que quieran
-                        aprender a desarrollar una lógica de programación creando pequeñas aplicaciones
-                        en JAVA.</p>
-                    <p class="lead">Persona con ganas de iniciarse de verdad en la programación, aprendiendo el
-                        paradigma orientado a objetos con JAVA, y quieran algún día hacer brillar su genio
-                        interior para crear cosas formidables.</p>
+                    <p class="lead">Este curso de After Effects está dirigido para todo tipo de
+                        persona que desee aprender a llevar cabo la manipulación gráfica en
+                        movimiento.</p>
                 </div>
             </div>
         </div>
@@ -108,7 +96,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en Java</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Basic After Effects</h2>
                 </div>
             </div>
         </div>
@@ -117,83 +105,89 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" />
-                    <h3>Unidad 1: Lenguaje Java </h3>
-                    <p>1.1. Introducción al curso.</p>
-                    <p>1.2. ¿Qué es Java?</p>
-                    <p>1.3. Introducción e instalación
-                        del entorno.</p>
-                    <p>1.4. ¿Qué es un programa en
-                        Java?</p>
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="after-logo" />
+                    <h3>Unidad 1: Introducción a Adobe After Effects </h3>
+                    <p>1.1. ¿Qué es Adobe After Effects?</p>
+                    <p>1.2. Interfaz de usuario de After Effects.?</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" />
-                    <h3>Unidad 2: Variables y operadores</h3>
-                    <p>2.1. Variable y tipos de datos. </p>
-                    <p>2.2. Operadores.</p>
-                    <p>2.3. Operadores relacionales. </p>
-                    <p>2.4. Conversión de tipos </p>
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="after-logo" />
+                    <h3>Unidad 2: Importación y Organización de Activos</h3>
+                    <p>2.1. Importación de activos.</p>
+                    <p>2.2. Uso de carpetas y etiquetas.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" />
-                    <h3>Unidad 3: Sentencias condicionales y
-                        repetitivas.</h3>
-                    <p>3.1. Sentencia condicional if.</p>
-                    <p>3.2. Sentencia selectiva switch.</p>
-                    <p>3.3. Sentencia repetitiva for.</p>
-                    <p>3.4. Sentencias repetitivas while y do while </p>
-                    <p>3.5. Ejercicio de Sentencias y Bucles </p>
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="after-logo"/>
+                    <h3>Unidad 3: Composiciones y Capas.</h3>
+                    <p>3.1. Creación de composiciones..</p>
+                    <p>3.2. Capas en After Effects.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" />
-                    <h3>Unidad 4: Excepciones, funciones y
-                        recursividad.</h3>
-                    <p>4.1. Excepciones.</p>
-                    <p>4.2. Funciones.</p>
-                    <p>4.3. Sobrecarga de funciones</p>
-                    <p>4.4. Recursividad</p>
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="after-logo" />
+                    <h3>Unidad 4: Animación Básica.</h3>
+                    <p>4.1. Animación de propiedades.</p>
+                    <p>4.2. Herramientas de transformación.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" />
-                    <h3>Unidad 5: Programación orientada a
-                        Objetos.</h3>
-                    <p>5.1. Clases y Objetos. </p>
-                    <p>5.2. Herencia. </p>
-                    <p>5.3. Constructores. </p>
-                    <p>5.4. Uso de This y Super. </p>
-                    <p>5.5. Polimorfismo. </p>
-                    <p>5.6. Clases Abstractas e Interfaces. </p>
-                    <p>5.7. Ejercicio de Clases y Objetos.</p>
-
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="after-logo"/>
+                    <h3>Unidad 5: Efectos y Ajustes</h3>
+                    <p>5.1. Uso de efectos preestablecidos. </p>
+                    <p>5.2. Ajustes de capa. </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="#" />
-                    <h3>Unidad 6: Arrays-Arreglos.</h3>
-                    <p>6.1. Arreglos Unidimensionales. </p>
-                    <p>6.2. Arreglos Bidimensionales. </p>
-                    <p>6.3. Ejercicio de Arreglos y Clases. </p>
-                    <p>6.4. Analizamos el ejercicio.</p>
-                    <p>6.5. Creamos la clase Atleta. </p>
-                    <p>6.6. Creamos la clase competencia. </p>
+                    <h3>Unidad 6: Máscaras y Composiciones Anidadas.</h3>
+                    <p>6.1. Creación y edición de máscaras. </p>
+                    <p>6.2. Composiciones anidadas. </p>
                 </div>
             </div>
-
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="#" />
+                    <h3>Unidad 7: Texto y Títulos.</h3>
+                    <p>7.1. Herramienta de texto en After Effects. </p>
+                    <p>7.2. Animación de texto. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="#" />
+                    <h3>Unidad 8: Exportación y Renderización.</h3>
+                    <p>8.1. Preparación para la exportación. </p>
+                    <p>8.2. Renderización de composiciones. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="#" />
+                    <h3>Unidad 9: Práctica y Proyecto Final.</h3>
+                    <p>9.1. Creación de una composición animada. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="#" />
+                    <h3>Unidad 10: Conclusiones y Recursos.</h3>
+                    <p>10.1. Resumen del curso. - Repaso de los conceptos clave.. </p>
+                    <p>10.2. Recursos adicionales para aprender más. - Tutoriales en línea,
+                        cursos avanzados, comunidades en línea, etc. </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
 </template>
 
-  
 <script>
 import InicioDis from './InicioDis.vue';
 
@@ -217,7 +211,6 @@ export default {
     }
 };
 </script>
-
 
 <style scoped>
 @import '../css/estiloCursos.css';

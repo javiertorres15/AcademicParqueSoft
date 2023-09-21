@@ -109,7 +109,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 1: Introducción a la Maduración de Proyectos. </h3>
                     <p>1.1. ¿Qué es la maduración de proyectos?.</p>
                     <p>1.2. Importancia de la planificación y evaluación..</p>
@@ -118,7 +118,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 2: Evaluación de Viabilidad. </h3>
                     <p>2.1. Evaluación de la viabilidad técnica. </p>
                     <p>2.2. Evaluación de la viabilidad financiera.</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 3: Planificación y Gestión de Proyectos </h3>
                     <p>3.1. Creación de un plan de proyecto.</p>
                     <p>3.2. Identificación de recursos necesarios.</p>
@@ -136,7 +136,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 4: Gestión de Riesgos. </h3>
                     <p>4.1. Identificación de riesgos potenciales.</p>
                     <p>4.2. Estrategias para la mitigación de riesgos.</p>
@@ -145,7 +145,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 5: Toma de Decisiones en Proyectos. </h3>
                     <p>5.1. Marco de toma de decisiones en proyectos.</p>
                     <p>5.2. Evaluación de alternativas.</p>
@@ -154,7 +154,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 6: Ejecución y Seguimiento del Proyecto </h3>
                     <p>6.1. Implementación y seguimiento del proyecto.</p>
                     <p>6.2. Control de calidad y aseguramiento.</p>
@@ -163,7 +163,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 7: Casos de Estudio y Práctica </h3>
                     <p>7.1. Estudios de casos de proyectos exitosos.</p>
                     <p>7.2. Ejercicios de aplicación de conceptos.</p>
@@ -172,7 +172,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/maduracion-proyectos.png" alt="#"/>
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final..</p>
                     <p>8.2. Evaluación de proyectos individuales de los participantes.</p>

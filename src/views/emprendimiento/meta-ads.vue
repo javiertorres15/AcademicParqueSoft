@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 1: Introducción a Facebook e Instagram Ads. </h3>
                     <p>1.1. Importancia de la publicidad en redes sociales.</p>
                     <p>1.2. Diferencias entre Facebook e Instagram Ads.</p>
@@ -121,7 +121,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 2: Planificación de Campañas Publicitarias. </h3>
                     <p>2.1. Definición de objetivos publicitarios en redes sociales.</p>
                     <p>2.2. Investigación de audiencia y segmentación.</p>
@@ -130,7 +130,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 3: Creación de Anuncios Efectivos. </h3>
                     <p>3.1. Diseño de anuncios creativos y atractivos.</p>
                     <p>3.2. Uso de imágenes, videos y creatividad.</p>
@@ -139,7 +139,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 4: Gestión de Campañas y Estrategias Avanzadas. </h3>
                     <p>4.1. Configuración de campañas y grupos de anuncios.</p>
                     <p>4.2. Estrategias de puja y ajustes de oferta.</p>
@@ -149,7 +149,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 5: Seguimiento y Medición de Resultados </h3>
                     <p>5.1. Instalación y configuración del píxel de seguimiento.</p>
                     <p>5.2. Informes de rendimiento y métricas clave.</p>
@@ -158,7 +158,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 6: Cumplimiento Legal y Ético. </h3>
                     <p>6.1. Directrices de publicidad en redes sociales..</p>
                     <p>6.2. Políticas de publicidad en Facebook e Instagram.</p>
@@ -167,7 +167,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 7: Casos Prácticos y Ejemplos. </h3>
                     <p>7.1. Estudios de casos reales de campañas exitosas.</p>
                     <p>7.2. Creación y optimización de campañas en tiempo real.</p>
@@ -176,7 +176,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/meta-ads.png" alt="#"/>
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final.</p>
                     <p>8.2. Evaluación de campañas publicitarias individuales .</p>
