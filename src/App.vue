@@ -86,7 +86,7 @@
             <img src="@/assets/imagenes/footer.png" alt="" style="width: 30%; height: auto;">
         </div>
         <div class="grupo-2">
-            <small>&copy; 2023 <b>SLee Dw</b> - Todos los Derechos Reservados.</small>
+            <small>&copy; 2023 <b></b> - Todos los Derechos Reservados.</small>
         </div>
     </footer>
     <!--::::Fin Pie de Pagina::::::-->
