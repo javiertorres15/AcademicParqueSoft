@@ -1,0 +1,1 @@
+import{_ as e,o,a as r}from"./index-cc0229ae.js";const t={},s={src:"https://docs.google.com/forms/d/e/1FAIpQLSdW6omzbWVmBa21xWJOuwDYXbkypEdldpECorqDiiF36n-DJA/viewform?embedded=true",style:{width:"100%",height:"100vh",border:"none"}};function c(d,n){return o(),r("iframe",s)}const m=e(t,[["render",c]]);export{m as default};
