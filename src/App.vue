@@ -31,7 +31,7 @@
                             <a class="nav-link active" aria-current="page" href="/pqrs">Buzón de PSQR</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/bienestar">Bienestar intitucional</a>
+                            <a class="nav-link active" aria-current="page" href="/institucion">Bienestar intitucional</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="/ayuda">Ayuda</a>
