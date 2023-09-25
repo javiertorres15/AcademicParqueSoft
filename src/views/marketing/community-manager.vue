@@ -23,7 +23,7 @@
                     <div class="col-sm-12 col-xl-4 ">
                         <div class="card">
                             <div class="face front">
-                                <img src="@/assets/imagenes/ofimatica/metodologia.png" alt="">
+                                <img src="@/assets/imagenes/marketing/marketingdigital1.png" alt="">
                                 <h3>Metodología</h3>
                             </div>
 
@@ -55,7 +55,7 @@
                     <div class="col-sm-12 col-xl-4 ">
                         <div class="card">
                             <div class="face front">
-                                <img src="@/assets/imagenes/ofimatica/dirigido.png" alt="">
+                                <img src="@/assets/imagenes/marketing/marketingdigital2.png" alt="">
                                 <h3>Duración</h3>
                             </div>
 
