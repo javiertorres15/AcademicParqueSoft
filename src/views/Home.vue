@@ -207,14 +207,14 @@
                     Cursos disponibles ▼
 
                 </button>
-                <div class="dropdown-content">
+                <!-- <div class="dropdown-content">
                     <a href="/community-manager">Community Manager</a>
                     <a href="/marketing-digital">Marketing digital</a>
                     <a href="/habilidades-sociales">Habilidades sociales</a>
                     <a href="/instagram">Instagram para el desarrollo de marcas</a>
                     <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
                     <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -234,14 +234,14 @@
                     Cursos disponibles ▼
 
                 </button>
-                <div class="dropdown-content">
+                <!-- <div class="dropdown-content">
                     <a href="/community-manager">Community Manager</a>
                     <a href="/marketing-digital">Marketing digital</a>
                     <a href="/habilidades-sociales">Habilidades sociales</a>
                     <a href="/instagram">Instagram para el desarrollo de marcas</a>
                     <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
                     <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="cinta">Próximamente</div>
@@ -259,14 +259,14 @@
                     Cursos disponibles ▼
 
                 </button>
-                <div class="dropdown-content">
+                <!-- <div class="dropdown-content">
                     <a href="/community-manager">Community Manager</a>
                     <a href="/marketing-digital">Marketing digital</a>
                     <a href="/habilidades-sociales">Habilidades sociales</a>
                     <a href="/instagram">Instagram para el desarrollo de marcas</a>
                     <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
                     <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="cinta">Próximamente</div>
