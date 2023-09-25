@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 1: Manejo de Hojas y Libros Excel. </h3>
                     <p>1.1. Agregar, eliminar y ocultar hojas de cálculo..</p>
                     <p>1.2. Mover hojas de cálculo entre Libros.</p>
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 2: Formulas y Funciones Excel. </h3>
                     <p>2.1. Construcción de fórmulas básicas. </p>
                     <p>2.2. El orden de las operaciones en Excel.</p>
@@ -147,7 +147,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 3: Funciones Básicas. </h3>
                     <p>3.1. Manejo de formatos condicionales.</p>
                     <p>3.2. Aplicar filtros y filtros avanzados.</p>

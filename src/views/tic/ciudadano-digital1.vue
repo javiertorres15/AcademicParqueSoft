@@ -113,7 +113,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 1: Introducción a la Ciudadanía Digital </h3>
                     <p>1.1. Definición y relevancia.</p>
                     <p>1.2. Beneficios y desafíos.</p>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 2: Contraseñas seguras y gestión de cuentas. </h3>
                     <p>2.1. Amenazas cibernéticas comunes. </p>
                     <p>2.2. Privacidad en línea.</p>
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 3: Identificación de noticias falsas y desinformación. </h3>
                     <p>3.1. Fuentes confiables.</p>
                     <p>3.2. Técnicas de verificación de hechos.</p>
@@ -140,7 +140,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 4: Comportamiento ético en redes sociales. </h3>
                     <p>4.1. Acoso cibernético y su prevención.</p>
                     <p>4.2. Uso responsable de datos personales.</p>

@@ -9,7 +9,7 @@
 <header class="arriba">
     <nav class="navbar bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand scroll-logo" href="/"><img src="@/assets/imagenes/academic logo2p.png" alt="image"></a>
+            <a class="navbar-brand scroll-logo" href="/"><img src="@/assets/imagenes/academiclogo2p.png" alt="image"></a>
 
             <button class="navbar-toggler bg-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
                 <span><i><img class="casa" src="@/assets/imagenes/Casa.png" alt=""></i></span>
@@ -86,7 +86,7 @@
             <img src="@/assets/imagenes/footer.png" alt="" style="width: 30%; height: auto;">
         </div>
         <div class="grupo-2">
-            <small>&copy; 2023 <b>SLee Dw</b> - Todos los Derechos Reservados.</small>
+            <small>&copy; 2023 <b></b> - Todos los Derechos Reservados.</small>
         </div>
     </footer>
     <!--::::Fin Pie de Pagina::::::-->

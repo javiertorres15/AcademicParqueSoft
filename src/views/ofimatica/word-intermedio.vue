@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 1: Funciones Insertar. </h3>
                     <p>1.1. Ecuaciones en Word.</p>
                     <p>1.2. Símbolos o caracteres.</p>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 2: Smartart y Referencias. </h3>
                     <p>2.1. Organigramas. </p>
                     <p>2.2. Marcadores y referencias cruzadas.</p>
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 3: Web con Word. </h3>
                     <p>3.1. Word online.</p>
                     <p>3.2. Páginas web con Word.</p>

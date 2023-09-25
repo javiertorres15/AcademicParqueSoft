@@ -107,7 +107,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
                     <h3>Unidad 1: Primeros pasos con PHP </h3>
                     <p>1.1. Introducción al curso de PHP.</p>
                     <p>1.2. Instalación y configuración de PHP.</p>
@@ -115,7 +115,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
                     <h3>Unidad 2: Variables y operadores en
                         PHP.</h3>
                     <p>2.1. Presentación de la unidad 2. </p>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
                     <h3>Unidad 3: Condicionales y ciclos en
                         PHP.</h3>
                     <p>3.1. Presentación de la unidad 3.</p>
@@ -135,7 +135,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
                     <h3>Unidad 4: Funciones y estructuras de
                         datos en PHP.</h3>
                     <p>4.1. Presentación de la unidad 4.</p>
@@ -145,7 +145,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" />
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
                     <h3>Unidad 5: Programación orientada a
                         Objetos EN PHP.</h3>
                     <p>5.1. Presentación de la unidad 5. </p>

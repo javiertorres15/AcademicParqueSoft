@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 1: Fundamentos de Internet y Tecnología Digital. </h3>
                     <p>1.1. Introducción a Internet y la World Wide Web.</p>
                     <p>1.2. Conceptos básicos de hardware y software.</p>
@@ -124,7 +124,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 2: Redes Sociales y Comunicación Digital.</h3>
                     <p>2.1. Principales plataformas de redes sociales. </p>
                     <p>2.2. Creación y gestión de perfiles en redes sociales.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 3: Dispositivos Digitales y Aplicaciones </h3>
                     <p>3.1. Tipos de dispositivos digitales (teléfonos, tabletas, computadoras,
                         wearables).</p>
@@ -143,7 +143,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 4: Seguridad y Privacidad en Línea </h3>
                     <p>4.1. Protección de datos personales en línea.</p>
                     <p>4.2. Uso seguro de contraseñas y autenticación de dos factores.</p>
@@ -152,7 +152,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 5: Redacción y Comunicación en Línea</h3>
                     <p>5.1. Escritura efectiva para correos electrónicos y redes sociales.</p>
                     <p>5.2. Netiqueta y buenas prácticas de comunicación en línea.</p>
@@ -161,7 +161,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 6: Uso Ético de la Tecnología y Responsabilidad Digital </h3>
                     <p>6.1. Ética en línea y toma de decisiones responsables.</p>
                     <p>6.2. Comprender y combatir la desinformación en línea.</p>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/internet-rs-dg.png" alt="#"/>
                     <h3>Unidad 7: Aplicación Práctica y Proyecto Final. </h3>
                     <p>7.1. Aplicación de los conocimientos adquiridos en situaciones del mundo real.</p>
                     <p>7.2. Desarrollo de un proyecto final relacionado con la tecnología, las redes

@@ -116,7 +116,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 1: Introducción a las Habilidades Sociales. </h3>
                     <p>1.1. Definición de habilidades sociales.</p>
                     <p>1.2. Importancia de las habilidades sociales en la vida cotidiana y profesional.</p>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 2: Comunicación Efectiva.</h3>
                     <p>2.1. Comunicación verbal y no verbal. </p>
                     <p>2.2. Técnicas de escucha activa.</p>
@@ -134,7 +134,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 3: Empatía y Comprensión Emocional. </h3>
                     <p>3.1. Reconocimiento de emociones en uno mismo y en los demás.</p>
                     <p>3.2. Cultivo de la empatía.</p>
@@ -143,7 +143,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 4: Resolución de Conflictos </h3>
                     <p>4.1. Identificación de fuentes de conflicto.</p>
                     <p>4.2. Técnicas de resolución de conflictos.</p>
@@ -152,7 +152,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 5: Habilidades Sociales en el Ámbito Laboral</h3>
                     <p>5.1. Comunicación efectiva en el lugar de trabajo.</p>
                     <p>5.2. Construcción y mantenimiento de relaciones profesionales.</p>
@@ -161,7 +161,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 6: Habilidades Sociales en la Vida Personal </h3>
                     <p>6.1. Relaciones familiares y personales.</p>
                     <p>6.2. Comunicación en el ámbito social y de amistad.</p>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 7: Gestión de la Ansiedad Social y Timidez </h3>
                     <p>7.1. Reconocimiento y manejo de la ansiedad social.</p>
                     <p>7.2. Superación de la timidez.</p>
@@ -179,7 +179,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" />
+                    <img src="@/assets/imagenes/marketing/iconos/habilidades-sociales.png" alt="#"/>
                     <h3>Unidad 8: Desarrollo Continuo de Habilidades Sociales </h3>
                     <p>8.1. Estrategias para seguir mejorando las habilidades sociales.</p>
                     <p>8.2. Aplicación de las habilidades sociales en contextos específicos.</p>

@@ -117,7 +117,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" alt="#"/>
                     <h3>Unidad 1: Introducción a la Alfabetización Digital </h3>
                     <p>1.1. Importancia de la alfabetización digital en la sociedad moderna.</p>
                     <p>1.2. Evolución de la tecnología digital.</p>
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" alt="#"/>
                     <h3>Unidad 2: Navegación y gestión de archivos. </h3>
                     <p>2.1. Funciones básicas de teléfonos inteligentes y tabletas. </p>
                     <p>2.2. Configuración de dispositivos.</p>
@@ -135,7 +135,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" alt="#"/>
                     <h3>Unidad 3: Uso seguro y eficiente de navegadores web. </h3>
                     <p>3.1. Búsqueda de información en línea.</p>
                     <p>3.2. Comprender y evaluar fuentes en Internet.</p>
@@ -144,7 +144,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" alt="#"/>
                     <h3>Unidad 4: Creación y gestión de cuentas de correo electrónico. </h3>
                     <p>4.1. Etiqueta y seguridad en la comunicación en línea.</p>
                     <p>4.2. Uso de herramientas de mensajería y videoconferencia.</p>
@@ -153,7 +153,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" alt="#"/>
                     <h3>Unidad 5: Protección de contraseñas y datos personales. </h3>
                     <p>5.1. Prevención de fraudes en línea y ciberseguridad.</p>
                     <p>5.2. Uso seguro de redes sociales y correo electrónico.</p>
@@ -162,7 +162,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/alfabetizacion-digital.png" alt="#"/>
                     <h3>Unidad 6: Uso de software de oficina (como Microsoft Office o Google
                         Workspace). </h3>
                     <p>6.1. Aplicaciones para tareas cotidianas (calendarios, notas, listas de tareas).</p>

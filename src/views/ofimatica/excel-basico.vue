@@ -109,7 +109,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 1: Generalidades. </h3>
                     <p>1.1. Descripción del entorno, reconocimiento de columnas, filas, celdas y
                         hojas en excel.</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 2: Fórmulas Básicas. </h3>
                     <p>2.1. Qué es una fórmula y su importancia. </p>
                     <p>2.2. Jerarquía de operaciones dentro de una expresión.</p>
@@ -137,7 +137,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 3: Funciones Básicas. </h3>
                     <p>3.1. Estadísticas.</p>
                     <p>3.2. Matemáticas.</p>

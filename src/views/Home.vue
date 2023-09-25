@@ -43,7 +43,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/programacion.png">
+            <img src="@/assets/Imagenes/Cabeceras/programacion.png" alt="programacion">
         </figure>
         <div class="contenido-card">
             <h3>Programación</h3>
@@ -65,7 +65,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="emprendimiento">
         </figure>
         <div class="contenido-card">
             <h3>Emprendimiento</h3>
@@ -89,7 +89,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/ofimatica.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/ofimatica.jpg" alt="ofimatica">
         </figure>
         <div class="contenido-card">
             <h3>Ofimática</h3>
@@ -118,7 +118,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/tic02.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/tic02.jpg" alt="tic">
         </figure>
         <div class="contenido-card">
             <h3>TIC</h3>
@@ -139,7 +139,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/diseno.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/diseno.jpg" alt="diseno">
         </figure>
         <div class="contenido-card">
             <h3>Diseño</h3>
@@ -149,7 +149,6 @@
                 <button class="dropdown-btn">Cursos disponibles ▼</button>
                 <div class="dropdown-content">
                     <a href="/metodologia-canvas">Metodología canvas </a>
-                    <a href="/imagen-marcas">Imagen y Marcas </a>
                     <a href="/diseno-publicitario">Diseño publicitario </a>
                     <a href="/diseno-UxUis">Diseño UX/UI</a>
                     <a href="/diseno-presentaciones">Principios de diseño para presentaciones</a>
@@ -163,7 +162,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/marketing.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/marketing.jpg" alt="marketing">
         </figure>
         <div class="contenido-card">
             <h3>Marketing</h3>
@@ -196,7 +195,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/programacion-a.png">
+            <img src="@/assets/Imagenes/Cabeceras/programacion-a.png" alt="pro-avanzada">  
         </figure>
         <div class="contenido-card">
             <h4>Programación avanzada</h4>
@@ -223,7 +222,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/Robota_B.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/Robota_B.jpg" alt="robo-basica">
         </figure>
         <div class="contenido-card">
             <h3>Robótica básica</h3>
@@ -248,7 +247,7 @@
     </div>
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/Robotica_A.jpg">
+            <img src="@/assets/Imagenes/Cabeceras/Robotica_A.jpg" alt="robo-avanzada">
         </figure>
         <div class="contenido-card">
             <h3>Robótica avanzada</h3>

@@ -24,7 +24,7 @@
                     <div class="col-sm-12 col-xl-4 ">
                         <div class="card">
                             <div class="face front">
-                                <img src="@/assets/imagenes/ofimatica/metodologia.png" alt="">
+                                <img src="@/assets/imagenes/emprendimiento/emprendimiento.jpeg" alt="">
                                 <h3>Metodología</h3>
                             </div>
 
@@ -56,7 +56,7 @@
                     <div class="col-sm-12 col-xl-4 ">
                         <div class="card">
                             <div class="face front">
-                                <img src="@/assets/imagenes/ofimatica/dirigido.png" alt="">
+                                <img src="@/assets/imagenes/emprendimiento/emprendimiento2.jpeg" alt="">
                                 <h3>Duración</h3>
                             </div>
 
@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
                     <h3>Unidad 1: Introducción al Comercio Electrónico. </h3>
                     <p>1.1. Conceptos básicos del comercio electrónico..</p>
                     <p>1.2. Beneficios y desafíos del comercio en línea..</p>
@@ -121,7 +121,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 2: Planificación y Estrategia. </h3>
                     <p>2.1. Definición de metas y objetivos. </p>
                     <p>2.2. Identificación del público objetivo.</p>
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
                     <h3>Unidad 3: Selección de Plataforma </h3>
                     <p>3.1. Comparación de plataformas populares.</p>
                     <p>3.2. Elección de la plataforma adecuada.</p>
@@ -140,7 +140,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
                     <h3>Unidad 4: Diseño de la Tienda Online. </h3>
                     <p>4.1. Principios de diseño web</p>
                     <p>4.2. Creación de una interfaz atractiva.</p>
@@ -150,7 +150,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
                     <h3>Unidad 5: Gestión de Productos y Catálogo</h3>
                     <p>5.1. Agregar y gestionar productos.</p>
                     <p>5.2. Categorías y etiquetas.</p>
@@ -160,7 +160,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
                     <h3>Unidad 6: Marketing y Promoción. </h3>
                     <p>6.1. Estrategias de marketing en línea.</p>
                     <p>6.2. Optimización de motores de búsqueda (SEO).</p>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" />
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
                     <h3>Unidad 7: Seguridad y Privacidad. </h3>
                     <p>7.1. Protección de datos de clientes.</p>
                     <p>7.2. Certificados SSL y seguridad en línea..</p>

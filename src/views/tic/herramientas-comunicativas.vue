@@ -116,7 +116,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" />
+                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" alt="#"/>
                     <h3>Unidad 1: Introducción a las Herramientas Comunicativas </h3>
                     <p>1.1. Importancia de la comunicación efectiva en la vida cotidiana y profesional.</p>
                     <p>1.2. Evolución de la comunicación en la era digital.</p>
@@ -124,7 +124,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" />
+                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" alt="#"/>
                     <h3>Unidad 2: Comunicación Verbal y No Verbal.</h3>
                     <p>2.1. Desarrollo de habilidades de expresión oral.</p>
                     <p>2.2. Lenguaje corporal y comunicación no verbal.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" />
+                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" alt="#"/>
                     <h3>Unidad 3: Escucha Activa y Empatía. </h3>
                     <p>3.1. Técnicas para una escucha efectiva.</p>
                     <p>3.2. Fomentar la empatía en la comunicación.</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" />
+                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" alt="#"/>
                     <h3>Unidad 4: Comunicación Escrita y Digital. </h3>
                     <p>4.1. Escritura efectiva en correos electrónicos y mensajes.</p>
                     <p>4.2. Redacción de informes y documentos profesionales.</p>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" />
+                    <img src="@/assets/imagenes/tic/iconos/herramientas-comunicativas.png" alt="#"/>
                     <h3>Unidad 5: Comunicación en Público y Presentaciones </h3>
                     <p>5.1. Preparación y estructura de presentaciones.</p>
                     <p>5.2. Estrategias para vencer el miedo escénico.</p>

@@ -110,7 +110,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 1: INTERFAZ DE POWERPOINT </h3>
                     <p>1.1.¿Cuál es la interfaz de
                         Power Point?.</p>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 2: VISTAS DE
                         POWERPOINT </h3>
                     <p>2.1. ¿Qué son las vistas de
@@ -132,7 +132,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 3: DISEÑO DE POWER
                         POINT </h3>
                     <p>3.1. Aplicar un tema.</p>
@@ -146,7 +146,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 4: TRABAJAR CON
                         GRÁFICOS</h3>
                     <p>4.1. Trabajar con gráficos.</p>
@@ -154,7 +154,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/powerpoint.png" alt="#"/>
                     <h3>Unidad 5: PATRÓN DE
                         DIAPOSITIVAS</h3>
                     <p>5.1. ¿Para qué sirve un

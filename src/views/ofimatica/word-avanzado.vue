@@ -114,7 +114,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 1: Plantillas y Esquemas. </h3>
                     <p>1.1. Utilizar plantillas.</p>
                     <p>1.2. Modificar plantillas.</p>
@@ -123,7 +123,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 2: Documentos Maestros y Glosarios. </h3>
                     <p>2.1. Crear documentos maestros. </p>
                     <p>2.2. Manipular un documento maestro.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 3: Comentarios y Macros. </h3>
                     <p>3.1. Insertar comentarios.</p>
                     <p>3.2. Comentarios.</p>

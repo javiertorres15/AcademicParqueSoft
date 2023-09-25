@@ -107,7 +107,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 1: Funciones Especiales de Excel. </h3>
                     <p>1.1. Preparación bases de datos.</p>
                     <p>1.2. Limpieza de datos.</p>
@@ -117,7 +117,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 2: Programación en VBA. </h3>
                     <p>2.1. Introducción a macros BVA.</p>
                     <p>2.2. Panel BVA.</p>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
                     <h3>Unidad 3: Funciones Básicas. </h3>
                     <p>3.1. Business Intelligence con Power BI. </p>
                     <p>3.2. Preparación de datos.</p>

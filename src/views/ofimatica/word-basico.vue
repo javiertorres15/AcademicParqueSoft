@@ -111,7 +111,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 1: Generalidades. </h3>
                     <p>1.1. Conceptos básicos.</p>
                     <p>1.2. Espacios.</p>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 2: Uso de Pestañas. </h3>
                     <p>2.1. Pestaña insertar: smart art, hipervínculos, encabezados, pie de página,
                         número de página, cuadro de texto y word art. </p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" />
+                    <img src="@/assets/imagenes/ofimatica/iconos/word.png" alt="#"/>
                     <h3>Unidad 3: Tablas y Formulas. </h3>
                     <p>3.1. Revisando opciones.</p>
                     <p>3.2. Tablas, columnas, filas, celdas.</p>

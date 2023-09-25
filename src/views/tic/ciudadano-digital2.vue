@@ -114,7 +114,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#" />
                     <h3>Unidad 1: Ética en Línea Avanzada </h3>
                     <p>1.1. Comportamiento ético en redes sociales y comunidades en línea.</p>
                     <p>1.2. Ética en la publicidad y el marketing en línea.</p>
@@ -124,7 +124,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 2: Activismo en línea. </h3>
                     <p>2.1. Política y votación en línea. </p>
                     <p>2.2. Iniciativas ciudadanas en la era digital.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 3: Evaluación de fuentes y argumentos en línea. </h3>
                     <p>3.1. Lucha contra la desinformación y la polarización.</p>
                     <p>3.2. Tomar decisiones informadas en línea.</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" />
+                    <img src="@/assets/imagenes/tic/iconos/ciudadano-digital.png" alt="#"/>
                     <h3>Unidad 4: Automatización y empleo. </h3>
                     <p>4.1. Privacidad en una sociedad digital.</p>
                     <p>4.2. Ética de la inteligencia artificial.</p>
