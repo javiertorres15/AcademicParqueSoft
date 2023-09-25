@@ -16,9 +16,9 @@ const router = createRouter({
       component: () => import('../views/institucion.vue')
     },
     {
-      path: '/ayuda',
-      name: 'ayuda',
-      component: () => import('../views/ayuda.vue')
+      path: '/ayuda1',
+      name: 'ayuda1',
+      component: () => import('../views/ayuda1.vue')
     },
     {
       path: '/mision',

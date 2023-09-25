@@ -34,7 +34,7 @@
                             <a class="nav-link active" aria-current="page" href="/institucion">Bienestar intitucional</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/ayuda">Ayuda</a>
+                            <a class="nav-link active" aria-current="page" href="/ayuda1">Ayuda</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
