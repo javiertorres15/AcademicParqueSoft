@@ -4,7 +4,7 @@
     <img src="@/assets/Imagenes/bienestar-institucional/5.png" alt="#">
     <img src="@/assets/Imagenes/bienestar-institucional/7.png" alt="#">
     <img src="@/assets/Imagenes/bienestar-institucional/9.png" alt="#">
-    <img src="@/assets/Imagenes/bienestar-institucional/emprendimiento (1).png" alt="#">
+    <img src="@/assets/Imagenes/bienestar-institucional/emprendimiento.png" alt="#">
     <img src="@/assets/Imagenes/bienestar-institucional/programacion1.png" alt="#">
 </section>
 <br>

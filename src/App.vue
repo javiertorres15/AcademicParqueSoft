@@ -122,3 +122,4 @@
     transform: scale(1.1);
 }
 </style>
+Buscar en Internet un sitio web en el que se evidencie que se está manejando arquitectura de microservicios. Una vez que hayan encontrado un sitio web adecuado, explóralo en busca de información relacionada con microservicios. Definición de Microservicios identificados. incluye capturas de pantalla y enlaces relevantes que respalden lo indicado. Realizar un diagrama con estructura de arquitectura de microservicios representando lo encontrado en el sitio web.
