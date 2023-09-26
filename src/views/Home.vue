@@ -52,12 +52,12 @@
             <div class="dropdown">
                 <button class="dropdown-btn">Cursos disponibles ▼</button>
                 <div class="dropdown-content">
-                    <a href="/java">Java</a>
-                    <a href="/net">.Net</a>
-                    <a href="/php">.PHP</a>
-                    <a href="/python">Python</a>
-                    <a href="/javascript">JavaScript</a>
-                    <a href="/node">Node.js</a>
+                    <router-link class="nav-link active" aria-current="page" to="/java">Java</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/net">Net</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/php">PHP</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/python">Python</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/javascript">JavaScript</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/node">Node.js</router-link>
                 </div>
             </div>
         </div>
@@ -74,14 +74,14 @@
             <div class="dropdown">
                 <button class="dropdown-btn">Cursos disponibles ▼</button>
                 <div class="dropdown-content">
-                    <a href="/creacion-de-marcas">Creación de marcas</a>
-                    <a href="/creacion-tiendas-online">Creación de tiendas online</a>
-                    <a href="/economia-domestica">Economía doméstica</a>
-                    <a href="/google-ads">Google Ads</a>
-                    <a href="/meta-ads">Facebook e Instagram Ads</a>
-                    <a href="/maduracion-de-proyectos">Maduración de proyectos</a>
-                    <a href="/plan-de-negocios">Plan de negocios</a>
-                    <a href="/gestion-procesos">Gestión de procesos</a>
+                    <router-link class="nav-link active" aria-current="page" to="/creacion-de-marcas">Creación de marcas</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/creacion-tiendas-online">Creación de tiendas online</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/economia-domestica">Economía doméstica</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/google-ads">Google Ads</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/meta-ads">Facebook e Instagram Ads</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/maduracion-de-proyectos">Maduración de proyectos</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/plan-de-negocios">Plan de negocios</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/gestion-procesos">Gestión de procesos</router-link>
                 </div>
             </div>
         </div>
@@ -98,15 +98,15 @@
             <div class="dropdown">
                 <button class="dropdown-btn">Cursos disponibles ▼</button>
                 <div class="dropdown-content">
-                    <a href="/word-basico">Word Básico</a>
-                    <a href="/word-intermedio">Word Intermedio</a>
-                    <a href="/word-avanzado">Word Avanzando</a>
-                    <a href="/excel-basico">Excel Básico</a>
-                    <a href="/excel-intermedio">Excel Intermedio</a>
-                    <a href="/excel-avanzado">Excel Avanzado</a>
-                    <a href="/power-point-bsc">Power Point Básico</a>
-                    <a href="/power-point-intermedio">Power Point Intermedio</a>
-                    <a href="/power-point-avanzado">Power Point Avanzado</a>
+                    <router-link class="nav-link active" aria-current="page" to="/word-basico">Word Básico</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/word-intermedio">Word Intermedio</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/word-avanzado">Word Avanzando</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/excel-basico">Excel Básico</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/excel-intermedio">Excel Intermedio</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/excel-avanzado">Excel Avanzando</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/power-point-bsc">Power Point Básico</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/power-point-intermedio">Power Point Intermedio</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/epower-point-avanzado">Power Point Avanzando</router-link>
                 </div>
             </div>
         </div>
@@ -127,11 +127,11 @@
             <div class="dropdown">
                 <button class="dropdown-btn">Cursos disponibles ▼</button>
                 <div class="dropdown-content">
-                    <a href="/ciudadano-digital1">Ciudadano digital nivel 1</a>
-                    <a href="/ciudadano-digital2">Ciudadano digital nivel 2</a>
-                    <a href="/alfabetizacion-digital">Alfabetización digital</a>
-                    <a href="/herramientas-comunicativas">Herramientas comunicativas</a>
-                    <a href="/competencias-comunicativas">Competencias comunicativas para docentes</a>
+                    <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1">Ciudadano digital nivel 1</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1">Ciudadano digital nivel 2</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/alfabetizacion-digital">Alfabetización digital</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/herramientas-comunicativas">Herramientas comunicativas</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/competencias-comunicativas">Competencias comunicativas para docentes</router-link>
                 </div>
             </div>
         </div>
@@ -148,13 +148,13 @@
             <div class="dropdown">
                 <button class="dropdown-btn">Cursos disponibles ▼</button>
                 <div class="dropdown-content">
-                    <a href="/metodologia-canvas">Metodología canvas </a>
-                    <a href="/diseno-publicitario">Diseño publicitario </a>
-                    <a href="/diseno-UxUis">Diseño UX/UI</a>
-                    <a href="/diseno-presentaciones">Principios de diseño para presentaciones</a>
-                    <a href="/illustrator">Basic Illustrator</a>
-                    <a href="/photoshop">Basic Photoshop</a>
-                    <a href="/afterEffects">Basic after effects</a>
+                    <router-link class="nav-link active" aria-current="page" to="/metodologia-canvas">Metodología canvas</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/diseno-publicitario">Diseño publicitario</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/diseno-UxUis">Diseño UX/UI</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/diseno-presentaciones">Principios de diseño para presentaciones</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/illustrator">Basic Illustrator</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/photoshop">Basic Photoshop</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/afterEffects">Basic after effects</router-link>
                 </div>
             </div>
         </div>
@@ -174,13 +174,13 @@
 
                 </button>
                 <div class="dropdown-content">
-                    <a href="/community-manager">Community Manager</a>
-                    <a href="/marketing-digital">Marketing digital</a>
-                    <a href="/habilidades-sociales">Habilidades sociales</a>
-                    <a href="/instagram">Instagram para el desarrollo de marcas</a>
-                    <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
-                    <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                    <a href="/posicionamiento-buscadores">Posicionamiento en buscadores</a>
+                    <router-link class="nav-link active" aria-current="page" to="/community-manager">Community Manager</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/marketing-digital">Marketing digital</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/habilidades-sociales">Habilidades sociales</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/instagram">Instagram para el desarrollo de marcas</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/posicionamientos-marcas">Posicionamientos de marcas</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</router-link>
+                    <router-link class="nav-link active" aria-current="page" to="/posicionamiento-buscadores">Posicionamiento en buscadores</router-link>
                 </div>
             </div>
         </div>
@@ -195,7 +195,7 @@
 
     <div class="card">
         <figure class="imagen_card">
-            <img src="@/assets/Imagenes/Cabeceras/programacion-a.png" alt="pro-avanzada">  
+            <img src="@/assets/Imagenes/Cabeceras/programacion-a.png" alt="pro-avanzada">
         </figure>
         <div class="contenido-card">
             <h4>Programación avanzada</h4>

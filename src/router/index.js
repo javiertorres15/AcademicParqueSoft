@@ -1,9 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 
-
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
+  scrollBehavior(to, from, savedPosition) {
+    // Si savedPosition está definido, utiliza esa posición.
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      // De lo contrario, desplaza la página al principio.
+      return { x: 0, y: 0 };
+    }
+  },
   routes: [
     {
       path: '/',
@@ -18,12 +26,12 @@ const router = createRouter({
     {
       path: '/ayuda',
       name: 'ayuda',
-      component: () => import('../views/ayuda1.vue')
+      component: () => import('../views/ayuda.vue')
     },
     {
       path: '/mision',
       name: 'mision',
-      component: () => import('../views/mision1.vue')
+      component: () => import('../views/mision.vue')
     }
     ,
     {

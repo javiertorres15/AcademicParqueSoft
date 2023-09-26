@@ -7,45 +7,46 @@
 
 <!-- INICIO NAVBAR -->
 <header class="arriba">
-    <nav class="navbar bg-body-tertiary">
-        <div class="container-fluid">
-            <a class="navbar-brand scroll-logo" href="/"><img src="@/assets/imagenes/academiclogo2p.png" alt="image"></a>
-
-            <button class="navbar-toggler bg-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                <span><i><img class="casa" src="@/assets/imagenes/Casa.png" alt=""></i></span>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-white bg-white static-top">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <img src="@/assets/imagenes/academiclogo2p.png" alt="..." height="36">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                <div class="offcanvas-header">
-                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Bievenidos a Academic</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-                </div>
-                <div class="offcanvas-body">
-                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/">Inicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/programacion">Descarga tu certificado de Startup week</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/pqrs">Buzón de PSQR</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/institucion">Bienestar intitucional</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/ayuda">Ayuda</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Entidad
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="/mision">Misión y visión</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <router-link class="nav-link active" to="/" >Inicio</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <router-link class="nav-link active"  to="/institucion">Bienestar intitucional</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <router-link class="nav-link active"  to="/ayuda" >Ayuda</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <router-link class="nav-link active"  to="/pqrs" >PQRS</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Certificados
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                            <li><router-link class="nav-link active"  to="/" >Descarga tu certificado de Startup week</router-link></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Entidad
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                            <li><router-link class="nav-link active"  to="/mision" >Misión y Visión</router-link></li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
         </div>
     </nav>
@@ -65,12 +66,12 @@
             <div class="box">
                 <h2>SOBRE NOSOTROS</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, ipsa?</p>
-                
+
             </div>
             <div class="box">
                 <h2>SOBRE NOSOTROS</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, ipsa?</p>
-                
+
             </div>
             <div class="box">
                 <h2>SIGUENOS</h2>
@@ -121,5 +122,14 @@
 
     transform: scale(1.1);
 }
+
+/* navbar */
+.arriba {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+    background-color: #ff0000; /* Color de fondo de la barra de navegación */
+  z-index: 1000; /* Asegura que la barra esté por encima de otros elementos */
+}
 </style>
-Buscar en Internet un sitio web en el que se evidencie que se está manejando arquitectura de microservicios. Una vez que hayan encontrado un sitio web adecuado, explóralo en busca de información relacionada con microservicios. Definición de Microservicios identificados. incluye capturas de pantalla y enlaces relevantes que respalden lo indicado. Realizar un diagrama con estructura de arquitectura de microservicios representando lo encontrado en el sitio web.
