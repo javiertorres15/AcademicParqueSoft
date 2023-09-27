@@ -19,32 +19,35 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <router-link class="nav-link active" to="/" @click="scrollToTop" >Inicio</router-link>
+                        <router-link class="nav-link active" to="/" @click="scrollToTop">Inicio</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active"  to="/institucion" @click="scrollToTop">Bienestar intitucional</router-link>
+                        <router-link class="nav-link active" to="/institucion" @click="scrollToTop">Bienestar intitucional</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active"  to="/ayuda" @click="scrollToTop" >Ayuda</router-link>
+                        <router-link class="nav-link active" to="/ayuda" @click="scrollToTop">Ayuda</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active"  to="/pqrs" @click="scrollToTop" >PQRS</router-link>
+                        <router-link class="nav-link active" to="/pqrs" @click="scrollToTop">PQRS</router-link>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="nav-item custom-dropdown">
+                        <a class="nav-link" href="#" id="navbarDropdown1" role="button" data-bs-toggle="collapse" data-bs-target="#certificadosMenu" aria-expanded="false">
                             Certificados
                         </a>
-                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                            <li><router-link class="nav-link active"  to="/" @click="scrollToTop">Descarga tu certificado de Startup week</router-link></li>
-                        </ul>
+                        <div class="collapse" id="certificadosMenu">
+                            <router-link class="nav-link active" to="/" @click="scrollToTop">Descarga tu certificado de Startup week </router-link>
+                        </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="nav-item custom-dropdown">
+                        <a class="nav-link" href="#" id="navbarDropdown2" role="button" data-bs-toggle="collapse" data-bs-target="#entidadMenu" aria-expanded="false">
                             Entidad
                         </a>
-                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                            <li><router-link class="nav-link active"  to="/mision" @click="scrollToTop" >Misión y Visión</router-link></li>
-                        </ul>
+                        <div class="collapse" id="entidadMenu">
+                            <router-link class="nav-link active" to="/mision" @click="scrollToTop">Misión y Visión</router-link>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/holAA" class="btn btn-outline-info" style="text-decoration: none; color: whitesmoke;">Aula virtual</a>
                     </li>
                 </ul>
             </div>
@@ -125,22 +128,58 @@
 
 /* navbar */
 .arriba {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-    background-color: #ff0000; /* Color de fondo de la barra de navegación */
-  z-index: 1000; /* Asegura que la barra esté por encima de otros elementos */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #ff0000;
+    /* Color de fondo de la barra de navegación */
+    z-index: 1000;
+    /* Asegura que la barra esté por encima de otros elementos */
+}
+
+.custom-dropdown {
+    position: relative;
+    /* Importante para el posicionamiento relativo */
+}
+
+.custom-dropdown .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    /* Coloca el menú debajo del elemento padre */
+    left: 50%;
+    /* Centra horizontalmente */
+    transform: translateX(-50%);
+    /* Centra horizontalmente */
+    min-width: auto;
+    /* Opcional: ajusta el ancho según sea necesario */
+}
+
+/* Reducir el tamaño de fuente del texto dentro del menú */
+.custom-dropdown .dropdown-menu li a {
+    font-size: 80%;
+    /* Ajusta el tamaño de fuente según sea necesario */
+}
+
+@media (max-width: 768px) {
+    .custom-dropdown .dropdown-menu {
+        position: relative;
+        width: 100%;
+        /* Ajusta el ancho del menú desplegable al 100% del contenedor */
+        left: 0;
+        right: 0;
+        text-align: center;
+        /* Centra el texto en el menú desplegable */
+    }
 }
 </style>
 
-
 <script>
 export default {
-  methods: {
-    scrollToTop() {
-      window.scrollTo(0, 0); // Desplazar la página hacia la parte superior
+    methods: {
+        scrollToTop() {
+            window.scrollTo(0, 0); // Desplazar la página hacia la parte superior
+        },
     },
-  },
 };
 </script>
