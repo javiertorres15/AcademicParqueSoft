@@ -300,7 +300,7 @@ const router = createRouter({
       name: 'posicionamiento-buscadores',
       component: () => import('../views/marketing/posicionamiento-buscadores.vue')
     }
-  ]
+  ],
 })
 
 export default router

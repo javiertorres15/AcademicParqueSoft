@@ -19,23 +19,23 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <router-link class="nav-link active" to="/" >Inicio</router-link>
+                        <router-link class="nav-link active" to="/" @click="scrollToTop" >Inicio</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active"  to="/institucion">Bienestar intitucional</router-link>
+                        <router-link class="nav-link active"  to="/institucion" @click="scrollToTop">Bienestar intitucional</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active"  to="/ayuda" >Ayuda</router-link>
+                        <router-link class="nav-link active"  to="/ayuda" @click="scrollToTop" >Ayuda</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active"  to="/pqrs" >PQRS</router-link>
+                        <router-link class="nav-link active"  to="/pqrs" @click="scrollToTop" >PQRS</router-link>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Certificados
                         </a>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                            <li><router-link class="nav-link active"  to="/" >Descarga tu certificado de Startup week</router-link></li>
+                            <li><router-link class="nav-link active"  to="/" @click="scrollToTop">Descarga tu certificado de Startup week</router-link></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -43,7 +43,7 @@
                             Entidad
                         </a>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                            <li><router-link class="nav-link active"  to="/mision" >Misión y Visión</router-link></li>
+                            <li><router-link class="nav-link active"  to="/mision" @click="scrollToTop" >Misión y Visión</router-link></li>
                         </ul>
                     </li>
                 </ul>
@@ -133,3 +133,14 @@
   z-index: 1000; /* Asegura que la barra esté por encima de otros elementos */
 }
 </style>
+
+
+<script>
+export default {
+  methods: {
+    scrollToTop() {
+      window.scrollTo(0, 0); // Desplazar la página hacia la parte superior
+    },
+  },
+};
+</script>
