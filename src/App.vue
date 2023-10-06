@@ -11,7 +11,7 @@
     <nav class="navbar navbar-expand-lg navbar-white bg-white static-top">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <img src="@/assets/imagenes/academiclogo2p.png" alt="..." height="36">
+                <img src="@/assets/imagenes/academiclogo2p.png" alt="..." width="150">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -19,32 +19,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <router-link class="nav-link active" to="/" @click="scrollToTop">Inicio</router-link>
+                        <router-link class="nav-link active" to="/institucion" @click="scrollToTop">Nosotros</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active" to="/institucion" @click="scrollToTop">Bienestar intitucional</router-link>
-                    </li>
-                    <li class="nav-item">
-                        <router-link class="nav-link active" to="/ayuda" @click="scrollToTop">Ayuda</router-link>
+                        <router-link class="nav-link active" to="/pqrs" @click="scrollToTop">Inscríbete</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link active" to="/pqrs" @click="scrollToTop">PQRS</router-link>
                     </li>
-                    <li class="nav-item custom-dropdown">
-                        <a class="nav-link" href="#" id="navbarDropdown1" role="button" data-bs-toggle="collapse" data-bs-target="#certificadosMenu" aria-expanded="false">
-                            Certificados
-                        </a>
-                        <div class="collapse" id="certificadosMenu">
-                            <router-link class="nav-link active" to="/" @click="scrollToTop">Descarga tu certificado de Startup week </router-link>
-                        </div>
-                    </li>
-                    <li class="nav-item custom-dropdown">
-                        <a class="nav-link" href="#" id="navbarDropdown2" role="button" data-bs-toggle="collapse" data-bs-target="#entidadMenu" aria-expanded="false">
-                            Entidad
-                        </a>
-                        <div class="collapse" id="entidadMenu">
-                            <router-link class="nav-link active" to="/mision" @click="scrollToTop">Misión y Visión</router-link>
-                        </div>
+                    <li class="nav-item">
+                        <router-link class="nav-link active" to="/ayuda" @click="scrollToTop">Ayuda</router-link>
                     </li>
                     <li class="nav-item">
                         <a href="/holAA" class="btn btn-outline-info" style="text-decoration: none; color: whitesmoke;">Aula virtual</a>
