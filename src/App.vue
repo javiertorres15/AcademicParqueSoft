@@ -22,7 +22,7 @@
                         <router-link class="nav-link active" to="/institucion" @click="scrollToTop">Nosotros</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link active" to="/pqrs" @click="scrollToTop">Inscríbete</router-link>
+                        <router-link class="nav-link active" to="/inscripcion" @click="scrollToTop">Inscríbete</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link active" to="/pqrs" @click="scrollToTop">PQRS</router-link>
@@ -160,10 +160,40 @@
 
 <script>
 export default {
-    methods: {
-        scrollToTop() {
-            window.scrollTo(0, 0); // Desplazar la página hacia la parte superior
-        },
+  mounted() {
+    // Agregar un event listener para los clics en el documento
+    document.addEventListener("click", this.handleClickOutside);
+  },
+  destroyed() {
+    // Eliminar el event listener cuando el componente se destruye
+    document.removeEventListener("click", this.handleClickOutside);
+  },
+  methods: {
+    scrollToTop() {
+      window.scrollTo(0, 0); // Desplazar la página hacia la parte superior
     },
+    handleClickOutside(event) {
+      // Verificar si el objetivo del clic no está dentro del área del navbar
+      const navbar = document.querySelector(".navbar");
+      if (navbar && !navbar.contains(event.target)) {
+        // Cerrar el menú si está abierto (puedes usar un método para hacer esto)
+        this.closeMenu();
+      }
+    },
+    closeMenu() {
+      // Aquí debes implementar la lógica para cerrar el menú
+      // Puedes cambiar las clases, establecer variables de estado, etc.
+      // Por ejemplo, si usas Bootstrap, puedes cerrar el menú de esta manera:
+      const navbarToggle = document.querySelector(".navbar-toggler");
+      const navbarCollapse = document.querySelector(".navbar-collapse");
+
+      if (navbarToggle && navbarCollapse) {
+        navbarToggle.classList.add("collapsed");
+        navbarCollapse.classList.remove("show");
+      }
+    },
+  },
 };
+
+
 </script>

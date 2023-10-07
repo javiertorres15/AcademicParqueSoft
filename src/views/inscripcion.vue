@@ -2,9 +2,9 @@
 <div class="container mt-4">
     <div class="row justify-content-center">
         <div class="col-md-6">
-            <h3>PQRS</h3> <br /><br />
+            <h3>Formulario de inscripción</h3> <br /><br />
             <!-- Usamos @submit para escuchar el evento de envío del formulario -->
-            <form @submit="enviarFormulario" method="post" action="https://script.google.com/macros/s/AKfycbxtMHtciQrnNpbp7bADVi7CsgxcETJV7Q-hMDx8Ka3lDfcLS8qVYgovOCZ5Yq6SzycP/exec">
+            <form @submit="enviarFormulario" method="post" action="https://script.google.com/macros/s/AKfycbyWht783PrUix-Zk-vIRZGW5EjRI6LDlvfsFz1RKHft0kJmDyhUnVUTS9MiUEC_z4fiuw/exec">
                 <div class="form-group">
                     <label for="full_name_id" class="control-label">Nombre completo</label>
                     <input type="text" class="form-control" id="full_name_id" name="nombre" required>
@@ -12,17 +12,27 @@
                     <input type="text" class="form-control" id="full_name_id" name="apellido" required>
                     <label for="full_name_id" class="control-label">Correo electronico</label>
                     <input type="email" class="form-control" id="full_name_id" name="correo" required>
-                    <label for="gender_id" class="control-label">Tipo</label>
-                    <select class="form-control" id="gender_id" name="tipo">
-                        <option value="">Seleciona un tipo</option>
-                        <option value="peticion">Petición</option>
-                        <option value="queja">Queja</option>
-                        <option value="reclamo">Reclamo</option>
-                        <option value="sugerencia">Sugerencia</option>
+                    <label for="full_name_id" class="control-label">Telefono</label>
+                    <input type="number" class="form-control" id="full_name_id" name="telefono" required>
+                    <label for="gender_id" class="control-label">Género</label>
+                    <select class="form-control" id="gender_id" name="genero">
+                        <option value="">Seleciona un genero</option>
+                        <option value="masculino">Masculino</option>
+                        <option value="femenino">Femenino</option>
+                        <option value="otro">Otro</option>
                     </select>
-                    <label for="full_name_id" class="control-label">Asunto</label>
-                    <input type="text" class="form-control" id="full_name_id" name="asunto" required placeholder="Escriba aquí">
+                    <label for="category_id" class="control-label">Categoría</label>
+                    <select class="form-control" id="category_id" name="categoria">
+                        <option value="">Seleciona una categoria</option>
+                        <option value="programacion">Programación</option>
+                        <option value="emprendimiento">Emprendimiento</option>
+                        <option value="ofimatica">Ofimática</option>
+                        <option value="tic">TIC</option>
+                        <option value="diseno">Diseño</option>
+                        <option value="marketing">Marketing</option>
+                    </select>
                 </div>
+
                 <div class="form-group mt-4">
                     <button type="submit" class="btn btn-primary">Enviar</button>
                 </div>
@@ -37,6 +47,7 @@
 </div>
 </template>
 
+  
 <script>
 export default {
     data() {
@@ -51,7 +62,7 @@ export default {
             // Agregar aquí el código para enviar el formulario (por ejemplo, usando fetch)
             // Una vez que se haya enviado con éxito el formulario, establece envioExitoso en true
             // y luego recarga la página después de un breve retraso
-            fetch('https://script.google.com/macros/s/AKfycbxtMHtciQrnNpbp7bADVi7CsgxcETJV7Q-hMDx8Ka3lDfcLS8qVYgovOCZ5Yq6SzycP/exec', {
+            fetch('https://script.google.com/macros/s/AKfycbyWht783PrUix-Zk-vIRZGW5EjRI6LDlvfsFz1RKHft0kJmDyhUnVUTS9MiUEC_z4fiuw/exec', {
                     method: 'POST',
                     body: new FormData(e.target),
                 })

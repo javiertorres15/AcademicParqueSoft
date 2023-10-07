@@ -39,6 +39,12 @@ const router = createRouter({
       name: 'pqrs',
       component: () => import('../views/pqrs.vue')
     }
+    ,
+    {
+      path: '/inscripcion',
+      name: 'inscripcion',
+      component: () => import('../views/inscripcion.vue')
+    },
 
     // RUTAS CURSOS DE Programacion
     ,
