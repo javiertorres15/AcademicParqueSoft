@@ -1,12 +1,5 @@
 <template>
-<section class=" galery container">
-    <img src="@/assets/Imagenes/bienestar-institucional/0.png" alt="#">
-    <img src="@/assets/Imagenes/bienestar-institucional/5.png" alt="#">
-    <img src="@/assets/Imagenes/bienestar-institucional/7.png" alt="#">
-    <img src="@/assets/Imagenes/bienestar-institucional/9.png" alt="#">
-    <img src="@/assets/Imagenes/bienestar-institucional/emprendimiento.png" alt="#">
-    <img src="@/assets/Imagenes/bienestar-institucional/programacion1.png" alt="#">
-</section>
+
 <br>
 <div class="cuadro">
     <h2 class="principal display-4">¡Bienvenidos a Academic!</h2>

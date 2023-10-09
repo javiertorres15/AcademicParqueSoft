@@ -2,7 +2,7 @@
 <div class="container mt-4">
     <div class="row justify-content-center">
         <div class="col-md-6">
-            <h3>PQRS</h3> <br /><br />
+            <h3>PQRS</h3> <br />
             <!-- Usamos @submit para escuchar el evento de envío del formulario -->
             <form @submit="enviarFormulario" method="post" action="https://script.google.com/macros/s/AKfycbxtMHtciQrnNpbp7bADVi7CsgxcETJV7Q-hMDx8Ka3lDfcLS8qVYgovOCZ5Yq6SzycP/exec">
                 <div class="form-group">
