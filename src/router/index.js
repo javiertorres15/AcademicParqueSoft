@@ -306,6 +306,12 @@ const router = createRouter({
       name: 'posicionamiento-buscadores',
       component: () => import('../views/marketing/posicionamiento-buscadores.vue')
     }
+    ,
+    {
+      path: '/programacion-avanzada',
+      name: 'programacion-avanzada',
+      component: () => import('../views/pro-avanzada/programacion-avanzada.vue')
+    }
   ],
 })
 

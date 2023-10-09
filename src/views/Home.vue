@@ -208,7 +208,7 @@
             <div class="card-footer">
                 <div class="dropdown">
                     <button class="dropdown-btn">
-                        Vamos
+                        <router-link class="nav-link active" aria-current="page" to="/programacion-avanzada" @click="scrollToTop">Vamos</router-link>
 
                     </button>
                     <!-- <div class="dropdown-content">
