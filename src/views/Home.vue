@@ -170,22 +170,15 @@
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <button class="cssbuttons-io-button"> Get started
-                        <div class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-                                <path fill="none" d="M0 0h24v24H0z"></path>
-                                <path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path>
-                            </svg>
-                        </div>
-                    </button>
+                    <button class="dropdown-btn">Cursos disponibles ▼</button>
                     <div class="dropdown-content">
                         <router-link class="nav-link active" aria-current="page" to="/community-manager" @click="scrollToTop">Community Manager</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/marketing-digital" @click="scrollToTop">Marketing digital</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/habilidades-sociales" @click="scrollToTop">Habilidades sociales</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/instagram" @click="scrollToTop">Instagram para el desarrollo de marcas</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/posicionamientos-marcas" @click="scrollToTop">Posicionamientos de marcas</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/internet-rs-dg" @click="scrollToTop">Internet, redes sociales y dispositivos digitales</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/marketing-digital" @click="scrollToTop">Marketing digital</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/posicionamiento-buscadores" @click="scrollToTop">Posicionamiento en buscadores</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/posicionamientos-marcas" @click="scrollToTop">Posicionamientos de marcas</router-link>
                     </div>
                 </div>
             </div>
@@ -207,10 +200,16 @@
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <button class="dropdown-btn">
-                        <router-link class="nav-link active" aria-current="page" to="/programacion-avanzada" @click="scrollToTop">Vamos</router-link>
-
-                    </button>
+                    <router-link class="nav-link active" aria-current="page" to="/programacion-avanzada" @click="scrollToTop">
+                        <button class="cssbuttons-io-button">Vamos
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                                    <path fill="none" d="M0 0h24v24H0z"></path>
+                                    <path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path>
+                                </svg>
+                            </div>
+                        </button>
+                    </router-link>
                     <!-- <div class="dropdown-content">
                         <a href="/community-manager">Community Manager</a>
                         <a href="/marketing-digital">Marketing digital</a>
@@ -303,58 +302,114 @@
 }
 
 .cssbuttons-io-button {
-  background: #A370F0;
-  color: white;
-  font-family: inherit;
-  padding: 0.35em;
-  padding-left: 1.2em;
-  font-size: 17px;
-  font-weight: 500;
-  border-radius: 0.9em;
-  border: none;
-  letter-spacing: 0.05em;
-  display: flex;
-  align-items: center;
-  box-shadow: inset 0 0 1.6em -0.6em #714da6;
-  overflow: hidden;
-  position: relative;
-  height: 2.8em;
-  padding-right: 3.3em;
+    background: #04954A;
+    color: white;
+    font-family: inherit;
+    padding: 0.35em;
+    padding-left: 1.2em;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 0.9em;
+    border: none;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    box-shadow: inset 0 0 1.6em -0.6em #04954A;
+    overflow: hidden;
+    position: relative;
+    height: 2.8em;
+    padding-right: 3.3em;
 }
 
 .cssbuttons-io-button .icon {
-  background: white;
-  margin-left: 1em;
-  position: absolute;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 2.2em;
-  width: 2.2em;
-  border-radius: 0.7em;
-  box-shadow: 0.1em 0.1em 0.6em 0.2em #7b52b9;
-  right: 0.3em;
-  transition: all 0.3s;
+    background: white;
+    margin-left: 1em;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.2em;
+    width: 2.2em;
+    border-radius: 0.7em;
+    box-shadow: 0.1em 0.1em 0.6em 0.2em #04954A;
+    right: 0.3em;
+    transition: all 0.3s;
 }
 
 .cssbuttons-io-button:hover .icon {
-  width: calc(100% - 0.6em);
+    width: calc(100% - 0.6em);
 }
 
 .cssbuttons-io-button .icon svg {
-  width: 1.1em;
-  transition: transform 0.3s;
-  color: #7b52b9;
+    width: 1.1em;
+    transition: transform 0.3s;
+    color: #04954A;
 }
 
 .cssbuttons-io-button:hover .icon svg {
-  transform: translateX(0.1em);
+    transform: translateX(0.1em);
 }
 
 .cssbuttons-io-button:active .icon {
-  transform: scale(0.95);
+    transform: scale(0.95);
 }
 
+/* Estilo para el botón del dropdown */
+.dropdown-btn {
+
+    color: #333;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilo del menú desplegable */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* Estilo de los enlaces del menú */
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: #333;
+    animation: fadeInDown 0.3s ease-in-out;
+    width: 300px;
+    top: 440%;
+}
+
+/* Cambiar el color del enlace cuando se pasa el cursor por encima */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Mostrar el menú desplegable cuando se pasa el cursor por encima del botón */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: gainsboro;
+}
+
+/* Animación de entrada */
+@keyframes fadeInDown {
+    0% {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
 </style>
 
 <script>
