@@ -36,7 +36,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="about_img-container">
-                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes/about.png" alt="">
+                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes/about.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="admission_img-container">
-                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes/admission.png" alt="">
+                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes/admission.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="why_img-container">
-                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes/why.png" alt="">
+                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes/why.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -149,7 +149,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="determine_img-container">
-                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes//determine.png" alt="">
+                        <img src="@/assets/Imagenes/programacion-avanzada/imagenes//determine.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -177,7 +177,7 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="client_img-box">
-                                <img src="@/assets/Imagenes/programacion-avanzada/imagenes/client.png" alt="">
+                                <img src="@/assets/Imagenes/programacion-avanzada/imagenes/client.png" alt="" class="img-fluid">
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -198,7 +198,7 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="client_img-box">
-                                <img src="@/assets/Imagenes/programacion-avanzada/imagenes/client.png" alt="">
+                                <img src="@/assets/Imagenes/programacion-avanzada/imagenes/client.png" alt="" class="img-fluid">
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -219,7 +219,7 @@
                     <div class="row">
                         <div class="col-md-3">
                             <div class="client_img-box">
-                                <img src="@/assets/Imagenes/programacion-avanzada/imagenes/client.png" alt="">
+                                <img src="@/assets/Imagenes/programacion-avanzada/imagenes/client.png" alt="" class="img-fluid">
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -285,7 +285,7 @@
             </div>
             <div class="col-md-6">
                 <div class="contact_img-box">
-                    <img src="@/assets/Imagenes/programacion-avanzada/imagenes/students.jpg" alt="">
+                    <img src="@/assets/Imagenes/programacion-avanzada/imagenes/students.jpg" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
