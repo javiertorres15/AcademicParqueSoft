@@ -74,19 +74,26 @@
         <div class="grupo-1">
             <div class="box">
                 <h2>SOBRE NOSOTROS</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, ipsa?</p>
+                <p style="text-align: justify;">¡Aprende, crece y prospera con nosotros! En academic, estamos comprometidosen brindarte la mejor experiencia de aprendizaje en linea. 
+                    Descubre una amplia gama de cursos de calidad impartidos por expertos en sus campos. Tu exito es nuestra proridad. ¡Comienza tu viaje 
+                    de aprendizaje hoy mismo y construye un futuro brillante!</p>
 
             </div>
             <div class="box">
-                <h2>SOBRE NOSOTROS</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, ipsa?</p>
+                <h2>Contáctenos</h2>
+                <p><strong>Correo:</strong> academic.asistente@parquesoft.com</p>
+                <p><strong>Horario:</strong> Lunea a Viernes</p>
+                <p>8:00 am - 12:00 pm</p>
+                <p>2:00 pm - 6:00 pm</p>
+                <p><strong>Telefono:</strong> +57 3235223064</p>
+                <p><strong>Dirección:</strong> Cra 20#27-80 piso 3 </p>
 
             </div>
             <div class="box">
                 <h2>SIGUENOS</h2>
                 <div class="red-social">
-                    <a href="#" class="fab fa-facebook"></a>
-                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="https://www.facebook.com/people/ParqueSoft-Sucre" class="fab fa-facebook" target="_blank"></a>
+                    <a href="https://www.instagram.com/parquesoftsucre" class="fab fa-instagram" target="_blank"></a>
                     <a href="#" class="fab fa-tiktok"></a>
 
                 </div>

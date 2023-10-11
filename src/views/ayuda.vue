@@ -1,142 +1,234 @@
 <template>
-  
-    <div class="ayuda">
+<div class="ayuda">
     <div class="container">
         <div class="row">
             <div class=" titulo col-sm-12 col-xl-12">
                 <h1>Preguntas frecuentes</h1>
-            </div> 
+            </div>
         </div>
 
         <div class="accordion" id="accordionExample">
             <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  1. ¿Cuál es el proceso exacto para matricularme en un curso?
-                </button>
-              </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <strong>¿Cuál es el proceso exacto para matricularme en un curso?</strong> 
+                <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        1. ¿Cuál es el proceso exacto para matricularme en un curso?
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <strong>Para matricularte en un curso en nuestra plataforma Academic, sigue
+                            estos pasos:</strong>
+                        <p>-Ingresa a la plataforma Academic en la siguiente dirección:
+                            http://academic.parquesoftsucre.com/.</p>
+                        <p>-Selecciona el curso que te interesa y se ajuste a tus necesidades.</p>
+                        <p>-Dirígete a la sección de "Inscripción", donde encontrarás un
+                            formulario que debes completar para realizar la matrícula.</p>
+                        <p>-Como último paso, nos comunicaremos contigo para gestionar los
+                            procesos relacionados con tu matrícula, como los pagos y el inicio del
+                            curso.</p>
+                    </div>
                 </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  2. ¿Es necesario crear una cuenta en la plataforma antes de matricularme?
-                </button>
-              </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  3. ¿Cuáles son los requisitos previos para inscribirse en determinados cursos?
-                </button>
-              </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                </div>
-              </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    4. ¿Puedo inscribirme en varios cursos a la vez?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        2. ¿Es necesario crear una cuenta en la plataforma antes de matricularme?
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>No es necesario crear una cuenta previamente, ya que el formulario
+                            de inscripción nos proporciona los datos necesarios para los procesos
+                            académicos. Sin embargo, te recomendamos registrarte en nuestra
+                            plataforma para una mejor experiencia.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        3. ¿Cuáles son los requisitos previos para inscribirse en determinados cursos?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>Para la mayoría de nuestros cursos, no se requieren requisitos
+                            específicos. Cualquier persona interesada puede inscribirse en
+                            nuestros cursos.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        4. ¿Puedo inscribirme en varios cursos a la vez?
+                    </button>
                 </h2>
                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                    <div class="accordion-body">
+                        <p>Sí, puedes inscribirte en hasta dos cursos a la vez, siempre y cuando
+                            dispongas del tiempo y los recursos necesarios.</p>
+                    </div>
+
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                    5. ¿Existe un límite de tiempo para completar la matrícula una vez que he seleccionado un curso?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        5. ¿Existe un límite de tiempo para completar la matrícula una vez que he seleccionado un curso?
+                    </button>
                 </h2>
                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                    <div class="accordion-body">
+                        <p>Sí, en nuestra plataforma virtual, es importante tener en cuenta los
+                            siguientes detalles con respecto al proceso de matrícula:</p>
+                        <p style="text-align:justify">
+                            <strong>Fecha de cierre de inscripción:</strong> Una vez que hayas seleccionado un
+                            curso a través de nuestro formulario de inscripción, tendrás un
+                            período determinado para completar el proceso de matrícula. Esta
+                            fecha se establece para garantizar una planificación efectiva y brindar
+                            la mejor experiencia de aprendizaje a todos los estudiantes.
+                            Plazo de matriculación: Por lo general, tendrás un plazo específico
+                            para finalizar la matrícula después de haber seleccionado el curso.
+                            Este plazo se indicará claramente en la confirmación de tu inscripción
+                            y en los correos electrónicos de seguimiento.
+                        </p>
+                        <p style="text-align:justify">
+                            <strong>Flexibilidad en los plazos:</strong> Entendemos que pueden surgir
+                            circunstancias imprevistas, por lo que, en algunos casos, podemos
+                            ofrecer cierta flexibilidad en los plazos de matriculación. Si necesitas
+                            una extensión de tiempo o tienes preguntas sobre los plazos, te
+                            animamos a ponerte en contacto con nuestro equipo de soporte para
+                            discutir tus necesidades específicas.
+                        </p>
+                    </div>
+
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    6. ¿Qué información o documentos se requieren durante el proceso de matrícula?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSiete" aria-expanded="false" aria-controls="collapseSiete">
+                        6. ¿Cuál es la duración típica de los cursos y clases?
+                    </button>
                 </h2>
-                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                <div id="collapseSiete" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>Nuestros cursos son de duración corta, y la duración de las clases se
+                            informa una vez que inician.</p>
+                    </div>
+
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    7. ¿Cómo puedo solicitar un reembolso si decido cancelar mi matrícula?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        7. ¿Cómo se estructuran las clases y el contenido del curso?
+                    </button>
                 </h2>
                 <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                    <div class="accordion-body">
+                        <strong>Nuestras clases se estructuran de la siguiente manera: </strong><br>
+                        -Introducción. <br>
+                        -Contenido principal. <br>
+                        -Actividades prácticas para promover el aprendizaje activo, que
+                        incluyen ejercicios, tareas, proyectos o discusiones en línea. <br>
+                        -Cierre de cada clase con un resumen de los puntos clave y las
+                        conclusiones. <br>
+                        <strong>Los contenidos del curso se estructuran de la siguiente manera:</strong> <br>
+                        -Objetivos de aprendizaje. <br>
+                        -Temas y módulos. <br>
+                        -Evaluación y certificación. <br>
+                        -Soporte y comunicación. <br>
+                        <strong>Calendario del curso (se proporciona una vez que inician las clases)</strong>
+                    </div>
+
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    8. ¿Ofrecen opciones de financiamiento o planes de pago para los cursos?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOcho" aria-expanded="false" aria-controls="collapseOcho">
+                        8. ¿Ofrecen tutorías o sesiones de apoyo individual?
+                    </button>
                 </h2>
-                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                <div id="collapseOcho" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        Ofrecemos sesiones de apoyo individual en caso de que los
+                        estudiantes tengan dificultades en el proceso de aprendizaje, pero
+                        estas tienen un costo adicional. Además, implementamos sesiones
+                        grupales para poner en práctica lo aprendido, las cuales son
+                        gratuitas.
+                    </div>
+
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    9. ¿Hay algún descuento disponible si me inscribo en varios cursos o si soy un estudiante recurrente?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNueve" aria-expanded="false" aria-controls="collapseNueve">
+                        9. ¿Puedo acceder al contenido del curso en cualquier
+                        momento o hay horarios específicos para las clases?
+                    </button>
                 </h2>
-                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                <div id="collapseNueve" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        El contenido del curso se va liberando gradualmente en cada clase, y
+                        existen horarios específicos para cada una.
+                    </div>
+
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    10. ¿Cuál es la política de reembolso en caso de cancelación de un curso?
-                  </button>
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDiez" aria-expanded="false" aria-controls="collapseDiez">
+                        10. ¿Ofrecen opciones de financiamiento o planes de
+                        pago para los cursos?
+                    </button>
                 </h2>
-                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                  </div>
-              
+                <div id="collapseDiez" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p style="text-align: justify;">
+                            Claro, en Academic, nuestra principal prioridad es brindar acceso a la
+                            educación de calidad y hacerla accesible para todos. Por lo tanto,
+                            ofrecemos opciones de financiamiento y planes de pago flexibles para
+                            nuestros cursos. Nuestro objetivo es que nadie se quede atrás debido
+                            a limitaciones financieras. Aquí te explicamos cómo funcionan nuestras opciones de financiamiento y planes de pago:
+                        </p>
+                        <p><strong>-Pago Único:</strong>Ofrecemos la opción de un pago único para aquellos
+                            estudiantes que prefieren pagar el curso de una vez. Esto les permite
+                            acceder al contenido de inmediato y completar el curso a su propio
+                            ritmo.</p>
+                        <p><strong>-Flexibilidad en el Pago:</strong>Entendemos que las circunstancias pueden
+                            cambiar. Por lo tanto, si un estudiante se encuentra con dificultades
+                            para cumplir con sus pagos, estamos dispuestos a trabajar con ellos
+                            para encontrar soluciones personalizadas y flexibles.</p>
+                        <p>En Academic, creemos que la educación de calidad debe ser accesible
+                            para todos, independientemente de su situación financiera. Nuestro
+                            objetivo es brindar oportunidades de aprendizaje asequibles y
+                            flexibles para que los estudiantes puedan alcanzar sus metas
+                            educativas sin barreras económicas. Estamos comprometidos a
+
+                            apoyar a nuestra comunidad estudiantil y asegurarnos de que todos
+                            tengan la oportunidad de acceder a una educación de calidad.</p>
+                    </div>
+
                 </div>
             </div>
-              
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOnce" aria-expanded="false" aria-controls="collapseOnce">
+                        11. ¿Qué información o documentos se requieren?
+                    </button>
+                </h2>
+                <div id="collapseOnce" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>Los requisitos varían según el curso, pero una vez que completes el
+                            formulario de inscripción, nos pondremos en contacto contigo para
+                            especificar qué otros documentos o información pueden ser
+                            necesarios. Esto puede incluir información de método de pago,
+                            documentos de identificación u otros requisitos específicos del curso.</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
         <br>
     </div>
@@ -144,25 +236,29 @@
 </template>
 
 <style>
-.ayuda{
-   background-image: url(@/assets/imagenes/O1.png);
-   background-size: cover; /* Ajustar el tamaño para cubrir el viewport */
-   background-position: center; /* Centrar la imagen */
-   min-height: 100vh; /* Mínima altura de la ventana del navegador */
+.ayuda {
+    background-image: url(@/assets/imagenes/O1.png);
+    background-size: cover;
+    /* Ajustar el tamaño para cubrir el viewport */
+    background-position: center;
+    /* Centrar la imagen */
+    min-height: 100vh;
+    /* Mínima altura de la ventana del navegador */
 
 }
-.titulo{
+
+.titulo {
     text-align: center;
     color: rgb(255, 255, 255);
     margin-top: 20px !important;
-   
+
 }
-.accordion-item{
+
+.accordion-item {
     background-color: rgb(252, 252, 252) !important;
 }
-.accordion-button{
+
+.accordion-button {
     background-color: rgb(252, 247, 247) !important;
 }
-
-
 </style>

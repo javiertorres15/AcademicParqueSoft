@@ -39,6 +39,11 @@
                         <option value="diseno">Diseño</option>
                         <option value="marketing">Marketing</option>
                     </select>
+                    <!-- Agrega el segundo select dinámico -->
+                    <label for="subcategory_id" class="control-label">Curso</label>
+                    <select class="form-control" id="subcategory_id" name="curso" disabled>
+                        <option value="">Selecciona un curso</option>
+                    </select>
                 </div>
 
                 <div class="form-group mt-4">
@@ -56,6 +61,37 @@
 </template>
 
 <script>
+import $ from 'jquery';
+
+$(document).ready(function () {
+    // Define un objeto JSON con las opciones para el segundo select
+    var subcategories = {
+        programacion: ["Java", "Net", "PHP", "Pythob", "JavaScript", "Node.js"],
+        emprendimiento: ["Creación de marcas", "Creación de tiendas online", "Economía doméstica", "Google Ads", "Facebook e Instagram Ads", "Maduración de proyectos", "Plan de negocios", "Gestión de procesos"],
+        tic: ["Ciudadano digital nivel 1", "Ciudadano digital nivel 2", "Alfabetización digital", "Herramientas comunicativas", "Competencias comunicativas para docentes"],
+        diseno: ["Metodología canvas", "Diseño publicitario", "Diseño UX/UI", "Principios de diseño para presentaciones", "Basic Illustrator", "Basic Photoshop", "Basic after effects"],
+        marketing: ["Community Manager", "Habilidades sociales", "Instagram para el desarrollo de marcas", "Internet, redes sociales y dispositivos digitales", "Marketing digital", "Posicionamiento en buscadores", "Posicionamientos de marcas"],
+        ofimatica: ["Word Básico", "Word Intermedio", "Word Avanzando", "Excel Básico", "Excel Intermedio", "Excel Avanzando", "Power Point Básico", "Power Point Intermedio", "Power Point Avanzando"]
+    };
+
+    // Cuando cambia la selección en el primer select
+    $("#category_id").on("change", function () {
+        var selectedCategory = $(this).val();
+        var $subcategorySelect = $("#subcategory_id");
+
+        // Habilita el segundo select
+        $subcategorySelect.prop("disabled", false);
+
+        // Limpia las opciones anteriores
+        $subcategorySelect.empty();
+
+        // Llena el segundo select con las opciones correspondientes
+        $.each(subcategories[selectedCategory], function (index, value) {
+            $subcategorySelect.append($("<option>").text(value).val(value));
+        });
+    });
+});
+
 export default {
     data() {
         return {
