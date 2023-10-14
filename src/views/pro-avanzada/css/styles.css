@@ -130,9 +130,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #ffbd50;
+	border: 0.125rem solid #F4CB38;
 	border-radius: 2rem;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 	color: #333;
 	font: 600 0.875rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -149,9 +149,9 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #ffbd50;
+	border: 0.125rem solid #F4CB38;
 	border-radius: 2rem;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 	color: #333;
 	font: 600 0.875rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -178,8 +178,8 @@ a:hover {
 }
 
 .btn-outline-reg:hover {
-	border: 0.125rem solid #ffbd50;
-	background-color: #ffbd50;
+	border: 0.125rem solid #F4CB38;
+	background-color: #F4CB38;
 	color: #333;
 	text-decoration: none;
 }
@@ -216,8 +216,8 @@ a:hover {
 }
 
 .btn-outline-sm:hover {
-	border: 0.125rem solid #ffbd50;
-	background-color: #ffbd50;
+	border: 0.125rem solid #F4CB38;
+	background-color: #F4CB38;
 	color: #333;
 	text-decoration: none;
 }
@@ -366,9 +366,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 0.125rem solid #ffbd50;
+	border: 0.125rem solid #F4CB38;
 	border-radius: 1.5rem;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 	color: #333;
 	font: 600 0.875rem/0 "Montserrat", sans-serif;
 	cursor: pointer;
@@ -598,7 +598,7 @@ input[type='checkbox'] {
 	width: 1rem;
 	height: 1rem;
 	border-radius: 100%;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 	-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 	animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 }
@@ -648,7 +648,7 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-brand.logo-text {
 	font: italic 600 2rem/1.5rem "Montserrat", sans-serif;
-	color: #ffbd50;
+	color: #F4CB38;
 	text-decoration: none;
 }
 
@@ -760,7 +760,7 @@ input[type='checkbox'] {
 	position: relative;
 	padding-top: 8rem;
 	padding-bottom: 40%;
-	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../imagenes/fondo.jpeg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../imagenes/fondo.png') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -810,8 +810,8 @@ input[type='checkbox'] {
 }
 
 .header .btn-solid-lg:hover {
-	border: 0.125rem solid #ffbd50;
-	color: #ffbd50;
+	border: 0.125rem solid #F08217;
+	color: #F08217;
 }
 
 .header .btn-outline-lg {
@@ -873,7 +873,7 @@ input[type='checkbox'] {
 .form-1 {
 	padding-top: 6rem;
 	padding-bottom: 6.25rem;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 }
 
 .form-1 h2 {
@@ -984,7 +984,7 @@ input[type='checkbox'] {
 	width: 2.125rem;
 	height: 2.125rem;
 	border-radius: 50%;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 	color: #333;
 	font-style: normal;
 	font-weight: 700;
@@ -1173,7 +1173,7 @@ input[type='checkbox'] {
 	width: 4.75rem;
 	height: 4.75rem;
 	border-radius: 50%;
-	background: #ffbd50;
+	background: #F4CB38;
 	animation: pulse-border 1500ms ease-out infinite;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1190,7 +1190,7 @@ input[type='checkbox'] {
 	width: 4.375rem;
 	height: 4.375rem;
 	border-radius: 50%;
-	background: #ffbd50;
+	background: #F4CB38;
 	transition: all 200ms;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1264,7 +1264,7 @@ input[type='checkbox'] {
 
 .cards .fas,
 .cards .far {
-	color: #ffbd50;
+	color: #F4CB38;
 	font-size: 3rem;
 	line-height: 6rem;
 }
@@ -1418,12 +1418,12 @@ input[type='checkbox'] {
 }
 
 .form-2 .fa-stack .fa-stack-2x {
-	color: #ffbd50;
+	color: #F4CB38;
 	transition: all 0.2s ease;
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-	color: #ffbd50;
+	color: #F4CB38;
 }
 
 .form-2 .fa-stack:hover .fa-stack-2x {
@@ -1437,7 +1437,7 @@ input[type='checkbox'] {
 .form-3 {
 	padding-top: 6.125rem;
 	padding-bottom: 5.125rem;
-	background-color: #ffbd50;
+	background-color: #F4CB38;
 }
 
 .form-3 .text-container {
@@ -1552,7 +1552,7 @@ input[type='checkbox'] {
 }
 
 .footer .fab:hover {
-	color: #ffbd50;
+	color: #F4CB38;
 }
 
 
