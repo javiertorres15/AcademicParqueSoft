@@ -196,7 +196,8 @@
                 <img src="@/assets/Imagenes/Cabeceras/programacion-a.png" alt="pro-avanzada">
             </figure>
             <div class="contenido-card">
-                <h4>Programación avanzada</h4>
+                <h4>Programación Avanzada</h4>
+                <br>
             </div>
             <div class="card-footer">
                 <div class="dropdown">
@@ -210,14 +211,6 @@
                             </div>
                         </button>
                     </router-link>
-                    <!-- <div class="dropdown-content">
-                        <a href="/community-manager">Community Manager</a>
-                        <a href="/marketing-digital">Marketing digital</a>
-                        <a href="/habilidades-sociales">Habilidades sociales</a>
-                        <a href="/instagram">Instagram para el desarrollo de marcas</a>
-                        <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
-                        <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                    </div> -->
                 </div>
             </div>
 
@@ -233,18 +226,16 @@
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <button class="dropdown-btn">
-                        Cursos disponibles ▼
-
-                    </button>
-                    <!-- <div class="dropdown-content">
-                        <a href="/community-manager">Community Manager</a>
-                        <a href="/marketing-digital">Marketing digital</a>
-                        <a href="/habilidades-sociales">Habilidades sociales</a>
-                        <a href="/instagram">Instagram para el desarrollo de marcas</a>
-                        <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
-                        <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                    </div> -->
+                    <router-link class="nav-link active" aria-current="page" to="/robotica-basica" @click="scrollToTop">
+                        <button class="cssbuttons-io-button">Vamos
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                                    <path fill="none" d="M0 0h24v24H0z"></path>
+                                    <path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path>
+                                </svg>
+                            </div>
+                        </button>
+                    </router-link>
                 </div>
             </div>
             <div class="cinta">Próximamente</div>
@@ -258,18 +249,16 @@
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <button class="dropdown-btn">
-                        Cursos disponibles ▼
-
-                    </button>
-                    <!-- <div class="dropdown-content">
-                        <a href="/community-manager">Community Manager</a>
-                        <a href="/marketing-digital">Marketing digital</a>
-                        <a href="/habilidades-sociales">Habilidades sociales</a>
-                        <a href="/instagram">Instagram para el desarrollo de marcas</a>
-                        <a href="/posicionamientos-marcas">Posicionamientos de marcas</a>
-                        <a href="/internet-rs-dg">Internet, redes sociales y dispositivos digitales</a>
-                    </div> -->
+                    <router-link class="nav-link active" aria-current="page" to="/robotica-avanzada" @click="scrollToTop">
+                        <button class="cssbuttons-io-button">Vamos
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                                    <path fill="none" d="M0 0h24v24H0z"></path>
+                                    <path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path>
+                                </svg>
+                            </div>
+                        </button>
+                    </router-link>
                 </div>
             </div>
             <div class="cinta">Próximamente</div>

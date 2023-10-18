@@ -8,16 +8,17 @@
                     <div class="countdown">
                         <span id="clock"></span>
                     </div>
-                    <h1>Únete a una experiencia educativa de vanguardia</h1>
-                    <p class="p-large">Clases Online En Vivo, dictadas por expertos en la industria.
+                    <h1 style="color: black;">Únete a una experiencia educativa de vanguardia</h1>
+                    <p style="color: black;" class="p-large">Clases Online En Vivo, dictadas por expertos en la industria.
                         Inicia desde cero y te certificas en 8 meses.</p>
                     <a class="btn-solid-lg page-scroll" href="#register">Registrate</a>
-
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
-
+<br>
+<br>
+<br>
     <!-- Image Slider -->
     <div class="outer-container">
         <div class="slider-container">
@@ -33,15 +34,18 @@
                             <div class="carousel-item active">
                                 <!-- Video en lugar de imagen -->
                                 <video class="d-block w-100" autoplay muted loop>
-                                    <source src="@/assets/imagenes/imagenprincipal.mp4" type="video/mp4">
-                                    Tu navegador no admite el elemento de video.
+                                    <source src="@/views/pro-avanzada/imagenes/video-pro-avanzada.mp4" type="video/mp4">
+                            
                                 </video>
                             </div>
                             <div class="carousel-item">
-                                <img src="@/assets/imagenes/O1.png" class="d-block w-100 img-fluid" alt="Imagen">
+                                <video class="d-block w-100">
+                                    <source src="@/assets/imagenes/imagenprincipal.mp4" type="video/mp4">
+                                </video>
+                                
                             </div>
                             <div class="carousel-item">
-                                <img src="@/assets/imagenes/O1.png" class="d-block w-100 img-fluid" alt="Imagen">
+                                <img src="@/assets/imagenes/imagenprincipal.mp4" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -69,50 +73,32 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="text-container">
-                    <h2>Register Using The Form</h2>
-                    <p>It's easy to register for the course, just fill out the form and click submit. Then you will be registered for one of the best SEO training courses in the industry</p>
-                    <ul class="list-unstyled li-space-lg">
-                        <li class="media">
-                            <i class="fas fa-square"></i>
-                            <div class="media-body"><strong>Your information</strong> is required to complete the registration</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-square"></i>
-                            <div class="media-body"><strong>It's safe with us</strong> and will not be used for marketing</div>
-                        </li>
-                        <li class="media">
-                            <i class="fas fa-square"></i>
-                            <div class="media-body"><strong>You will receive</strong> a confirmation email in less than 24h</div>
-                        </li>
-                    </ul>
+                    <h2>Pre-inscribete usando el formulario</h2>
+                    <p>Es fácil registrarse en el curso, simplemente complete el formulario y haga clic en enviar.</p>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-6">
 
                 <!-- Registration Form -->
                 <div class="form-container">
-                    <form id="registrationForm" data-toggle="validator" data-focus="false">
+                    <form id="registrationForm" data-toggle="validator" data-focus="false" method="post" action="https://script.google.com/macros/s/AKfycbxGuCo5MxTzm_Blt64bt5N4r_y1HxwfUfJmAE6i8XsR8M89npAXpe9s3SuAcYkyvyRR/exec">
                         <div class="form-group">
-                            <input type="text" class="form-control-input" id="rname" name="rname" required>
-                            <label class="label-control" for="rname">Complete name</label>
+                            <input type="text" class="form-control-input" id="rname" name="nombre" placeholder="Nombre" required>
+                            
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control-input" id="remail" name="remail" required>
-                            <label class="label-control" for="remail">Email address</label>
+                            <input type="email" class="form-control-input" id="remail" name="correo" placeholder="Correo" required>
+                            
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control-input" id="rphone" name="rphone" required>
-                            <label class="label-control" for="rphone">Phone number</label>
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group checkbox">
-                            <input type="checkbox" id="rterms" value="Agreed-to-Terms" name="rterms" required>I've read and agree to Corso's written <a href="privacy-policy.html">Privacy Policy</a> and <a href="terms-conditions.html">Terms & Conditions</a>
+                            <input type="number" class="form-control-input" id="rphone" name="telefono" placeholder="Telefono" required>
+                            
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">REGISTER</button>
+                            <button type="submit" class="form-control-submit-button">Enviar</button>
                         </div>
                         <div class="form-message">
                             <div id="rmsgSubmit" class="h3 text-center hidden"></div>
@@ -126,75 +112,6 @@
     </div> <!-- end of container -->
 </div> <!-- end of form-1 -->
 <!-- end of registration -->
-
-<!-- Partners -->
-<div class="slider-1">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <p class="p-small">FEATURED IN</p>
-
-                <!-- Image Slider -->
-                <div class="slider-container">
-                    <div class="swiper-container image-slider-2">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <img class="img-fluid" src="#" alt="alternative">
-                            </div>
-                            <div class="swiper-slide">
-                                <img class="img-fluid" src="#" alt="alternative">
-                            </div>
-                            <div class="swiper-slide">
-                                <img class="img-fluid" src="#" alt="alternative">
-                            </div>
-                            <div class="swiper-slide">
-                                <img class="img-fluid" src="#" alt="alternative">
-                            </div>
-                            <div class="swiper-slide">
-                                <img class="img-fluid" src="#" alt="alternative">
-                            </div>
-                            <div class="swiper-slide">
-                                <img class="img-fluid" src="#" alt="alternative">
-                            </div>
-                        </div> <!-- end of swiper-wrapper -->
-                    </div> <!-- end of swiper container -->
-                </div> <!-- end of slider-container -->
-                <!-- end of image slider -->
-
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of slider-1 -->
-<!-- end of partners -->
-
-<!-- Instructor -->
-<div id="instructor" class="basic-1">
-    <div class="container">
-        <div class="row">
-            <h1>Nuestro programa de formación.</h1>
-            <div class="col-lg-6">
-                <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-            </div> <!-- end of col -->
-            <div class="col-lg-6">
-                <div class="text-container">
-
-                    <h2>Desarrollo de Software</h2>
-                    <h4>Formación Online con clases En Vivo.</h4>
-                    <p>Desarrollo de Software
-                        Formación Online con clases En Vivo.
-
-                        El Desarrollo de Software es una industria que no para de crecer y que se posiciona como uno de los empleos mejor pagados a nivel mundial.
-
-                        En este curso con orientación Full Stack aprenderás a desarrollar software desde cero, sin conocimientos previos y de la mano de tutores expertos que laboran en la industria.
-
-                        El curso se desarrolla en 8 meses dividido en 4 periodos, en los que te guiaremos desde los conceptos más básicos, hasta una posible vinculación laboral.</p>
-
-                </div> <!-- end of text-container -->
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of basic-1 -->
-<!-- end of instructor -->
 
 <!-- Description -->
 <div id="description" class="basic-2">
@@ -260,29 +177,7 @@
 </div> <!-- end of basic-2 -->
 <!-- end of description -->
 
-<!-- Students -->
-<div class="basic-3">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="text-container">
-                    <h2>Desarrollo de Software</h2>
-                    <h4>Formación Online con clases En Vivo.</h4>
-                    <p>El Desarrollo de Software es una industria que no para de crecer y que se posiciona como uno de los empleos mejor pagados a nivel mundial.
 
-                        En este curso con orientación Full Stack aprenderás a desarrollar software desde cero, sin conocimientos previos y de la mano de tutores expertos que laboran en la industria.
-
-                        El curso se desarrolla en 8 meses dividido en 4 periodos, en los que te guiaremos desde los conceptos más básicos, hasta una posible vinculación laboral. </p>
-                    <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a>
-                </div> <!-- end of text-container -->
-            </div> <!-- end of col -->
-            <div class="col-lg-6">
-                <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of basic-3 -->
-<!-- end of students -->
 
 <!-- Details Lightbox -->
 <div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
@@ -332,31 +227,7 @@
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox -->
 
-<!-- Video -->
-<div class="basic-4">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2>Course Video Presentation</h2>
 
-                <!-- Video Preview -->
-                <div class="image-container">
-                    <div class="video-wrapper">
-                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
-                            <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                            <span class="video-play-button">
-                                <span></span>
-                            </span>
-                        </a>
-                    </div> <!-- end of video-wrapper -->
-                </div> <!-- end of image-container -->
-                <!-- end of video preview -->
-
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of basic-4 -->
-<!-- end of video -->
 
 <!-- Testimonials -->
 <div class="slider-2">

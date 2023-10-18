@@ -307,10 +307,24 @@ const router = createRouter({
       component: () => import('../views/marketing/posicionamiento-buscadores.vue')
     }
     ,
+    //Programacion avanzada
     {
       path: '/programacion-avanzada',
       name: 'programacion-avanzada',
       component: () => import('../views/pro-avanzada/programacion-avanzada.vue')
+    }
+    ,
+    //Robotica
+    {
+      path: '/robotica-basica',
+      name: 'robotica-basica',
+      component: () => import('../views/robotica/robotica-basica.vue')
+    }
+    ,
+    {
+      path: '/robotica-avanzada',
+      name: 'robotica-avanzada',
+      component: () => import('../views/robotica/robotica-avanzada.vue')
     }
   ],
 })
