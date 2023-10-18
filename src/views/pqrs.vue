@@ -58,7 +58,7 @@ export default {
                 .then(() => {
                     this.envioExitoso = true; // Establecer envioExitoso en verdadero
                     setTimeout(() => {
-                        window.location.reload(); // Recargar la página después de un breve retraso
+                        window.location.href = '/'; // Redirigir a una página en específico
                     }, 2000); // 2000 milisegundos = 2 segundos
                 })
                 .catch((error) => {

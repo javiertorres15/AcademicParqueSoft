@@ -39,13 +39,10 @@
                                 </video>
                             </div>
                             <div class="carousel-item">
-                                <video class="d-block w-100">
-                                    <source src="@/assets/imagenes/imagenprincipal.mp4" type="video/mp4">
-                                </video>
-                                
+                                <img src="@/assets/imagenes/O1.png" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                             <div class="carousel-item">
-                                <img src="@/assets/imagenes/imagenprincipal.mp4" class="d-block w-100 img-fluid" alt="Imagen">
+                                <img src="@/assets/imagenes/O1.png" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
