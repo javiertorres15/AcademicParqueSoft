@@ -205,6 +205,12 @@
 
 <script>
 import Inicio from './Inicio.vue';
+export default {
+    components: {
+        Inicio,
+    }
+    
+};
 </script>
 
 <style scoped>

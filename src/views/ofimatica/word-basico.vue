@@ -157,6 +157,12 @@
 
 <script>
 import InicioOfi from './InicioOfi.vue';
+export default {
+    components: {
+        InicioOfi,
+    }
+    
+};
 </script>
 
 <style scoped>

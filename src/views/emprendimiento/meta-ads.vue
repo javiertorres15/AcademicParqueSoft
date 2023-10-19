@@ -196,6 +196,11 @@
 
 <script>
 import InicioEmpren from './InicioEmpren.vue';
+export default {
+    components: {
+        InicioEmpren,
+    },
+};
 </script>
 
 <style scoped>

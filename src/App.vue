@@ -11,7 +11,7 @@
     <nav class="navbar navbar-expand-lg navbar-white bg-white static-top">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <img src="@/assets/imagenes/academiclogo2p.png" alt="..." width="150">
+                <img src="@/assets/imagenes/logogrande.png" alt="..." width="150">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -47,7 +47,7 @@
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button class="custom-button-2" >
+                        <button class="custom-button-2">
                             <a class="link-sin-estilo" href="">Aula virtual</a>
                         </button>
                     </li>
@@ -74,8 +74,8 @@
         <div class="grupo-1">
             <div class="box">
                 <h2>SOBRE NOSOTROS</h2>
-                <p style="text-align: justify;">¡Aprende, crece y prospera con nosotros! En academic, estamos comprometidosen brindarte la mejor experiencia de aprendizaje en linea. 
-                    Descubre una amplia gama de cursos de calidad impartidos por expertos en sus campos. Tu exito es nuestra proridad. ¡Comienza tu viaje 
+                <p style="text-align: justify;">¡Aprende, crece y prospera con nosotros! En academic, estamos comprometidosen brindarte la mejor experiencia de aprendizaje en linea.
+                    Descubre una amplia gama de cursos de calidad impartidos por expertos en sus campos. Tu exito es nuestra proridad. ¡Comienza tu viaje
                     de aprendizaje hoy mismo y construye un futuro brillante!</p>
 
             </div>
@@ -109,9 +109,12 @@
 
 <style>
 .link-sin-estilo {
-    text-decoration: none; /* Elimina el subrayado del enlace */
-    color: inherit; /* Utiliza el color de texto heredado del elemento padre (por defecto) */
-    cursor: default; /* Cambia el cursor al predeterminado, que es generalmente una flecha */
+    text-decoration: none;
+    /* Elimina el subrayado del enlace */
+    color: inherit;
+    /* Utiliza el color de texto heredado del elemento padre (por defecto) */
+    cursor: default;
+    /* Cambia el cursor al predeterminado, que es generalmente una flecha */
 }
 
 .whatsapp-float {
@@ -253,78 +256,80 @@
     width: 15px;
     transition-delay: 0.2s;
 }
+
 /* Estilos específicos para el segundo botón personalizado */
 .custom-button-2 {
-  position: relative;
-  padding: 10px 20px;
-  border-radius: 7px;
-  border: 1px solid #04954A;
-  font-size: 16px; /* Cambié el tamaño de fuente a 16px para el segundo botón */
-  text-transform: uppercase;
-  font-weight: 600;
-  letter-spacing: 2px;
-  background: transparent;
-  color: black;
-  overflow: hidden;
-  box-shadow: 0 0 0 0 transparent;
-  -webkit-transition: all 0.2s ease-in;
-  -moz-transition: all 0.2s ease-in;
-  transition: all 0.2s ease-in;
+    position: relative;
+    padding: 10px 20px;
+    border-radius: 7px;
+    border: 1px solid #04954A;
+    font-size: 16px;
+    /* Cambié el tamaño de fuente a 16px para el segundo botón */
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    background: transparent;
+    color: black;
+    overflow: hidden;
+    box-shadow: 0 0 0 0 transparent;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
 }
 
 .custom-button-2:hover {
-  background: #04954A;
-  box-shadow: 0 0 30px 5px #04954A;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
+    background: #04954A;
+    box-shadow: 0 0 30px 5px #04954A;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
 }
 
 .custom-button-2:hover::before {
-  -webkit-animation: sh02 0.5s 0s linear;
-  -moz-animation: sh02 0.5s 0s linear;
-  animation: sh02 0.5s 0s linear;
+    -webkit-animation: sh02 0.5s 0s linear;
+    -moz-animation: sh02 0.5s 0s linear;
+    animation: sh02 0.5s 0s linear;
 }
 
 .custom-button-2::before {
-  content: '';
-  display: block;
-  width: 0px;
-  height: 86%;
-  position: absolute;
-  top: 7%;
-  left: 0%;
-  opacity: 0;
-  background: #fff;
-  box-shadow: 0 0 50px 30px #fff;
-  -webkit-transform: skewX(-20deg);
-  -moz-transform: skewX(-20deg);
-  -ms-transform: skewX(-20deg);
-  -o-transform: skewX(-20deg);
-  transform: skewX(-20deg);
+    content: '';
+    display: block;
+    width: 0px;
+    height: 86%;
+    position: absolute;
+    top: 7%;
+    left: 0%;
+    opacity: 0;
+    background: #fff;
+    box-shadow: 0 0 50px 30px #fff;
+    -webkit-transform: skewX(-20deg);
+    -moz-transform: skewX(-20deg);
+    -ms-transform: skewX(-20deg);
+    -o-transform: skewX(-20deg);
+    transform: skewX(-20deg);
 }
 
 @keyframes sh02 {
-  from {
-    opacity: 0;
-    left: 0%;
-  }
+    from {
+        opacity: 0;
+        left: 0%;
+    }
 
-  50% {
-    opacity: 1;
-  }
+    50% {
+        opacity: 1;
+    }
 
-  to {
-    opacity: 0;
-    left: 100%;
-  }
+    to {
+        opacity: 0;
+        left: 100%;
+    }
 }
 
 .custom-button-2:active {
-  box-shadow: 0 0 0 0 transparent;
-  -webkit-transition: box-shadow 0.2s ease-in;
-  -moz-transition: box-shadow 0.2s ease-in;
-  transition: box-shadow 0.2s ease-in;
+    box-shadow: 0 0 0 0 transparent;
+    -webkit-transition: box-shadow 0.2s ease-in;
+    -moz-transition: box-shadow 0.2s ease-in;
+    transition: box-shadow 0.2s ease-in;
 }
 
 

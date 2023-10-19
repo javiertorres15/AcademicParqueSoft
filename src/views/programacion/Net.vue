@@ -245,20 +245,6 @@ export default {
     components: {
         Inicio,
     },
-    mounted() {
-        this.loadMercadoPagoScript(this.$refs.dropdownContainer1);
-        this.loadMercadoPagoScript(this.$refs.dropdownContainer2);
-        // Puedes cargar el script en más instancias si es necesario
-    },
-    methods: {
-        loadMercadoPagoScript(container) {
-            const script = document.createElement("script");
-            script.src = "https://www.mercadopago.com.co/integrations/v1/web-payment-checkout.js";
-            script.setAttribute("data-preference-id", "165907967-9f6a4af2-5ae1-4d9b-8cca-ab559e79bdb5");
-            script.setAttribute("data-source", "button");
-            container.appendChild(script);
-        }
-    }
 };
 </script>
 

@@ -21,7 +21,7 @@
                     <label for="full_name_id" class="control-label">Correo electronico</label>
                     <input type="email" class="form-control" id="full_name_id" name="correo" required>
                     <label for="full_name_id" class="control-label">Telefono</label>
-                    <input type="number" class="form-control" id="full_name_id" name="telefono" required>
+                    <input type="number" class="form-control" id="full_name_id" name="telefono" required pattern="\3[0-9]{9}">
                     <label for="gender_id" class="control-label">Género</label>
                     <select class="form-control" id="gender_id" name="genero">
                         <option value="">Seleciona un genero</option>

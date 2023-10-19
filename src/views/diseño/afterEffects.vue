@@ -196,6 +196,11 @@
 
 <script>
 import InicioDis from './InicioDis.vue';
+export default {
+    components: {
+        InicioDis,
+    },
+};
 </script>
 
 <style scoped>

@@ -98,9 +98,24 @@
 </div>
 
 <br>
+
+<div class="cards">
+    <div class="card red">
+        <p class="tip">Hover Me</p>
+        <p class="second-text">FOLLOW ME MY BROO</p>
+    </div>
+    <div class="card white">
+        <p class="tip">Hover Me</p>
+        <p class="second-text">FOLLOW ME MY BROO</p>
+    </div>
+    <div class="card blue">
+        <p class="tip">Hover Me</p>
+        <p class="second-text">FOLLOW ME MY BROO</p>
+    </div>
+</div>
 </template>
 
-<style>
+<style scoped>
 p {
     text-align: justify;
 }
@@ -129,5 +144,57 @@ p {
     /* Línea de color en la parte superior */
     margin-top: 10px;
     /* Espacio entre el texto y la línea de color */
+}
+
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.cards .red {
+  background-color: #f43f5e;
+}
+
+.cards .white {
+  background-color: #f8f8f8;
+  color: black;
+}
+
+.cards .blue {
+  background-color: #3b22c5;
+}
+
+.cards .card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+  color: rgb(1, 1, 1);
+  cursor: pointer;
+  transition: 400ms;
+}
+
+.cards .card p.tip {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.cards .card p.second-text {
+  font-size: .7em;
+}
+
+.cards .card:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.cards:hover > .card:not(:hover) {
+  filter: blur(10px);
+  transform: scale(0.9, 0.9);
 }
 </style>

@@ -16,12 +16,12 @@
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
-<br>
-<br>
-<br>
+    <br>
+    <br>
+    <br>
     <!-- Image Slider -->
     <div class="outer-container">
-        <div class="slider-container">
+        <div class="slider-container"> 
             <div class="swiper-container image-slider-1">
                 <div class="carrusel" hero>
                     <div id="carouselExampleIndicators" class="carousel slide">
@@ -34,8 +34,8 @@
                             <div class="carousel-item active">
                                 <!-- Video en lugar de imagen -->
                                 <video class="d-block w-100" autoplay muted loop>
-                                    <source src="@/views/pro-avanzada/imagenes/video-pro-avanzada.mp4" type="video/mp4">
-                            
+                                    <source src="@/views/pro-avanzada/imagenes/video-inicio.mp4" type="video/mp4">
+
                                 </video>
                             </div>
                             <div class="carousel-item">
@@ -78,20 +78,20 @@
 
                 <!-- Registration Form -->
                 <div class="form-container">
-                    <form id="registrationForm" data-toggle="validator" data-focus="false" method="post" action="https://script.google.com/macros/s/AKfycbxGuCo5MxTzm_Blt64bt5N4r_y1HxwfUfJmAE6i8XsR8M89npAXpe9s3SuAcYkyvyRR/exec">
+                    <form @submit="enviarFormulario" method="post" action="https://script.google.com/macros/s/AKfycbxGuCo5MxTzm_Blt64bt5N4r_y1HxwfUfJmAE6i8XsR8M89npAXpe9s3SuAcYkyvyRR/exec">
                         <div class="form-group">
                             <input type="text" class="form-control-input" id="rname" name="nombre" placeholder="Nombre" required>
-                            
+
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
                             <input type="email" class="form-control-input" id="remail" name="correo" placeholder="Correo" required>
-                            
+
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
                             <input type="number" class="form-control-input" id="rphone" name="telefono" placeholder="Telefono" required>
-                            
+
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
@@ -101,6 +101,9 @@
                             <div id="rmsgSubmit" class="h3 text-center hidden"></div>
                         </div>
                     </form>
+                    <div v-if="envioExitoso" class="alert alert-success">
+                        ¡Formulario enviado con éxito! La página se recargará en breve.
+                    </div>
                 </div> <!-- end of form-container -->
                 <!-- end of registration form -->
 
@@ -174,8 +177,6 @@
 </div> <!-- end of basic-2 -->
 <!-- end of description -->
 
-
-
 <!-- Details Lightbox -->
 <div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
     <div class="container">
@@ -223,8 +224,6 @@
     </div> <!-- end of container -->
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox -->
-
-
 
 <!-- Testimonials -->
 <div class="slider-2">
@@ -304,8 +303,42 @@
 <!-- end of testimonials -->
 </template>
 
-<style scoped> 
+<style scoped>
 @import '../pro-avanzada/css/swiper.css';
 @import '../pro-avanzada/css/styles.css';
 @import '../pro-avanzada/css/bootstrap.css';
 </style>
+
+<script>
+export default {
+    data() {
+        return {
+            envioExitoso: false, // Inicialmente, el envío no es exitoso
+        };
+    },
+    methods: {
+        enviarFormulario(e) {
+            e.preventDefault(); // Evitar que el formulario se envíe de forma predeterminada
+
+            // Agregar aquí el código para enviar el formulario (por ejemplo, usando fetch)
+            // Una vez que se haya enviado con éxito el formulario, establece envioExitoso en true
+            // y luego recarga la página después de un breve retraso
+            fetch('', {
+                    method: 'POST',
+                    body: new FormData(e.target),
+                })
+                .then(() => {
+                    this.envioExitoso = true; // Establecer envioExitoso en verdadero
+                    setTimeout(() => {
+                        window.location.href = '/'; // Redirigir a una página en específico
+                    }, 2000); // 2000 milisegundos = 2 segundos
+                })
+                .catch((error) => {
+                    console.error('Error!', error.message);
+                });
+        },
+    },
+};
+</script>
+
+

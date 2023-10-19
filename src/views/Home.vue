@@ -1,7 +1,7 @@
 <template>
 <div class="cuadro-principal">
     <!-- INICIO CARRUSEL -->
-    <div class="carrusel" hero>
+    <div class="carrusel" id="myCarousel">
         <div id="carouselExampleIndicators" class="carousel slide">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -409,4 +409,33 @@ export default {
         },
     },
 };
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Configura el intervalo en milisegundos (10 segundos = 10000 ms)
+    const interval = 10000;
+
+    // Selecciona el carrusel por su id
+    const carousel = document.getElementById("myCarousel");
+
+    // Inicializa el carrusel de Bootstrap
+    const carouselInstance = new bootstrap.Carousel(carousel);
+
+    // Función para avanzar al siguiente elemento del carrusel
+    function nextSlide() {
+        carouselInstance.next();
+    }
+
+    // Inicia el intervalo para cambiar los elementos del carrusel
+    const autoChangeInterval = setInterval(nextSlide, interval);
+
+    // Detén el intervalo cuando el mouse entra en el carrusel
+    carousel.addEventListener("mouseenter", function () {
+        clearInterval(autoChangeInterval);
+    });
+
+    // Reanuda el intervalo cuando el mouse sale del carrusel
+    carousel.addEventListener("mouseleave", function () {
+        autoChangeInterval = setInterval(nextSlide, interval);
+    });
+});
 </script>
