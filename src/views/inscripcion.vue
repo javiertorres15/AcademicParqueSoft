@@ -51,6 +51,9 @@
                 </div>
             </form>
             <div class="mt-4"></div>
+            <div v-if="enviando" class="alert alert-info">
+                Espere un momento...
+            </div>
             <!-- Mostrar el mensaje de envío exitoso si envioExitoso es verdadero -->
             <div v-if="envioExitoso" class="alert alert-success">
                 ¡Formulario enviado con éxito! La página se recargará en breve.
@@ -95,12 +98,14 @@ $(document).ready(function () {
 export default {
     data() {
         return {
+            enviando: false, // Inicialmente, no se está enviando el formulario
             envioExitoso: false, // Inicialmente, el envío no es exitoso
         };
     },
     methods: {
         enviarFormulario(e) {
             e.preventDefault(); // Evitar que el formulario se envíe de forma predeterminada
+            this.enviando = true; // Establecer enviando en true
 
             // Agregar aquí el código para enviar el formulario (por ejemplo, usando fetch)
             // Una vez que se haya enviado con éxito el formulario, establece envioExitoso en true
@@ -117,6 +122,9 @@ export default {
                 })
                 .catch((error) => {
                     console.error('Error!', error.message);
+                })
+                .finally(() => {
+                    this.enviando = false; // Establecer enviando en false después de completar el envío
                 });
         },
     },

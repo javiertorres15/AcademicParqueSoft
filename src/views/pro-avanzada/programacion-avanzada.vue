@@ -21,7 +21,7 @@
     <br>
     <!-- Image Slider -->
     <div class="outer-container">
-        <div class="slider-container"> 
+        <div class="slider-container">
             <div class="swiper-container image-slider-1">
                 <div class="carrusel" hero>
                     <div id="carouselExampleIndicators" class="carousel slide">
@@ -78,29 +78,19 @@
 
                 <!-- Registration Form -->
                 <div class="form-container">
-                    <form @submit="enviarFormulario" method="post" action="https://script.google.com/macros/s/AKfycbxGuCo5MxTzm_Blt64bt5N4r_y1HxwfUfJmAE6i8XsR8M89npAXpe9s3SuAcYkyvyRR/exec">
+                    <form @submit="enviarFormulario" method="post" action="">
                         <div class="form-group">
-                            <input type="text" class="form-control-input" id="rname" name="nombre" placeholder="Nombre" required>
-
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control-input" id="remail" name="correo" placeholder="Correo" required>
-
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group">
+                            <input type="text" class="form-control-input" id="rname" name="nombre" placeholder="Nombre" required> <br>
+                            <input type="email" class="form-control-input" id="remail" name="correo" placeholder="Correo" required> <br>
                             <input type="number" class="form-control-input" id="rphone" name="telefono" placeholder="Telefono" required>
-
-                            <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
                             <button type="submit" class="form-control-submit-button">Enviar</button>
                         </div>
-                        <div class="form-message">
-                            <div id="rmsgSubmit" class="h3 text-center hidden"></div>
-                        </div>
                     </form>
+                    <div v-if="enviando" class="alert alert-info">
+                        Espere un momento...
+                    </div>
                     <div v-if="envioExitoso" class="alert alert-success">
                         ¡Formulario enviado con éxito! La página se recargará en breve.
                     </div>
@@ -118,7 +108,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h2>What Will You Learn In Our SEO Focused Training Course</h2>
+                <h2>¿Qué aprenderás en este curso?</h2>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
         <div class="row">
@@ -127,22 +117,28 @@
                     <li class="media">
                         <i class="bullet">1</i>
                         <div class="media-body">
-                            <h4>Optimizing your site for mobile devices</h4>
-                            <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                            <h4>Estructuras de Datos Avanzadas</h4>
+                            <p style="text-align: justify;">Profundizarás en estructuras de datos como árboles, grafos, pilas,
+                                colas, listas enlazadas y tablas hash. Aprenderás cómo elegir la
+                                estructura de datos adecuada para diversos problemas.</p>
                         </div>
                     </li>
                     <li class="media">
                         <i class="bullet">2</i>
                         <div class="media-body">
-                            <h4>Understand how users search</h4>
-                            <p>It's not enough anymore to find relevant industry keywords and write huge amounts of content </p>
+                            <h4>Algoritmos Eficientes</h4>
+                            <p style="text-align: justify;">Te sumergirás en la optimización de algoritmos y técnicas avanzadas
+                                de programación. Aprenderás a diseñar algoritmos eficientes y a
+                                analizar su complejidad.</p>
                         </div>
                     </li>
                     <li class="media">
                         <i class="bullet">3</i>
                         <div class="media-body">
-                            <h4>Write for humans optimize for engines</h4>
-                            <p>Write well structured and understandable articles not just a mix of paragraphs that contain keywords</p>
+                            <h4>Proyectos Prácticos</h4>
+                            <p style="text-align: justify;">A lo largo del curso, trabajarás en proyectos que aplicarán los
+                                conceptos aprendidos, lo que te permitirá adquirir experiencia
+                                práctica.</p>
                         </div>
                     </li>
                 </ul>
@@ -152,22 +148,27 @@
                     <li class="media">
                         <i class="bullet">4</i>
                         <div class="media-body">
-                            <h4>Analyse your existing search traffic</h4>
-                            <p>A good action plan comes out of understanding where your current position is and the environment</p>
+                            <h4>Programación en Red y Seguridad</h4>
+                            <p style="text-align: justify;">Obtendrás conocimientos sobre comunicación en red, protocolos,
+                                seguridad informática y programación segura.</p>
                         </div>
                     </li>
                     <li class="media">
                         <i class="bullet">5</i>
                         <div class="media-body">
-                            <h4>Keep updated with the latest changes</h4>
-                            <p>Google changes it's search indexing algorithm twice a year so it's important to stay updated with news</p>
+                            <h4>Programación Orientada a Objetos Avanzada</h4>
+                            <p style="text-align: justify;">Mejorarás tu comprensión de la programación orientada a objetos,
+                                incluyendo conceptos como herencia, polimorfismo, encapsulamiento
+                                y diseño de clases avanzado.</p>
                         </div>
                     </li>
                     <li class="media">
                         <i class="bullet">6</i>
                         <div class="media-body">
-                            <h4>Learn the most important ranking factors</h4>
-                            <p>Learn which are the most important search engine ranking factors and optimize your website accordnigly</p>
+                            <h4>Gestión de Memoria</h4>
+                            <p style="text-align: justify;">Comprenderás cómo gestionar eficientemente
+                                la memoria en lenguajes de programación de bajo nivel, evitando
+                                problemas como fugas de memoria.</p>
                         </div>
                     </li>
                 </ul>
@@ -185,40 +186,24 @@
             <div class="col-lg-8">
                 <div class="image-container">
                     <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
+                    <br><br>
+                    <p>¡Esperamos que se unan a nosotros en este curso de programación
+                        avanzada!</p>
                 </div> <!-- end of image-container -->
             </div> <!-- end of col -->
             <div class="col-lg-4">
-                <h3>SEO Training Course</h3>
+                <h3>Metodologías de las clases del curso:</h3>
                 <hr>
-                <h5>For everybody</h5>
-                <p>The training course is dedicates to anyone passionate about the web and in need of improving their current online presence.</p>
-                <ul class="list-unstyled li-space-lg">
-                    <li class="media">
-                        <i class="fas fa-square"></i>
-                        <div class="media-body">Link building framework</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-square"></i>
-                        <div class="media-body">Know your current position</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-square"></i>
-                        <div class="media-body">Partnering with blogs</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-square"></i>
-                        <div class="media-body">Naming your images</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-square"></i>
-                        <div class="media-body">Creating good sitemaps</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-square"></i>
-                        <div class="media-body">Writing for humans</div>
-                    </li>
-                </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#register">SIGN UP</a> <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
+                <h5>Estimados interesados en el Curso de Programación Avanzada,</h5>
+                <p style="text-align: justify;">Este curso se realizará de forma virtual y se centrará en la práctica. A
+                    través de componentes prácticos y proyectos, afianzarán sus
+                    conocimientos de programación de manera efectiva. A pesar de ser
+                    en línea, tendrán la oportunidad de aplicar lo que aprendan en
+                    desafíos del mundo real. Estamos emocionados de contar con su
+                    participación activa en esta experiencia de aprendizaje
+                    enriquecedora.</p>
+
+                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Malla Curricular</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
@@ -230,67 +215,55 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h3>Check out our attendees testimonials from previous editions of the SEO Training</h3>
+                <h3>Reseñas</h3>
 
                 <!-- Text Slider -->
                 <div class="slider-container">
                     <div class="swiper-container text-slider">
-                        <div class="swiper-wrapper">
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">I took the SEO training course about a year ago and I am very happy. It taught me all the basics of search engine optimization and some tricks.</div>
-                                    <div class="testimonial-author">Jude Thorn - Online Marketer</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">Awesome course for the money. I never thought I could learn so much about search engine optimization in such a short amount of time. Highly recommend.</div>
-                                    <div class="testimonial-author">Roy Smith - Developer</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">Corso is the best SEO training course in the market. It teaches you all the basics but it also adds value with some advanced tips & tricks the are great.</div>
-                                    <div class="testimonial-author">Martin Singer - Online Marketer</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">Learning SEO can actually be fun. I attended Corso SEO training and I had a great time with my peer students and the instructors. Highly recommended course.</div>
-                                    <div class="testimonial-author">Ronda Louis - Business Owner</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
+                        <div class="carrousel">
+                            <div id="carouselExampleIndicators" class="carousel slide">
+                                <!-- Slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel Quiroz - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                            </div>
                         </div> <!-- end of swiper-wrapper -->
 
-                        <!-- Add Arrows -->
-                        <div class="swiper-button-next"></div>
-                        <div class="swiper-button-prev"></div>
-                        <!-- end of add arrows -->
+                        
 
                     </div> <!-- end of swiper-container -->
                 </div> <!-- end of slider-container -->
@@ -303,42 +276,43 @@
 <!-- end of testimonials -->
 </template>
 
+<script>
+export default {
+    data() {
+        return {
+            envioExitoso: false,
+            enviando: false, // Inicialmente, no se está enviando el formulario
+        };
+    },
+    methods: {
+        enviarFormulario(e) {
+            e.preventDefault();
+            this.enviando = true; // Establecer enviando en true
+
+            fetch('https://script.google.com/macros/s/AKfycbxGuCo5MxTzm_Blt64bt5N4r_y1HxwfUfJmAE6i8XsR8M89npAXpe9s3SuAcYkyvyRR/exec', {
+                    method: 'POST',
+                    body: new FormData(e.target),
+                })
+                .then(() => {
+                    this.envioExitoso = true;
+                    setTimeout(() => {
+                        window.location.href = '/';
+                    }, 2000);
+                })
+                .catch((error) => {
+                    console.error('Error!', error.message);
+                })
+                .finally(() => {
+                    this.enviando = false; // Establecer enviando en false después de completar el envío
+                });
+        },
+    },
+
+};
+</script>
+
 <style scoped>
 @import '../pro-avanzada/css/swiper.css';
 @import '../pro-avanzada/css/styles.css';
 @import '../pro-avanzada/css/bootstrap.css';
 </style>
-
-<script>
-export default {
-    data() {
-        return {
-            envioExitoso: false, // Inicialmente, el envío no es exitoso
-        };
-    },
-    methods: {
-        enviarFormulario(e) {
-            e.preventDefault(); // Evitar que el formulario se envíe de forma predeterminada
-
-            // Agregar aquí el código para enviar el formulario (por ejemplo, usando fetch)
-            // Una vez que se haya enviado con éxito el formulario, establece envioExitoso en true
-            // y luego recarga la página después de un breve retraso
-            fetch('', {
-                    method: 'POST',
-                    body: new FormData(e.target),
-                })
-                .then(() => {
-                    this.envioExitoso = true; // Establecer envioExitoso en verdadero
-                    setTimeout(() => {
-                        window.location.href = '/'; // Redirigir a una página en específico
-                    }, 2000); // 2000 milisegundos = 2 segundos
-                })
-                .catch((error) => {
-                    console.error('Error!', error.message);
-                });
-        },
-    },
-};
-</script>
-
-

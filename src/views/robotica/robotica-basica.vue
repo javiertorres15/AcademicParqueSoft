@@ -104,6 +104,9 @@
                             <div id="rmsgSubmit" class="h3 text-center hidden"></div>
                         </div>
                     </form>
+                    <div v-if="enviando" class="alert alert-info">
+                        Espere un momento...
+                    </div>
                     <div v-if="envioExitoso" class="alert alert-success">
                         ¡Formulario enviado con éxito! La página se recargará en breve.
                     </div>
@@ -228,72 +231,61 @@
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox -->
 
+
 <!-- Testimonials -->
 <div class="slider-2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h3>Check out our attendees testimonials from previous editions of the SEO Training</h3>
+                <h3>Reseñas</h3>
 
                 <!-- Text Slider -->
                 <div class="slider-container">
                     <div class="swiper-container text-slider">
-                        <div class="swiper-wrapper">
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">I took the SEO training course about a year ago and I am very happy. It taught me all the basics of search engine optimization and some tricks.</div>
-                                    <div class="testimonial-author">Jude Thorn - Online Marketer</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">Awesome course for the money. I never thought I could learn so much about search engine optimization in such a short amount of time. Highly recommend.</div>
-                                    <div class="testimonial-author">Roy Smith - Developer</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">Corso is the best SEO training course in the market. It teaches you all the basics but it also adds value with some advanced tips & tricks the are great.</div>
-                                    <div class="testimonial-author">Martin Singer - Online Marketer</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
-                            <!-- Slide -->
-                            <div class="swiper-slide">
-                                <div class="image-wrapper">
-                                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
-                                </div> <!-- end of image-wrapper -->
-                                <div class="text-wrapper">
-                                    <div class="testimonial-text">Learning SEO can actually be fun. I attended Corso SEO training and I had a great time with my peer students and the instructors. Highly recommended course.</div>
-                                    <div class="testimonial-author">Ronda Louis - Business Owner</div>
-                                </div> <!-- end of text-wrapper -->
-                            </div> <!-- end of swiper-slide -->
-                            <!-- end of slide -->
-
+                        <div class="carrousel">
+                            <div id="carouselExampleIndicators" class="carousel slide">
+                                <!-- Slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel Quiroz - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                                <div class="carrousel-inner">
+                                    <div class="image-wrapper">
+                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
+                                    </div> <!-- end of image-wrapper -->
+                                    <div class="text-wrapper">
+                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
+                                        <div class="testimonial-author">Daniel - Programador</div>
+                                    </div> <!-- end of text-wrapper -->
+                                </div> <!-- end of swiper-slide -->
+                            </div>
                         </div> <!-- end of swiper-wrapper -->
 
-                        <!-- Add Arrows -->
-                        <div class="swiper-button-next"></div>
-                        <div class="swiper-button-prev"></div>
-                        <!-- end of add arrows -->
+                        
 
                     </div> <!-- end of swiper-container -->
                 </div> <!-- end of slider-container -->
@@ -304,6 +296,7 @@
     </div> <!-- end of container -->
 </div> <!-- end of slider-2 -->
 <!-- end of testimonials -->
+
 </template>
 
     
@@ -320,16 +313,19 @@ export default {
     data() {
         return {
             envioExitoso: false, // Inicialmente, el envío no es exitoso
+            enviando: false, // Inicialmente, no se está enviando el formulario
         };
     },
     methods: {
         enviarFormulario(e) {
             e.preventDefault(); // Evitar que el formulario se envíe de forma predeterminada
+            this.enviando = true; // Establecer enviando en true
+
 
             // Agregar aquí el código para enviar el formulario (por ejemplo, usando fetch)
             // Una vez que se haya enviado con éxito el formulario, establece envioExitoso en true
             // y luego recarga la página después de un breve retraso
-            fetch('', {
+            fetch('https://script.google.com/macros/s/AKfycbxFwHLANRVaXYVzvo_rjG7cxgyb72VioY6LxblMEslDGSlN9xuIv5sFItBoIMx6YU01jQ/exec', {
                     method: 'POST',
                     body: new FormData(e.target),
                 })
@@ -341,6 +337,9 @@ export default {
                 })
                 .catch((error) => {
                     console.error('Error!', error.message);
+                })
+                .finally(() => {
+                    this.enviando = false; // Establecer enviando en false después de completar el envío
                 });
         },
     },
