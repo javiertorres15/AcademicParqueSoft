@@ -38,6 +38,7 @@
                         <option value="tic">TIC</option>
                         <option value="diseno">Diseño</option>
                         <option value="marketing">Marketing</option>
+                        <option value="robotica">Robótica</option>
                     </select>
                     <!-- Agrega el segundo select dinámico -->
                     <label for="subcategory_id" class="control-label">Curso</label>
@@ -74,7 +75,8 @@ $(document).ready(function () {
         tic: ["Ciudadano digital nivel 1", "Ciudadano digital nivel 2", "Alfabetización digital", "Herramientas comunicativas", "Competencias comunicativas para docentes"],
         diseno: ["Metodología canvas", "Diseño publicitario", "Diseño UX/UI", "Principios de diseño para presentaciones", "Basic Illustrator", "Basic Photoshop", "Basic after effects"],
         marketing: ["Community Manager", "Habilidades sociales", "Instagram para el desarrollo de marcas", "Internet, redes sociales y dispositivos digitales", "Marketing digital", "Posicionamiento en buscadores", "Posicionamientos de marcas"],
-        ofimatica: ["Word Básico", "Word Intermedio", "Word Avanzando", "Excel Básico", "Excel Intermedio", "Excel Avanzando", "Power Point Básico", "Power Point Intermedio", "Power Point Avanzando"]
+        ofimatica: ["Word Básico", "Word Intermedio", "Word Avanzando", "Excel Básico", "Excel Intermedio", "Excel Avanzando", "Power Point Básico", "Power Point Intermedio", "Power Point Avanzando"],
+        robotica: ["Vacacional", "Entrenamiento instensivo de Robótica"]
     };
 
     // Cuando cambia la selección en el primer select
