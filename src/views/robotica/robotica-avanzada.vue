@@ -8,7 +8,7 @@
                     <div class="countdown">
                         <span id="clock"></span>
                     </div>
-                    <h1 style="color: black;">Únete a una experiencia educativa de vanguardia</h1>
+                    <h1 style="color: rgb(235, 134, 1);">Vacacional de Robótica</h1>
                     <p style="color: black;" class="p-large">Clases Online En Vivo, dictadas por expertos en la industria.
                         Inicia desde cero y te certificas en 8 meses.</p>
                     <a class="btn-solid-lg page-scroll" href="#register">Registrate</a>
@@ -45,7 +45,7 @@
 
                             </div>
                             <div class="carousel-item">
-                                <img src="@/assets/imagenes/imagenprincipal.mp4" class="d-block w-100 img-fluid" alt="Imagen">
+                                <img src="/src/assets/Imagenes/robotica/robotica avanzada 1.png" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -124,7 +124,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h2>¿Qué aprenderás con este curso?</h2>
+                <h2>¿Qué aprenderás con este Vacacional?</h2>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
         <div class="row">
@@ -204,7 +204,7 @@
             <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
             <div class="col-lg-8">
                 <div class="image-container">
-                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
+                    <img class="img-fluid" src="/src/assets/Imagenes/robotica/robotica avanzada.png" alt="alternative">
                 </div> <!-- end of image-container -->
                 <br><br>
                 <p>¡Esperamos que se unan a nosotros en este curso de Robotica
@@ -250,69 +250,6 @@
     </div> <!-- end of container -->
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox -->
-
-<!-- Testimonials -->
-<div class="slider-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h3>Reseñas</h3>
-
-                <!-- Text Slider -->
-                <div class="slider-container">
-                    <div class="swiper-container text-slider">
-                        <div class="carrousel">
-                            <div id="carouselExampleIndicators" class="carousel slide">
-                                <!-- Slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel Quiroz - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                            </div>
-                        </div> <!-- end of swiper-wrapper -->
-
-                    </div> <!-- end of swiper-container -->
-                </div> <!-- end of slider-container -->
-                <!-- end of text slider -->
-
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of slider-2 -->
-<!-- end of testimonials -->
 </template>
 
 <script>
@@ -353,6 +290,6 @@ export default {
 
 <style scoped>
 @import '../pro-avanzada/css/swiper.css';
-@import '../pro-avanzada/css/styles.css';
+@import '../robotica/css/style.css';
 @import '../pro-avanzada/css/bootstrap.css';
 </style>
