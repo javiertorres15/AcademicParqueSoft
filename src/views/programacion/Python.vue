@@ -10,8 +10,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En este curso de Python, aprenderás lo que son y cómo usar las
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">En este entrenamiento de Python, aprenderás lo que son y cómo usar las
                     variables, los strings, los operadores, los floats, el uso de listas y tuplas, los condicionales y
                     bucles de Python, los diccionarios, las funciones, algo de programación orientada a
                     objetos, los módulos, fechas, las expresiones regulares, las secuencias especiales, los meta
@@ -28,7 +28,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -60,7 +61,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -107,7 +108,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en Python</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de programación basica en Python</h2>
                 </div>
             </div>
         </div>
@@ -119,7 +120,7 @@
                     <img src="@/assets/imagenes/programacion/servicios/icon-python.png" alt="#"/>
                     <h3>Unidad 1: Primeros pasos con
                         Python. </h3>
-                    <p>1.1. Introducción al curso de Python.</p>
+                    <p>1.1. Introducción al entrenamiento de Python.</p>
                     <p>1.2. Instalación y configuración de
                         Python.</p>
                 </div>
@@ -163,7 +164,7 @@
                         Objetos en Python.</h3>
                     <p>5.1. Introducción a la unidad 5. </p>
                     <p>5.2. Programación orientada a objetos. </p>
-                    <p>5.3. Conclusión del curso de Python. </p>
+                    <p>5.3. Conclusión del entrenamiento de Python. </p>
 
                 </div>
             </div>

@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> En este curso, explicaremos cómo establecer una presencia exitosa en el
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead"> En este entrenamiento, explicaremos cómo establecer una presencia exitosa en el
                     comercio electrónico, desde la planificación inicial hasta el lanzamiento de
                     tu propia tienda en línea.
 
@@ -30,7 +30,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -62,7 +63,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -118,7 +119,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 1: Introducción al Comercio Electrónico. </h3>
                     <p>1.1. Conceptos básicos del comercio electrónico..</p>
                     <p>1.2. Beneficios y desafíos del comercio en línea..</p>
@@ -137,7 +138,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 3: Selección de Plataforma </h3>
                     <p>3.1. Comparación de plataformas populares.</p>
                     <p>3.2. Elección de la plataforma adecuada.</p>
@@ -146,7 +147,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 4: Diseño de la Tienda Online. </h3>
                     <p>4.1. Principios de diseño web</p>
                     <p>4.2. Creación de una interfaz atractiva.</p>
@@ -156,7 +157,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 5: Gestión de Productos y Catálogo</h3>
                     <p>5.1. Agregar y gestionar productos.</p>
                     <p>5.2. Categorías y etiquetas.</p>
@@ -166,7 +167,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 6: Marketing y Promoción. </h3>
                     <p>6.1. Estrategias de marketing en línea.</p>
                     <p>6.2. Optimización de motores de búsqueda (SEO).</p>
@@ -176,7 +177,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-tiendas.png" alt="#" />
                     <h3>Unidad 7: Seguridad y Privacidad. </h3>
                     <p>7.1. Protección de datos de clientes.</p>
                     <p>7.2. Certificados SSL y seguridad en línea..</p>

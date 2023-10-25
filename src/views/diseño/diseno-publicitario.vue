@@ -10,9 +10,9 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
                 <p class="lead">
-                    El Curso de Diseño Publicitario se enfoca en la creación y
+                    El entrenamiento de Diseño Publicitario se enfoca en la creación y
                     desarrollo de mensajes comerciales con el propósito de atraer
                     la atención del público objetivo en campañas de marketing.
                     Estos mensajes deben adaptarse a diversos medios planificados
@@ -33,7 +33,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -65,7 +66,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -79,7 +80,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este Curso de Diseño Gráfico Publicitario está dirigido a todas aquellas
+                    <p class="lead">Este entrenamiento de Diseño Gráfico Publicitario está dirigido a todas aquellas
                         personas interesadas en especializarse en dicha materia correspondiente
                         a la Familia Profesional de Diseño Gráfico y más concretamente del Área
                         de Conocimiento Diseño Gráfico y Multimedia y que quieran especializarse
@@ -114,7 +115,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Diseño publicitario</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de Diseño publicitario</h2>
                 </div>
             </div>
         </div>
@@ -216,11 +217,11 @@
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/diseno/iconos/diseno-publicitario.png" alt="#" />
                     <h3>Unidad 10: Arrays-Arreglos.</h3>
-                    <p>10.1. Resumen del curso. -
+                    <p>10.1. Resumen del entrenamiento. -
                         Repaso de los conceptos clave. </p>
                     <p>10.2. Recursos adicionales para
                         seguir aprendiendo. - Libros,
-                        blogs, cursos avanzados,
+                        blogs, entrenamientos avanzados,
                         comunidades en línea, etc.</p>
                 </div>
             </div>

@@ -10,8 +10,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En este curso, aprenderás animación y motion graphics para contenido audiovisual. Trabajarás con vídeos, imágenes, Adobe Bridge y simulaciones 3D. También dominarás expresiones, máscaras y composiciones creativas, destacándote en tu carrera. Temas incluyen vincular activos externos, curvas de animación, entornos 3D, cámaras y luces.</p>
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">En este entrenamiento, aprenderás animación y motion graphics para contenido audiovisual. Trabajarás con vídeos, imágenes, Adobe Bridge y simulaciones 3D. También dominarás expresiones, máscaras y composiciones creativas, destacándote en tu carrera. Temas incluyen vincular activos externos, curvas de animación, entornos 3D, cámaras y luces.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -24,7 +24,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -56,7 +57,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -70,7 +71,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso de After Effects está dirigido para todo tipo de
+                    <p class="lead">Este entrenamiento de After Effects está dirigido para todo tipo de
                         persona que desee aprender a llevar cabo la manipulación gráfica en
                         movimiento.</p>
                 </div>
@@ -184,9 +185,9 @@
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/diseno/iconos/after-effect.png" alt="#" />
                     <h3>Unidad 10: Conclusiones y Recursos.</h3>
-                    <p>10.1. Resumen del curso. - Repaso de los conceptos clave.. </p>
+                    <p>10.1. Resumen del entrenamiento. - Repaso de los conceptos clave.. </p>
                     <p>10.2. Recursos adicionales para aprender más. - Tutoriales en línea,
-                        cursos avanzados, comunidades en línea, etc. </p>
+                        entrenamientos avanzados, comunidades en línea, etc. </p>
                 </div>
             </div>
         </div>

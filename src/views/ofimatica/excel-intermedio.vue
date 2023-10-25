@@ -11,7 +11,7 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
                 <p class="lead">Aprenda a usar la formulación para optimizar procesos
                     descubra todo el poder de las funciones de Excel, como, diseñar y gestionar
                     hojas de cálculo complejas, dominar el uso de funciones matemáticas,
@@ -29,7 +29,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -61,9 +62,8 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
-
                                 </div>
                             </div>
                         </div>
@@ -75,11 +75,11 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">El Curso de Excel intermedio aplicado al entorno profesional, está
+                    <p class="lead">El entrenamiento de Excel intermedio aplicado al entorno profesional, está
                         dirigido a todas aquellas personas que se encuentren habituadas a trabajar con
                         la hoja de cálculo y necesiten mejorar para su uso profesional y personal el
                         manejo y el rendimiento con esta herramienta, así como aquellas que hayan
-                        realizado un curso de Excel básico y quieran avanzar en el uso del mismo</p>
+                        realizado un entrenamiento de Excel básico y quieran avanzar en el uso del mismo</p>
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Excel Intermedio</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de Excel Intermedio</h2>
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#" />
                     <h3>Unidad 1: Manejo de Hojas y Libros Excel. </h3>
                     <p>1.1. Agregar, eliminar y ocultar hojas de cálculo..</p>
                     <p>1.2. Mover hojas de cálculo entre Libros.</p>
@@ -132,7 +132,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#" />
                     <h3>Unidad 2: Formulas y Funciones Excel. </h3>
                     <p>2.1. Construcción de fórmulas básicas. </p>
                     <p>2.2. El orden de las operaciones en Excel.</p>
@@ -153,7 +153,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#"/>
+                    <img src="@/assets/imagenes/ofimatica/iconos/excel.png" alt="#" />
                     <h3>Unidad 3: Funciones Básicas. </h3>
                     <p>3.1. Manejo de formatos condicionales.</p>
                     <p>3.2. Aplicar filtros y filtros avanzados.</p>
@@ -185,7 +185,7 @@ export default {
     components: {
         InicioOfi,
     }
-    
+
 };
 </script>
 

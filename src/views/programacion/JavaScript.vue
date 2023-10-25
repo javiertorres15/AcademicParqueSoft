@@ -10,8 +10,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En este curso de JavaScript aprenderás aplicar la creación de
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">En este entrenamiento de JavaScript aprenderás aplicar la creación de
                     contenidos, las actualizaciones dinámicas, el control de las funciones de multimedia, la
                     animación del sitio web y el anexo de imágenes.</p>
                 <p class="lead">
@@ -34,7 +34,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -66,7 +67,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -112,7 +113,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en Java</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de programación basica en Java</h2>
                 </div>
             </div>
         </div>
@@ -123,7 +124,7 @@
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#" />
                     <h3>Unidad 1: Introducción a JavaScript. </h3>
-                    <p>1.1. Introducción al curso.</p>
+                    <p>1.1. Introducción al entrenamiento.</p>
                     <p>1.2. JavaScript.</p>
                     <p>1.3. Historia del lenguaje de
                         programación JavaScript.</p>
@@ -131,7 +132,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#" />
                     <h3>Unidad 2: Primitivas de JavaScript.</h3>
                     <p>2.1. Primer archivo en JavaScript. </p>
                     <p>2.2. Tipos de datos y variables.</p>
@@ -142,7 +143,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#" />
                     <h3>Unidad 3: Funciones.</h3>
                     <p>3.1. Funciones.</p>
                     <p>3.2. Funciones con parámetros.</p>
@@ -153,7 +154,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#" />
                     <h3>Unidad 4: Programación Orientada a
                         Objetos.</h3>
                     <p>4.1. La programación orientada a
@@ -164,7 +165,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-javascript.png" alt="#" />
                     <h3>Unidad 5: Modificando el DOM.</h3>
                     <p>5.1. Introducción al dom.</p>
                     <p>5.2. Creando nodos en el dom. </p>
@@ -212,7 +213,7 @@ export default {
     components: {
         Inicio,
     }
-    
+
 };
 </script>
 

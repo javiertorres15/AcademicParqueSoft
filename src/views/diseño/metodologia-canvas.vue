@@ -10,7 +10,7 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
                 <p class="lead">El Business Model Canvas es una herramienta clave para hacer crecer tu negocio o idea de negocio. Consta de nueve categorías que te ayudarán a:</p>
                 <p class="lead">
                     1. Diseñar tu propuesta de valor.
@@ -33,7 +33,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -65,7 +66,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>

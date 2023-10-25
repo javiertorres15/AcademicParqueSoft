@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">Este curso Microsoft Word Avanzado proporciona la
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">Este entrenamiento Microsoft Word Avanzado proporciona la
                     información necesaria para que el estudiante adquiera conocimientos
                     relevantes y los ponga en práctica. Las herramientas que aprende son
                     fundamentales para lograr un óptimo uso del programa, a través de la
@@ -31,7 +31,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -63,7 +64,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -77,7 +78,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso va dirigido a funcionarios de cualquier nivel de las áreas
+                    <p class="lead">Este entrenamiento va dirigido a funcionarios de cualquier nivel de las áreas
                         de administración, auditoria, finanzas, tesorería, recursos humanos, ventas,
                         marketing, etc., así como para asistentes, recepcionistas o secretarias que
                         necesitan aplicar las opciones avanzadas de Word y realizar Macros dentro de
@@ -111,7 +112,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Word Avanzado</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de Word Avanzado</h2>
                 </div>
             </div>
         </div>

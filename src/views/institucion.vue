@@ -18,7 +18,7 @@
     
                 En Academic, creemos en la igualdad de oportunidades y en el poder
                 transformador de la educación. Trabajamos incansablemente para
-                asegurarnos de que cada uno de ustedes tenga acceso a cursos de
+                asegurarnos de que cada uno de ustedes tenga acceso a entrenamientos de
                 calidad que les ayudarán a desarrollar las habilidades esenciales para
                 el siglo XXI.</p>
         </div>
@@ -29,7 +29,7 @@
                 Nuestra misión es democratizar el conocimiento y el acceso a la
                 educación en áreas clave como programación, emprendimiento,
                 marketing, TIC, ofimática y diseño. Nos comprometemos a
-                proporcionar cursos básicos asequibles y accesibles que empoderen a
+                proporcionar entrenamientos básicos asequibles y accesibles que empoderen a
                 las personas, independientemente de su ubicación o recursos
                 económicos, para que adquieran las habilidades necesarias y
                 construyan un camino hacia el empleo y el éxito en un mundo digital
@@ -43,7 +43,7 @@
                 <p class="contenido">
                     Nuestra visión es ser el catalizador que transforme vidas a través
                     de la educación en línea. Visualizamos un futuro en el que cualquier
-                    persona, en cualquier lugar, pueda acceder a cursos de calidad que les
+                    persona, en cualquier lugar, pueda acceder a entrenamientos de calidad que les
                     permitan desarrollar habilidades esenciales para el siglo XXI.
                     Queremos ser reconocidos como líderes en la entrega de conocimiento
                     en línea, y ser la plataforma preferida por aquellos que buscan

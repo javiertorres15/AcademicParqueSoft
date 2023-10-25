@@ -10,41 +10,42 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
                 <div>
-                <p class="lead">Aprender .NET es esencial debido a su versatilidad para crear aplicaciones y las oportunidades profesionales en un mercado en crecimiento.</p>
-                <p class="lead">
-                    .NET es flexible con múltiples lenguajes como C#, VB.NET y F#, lo que te permite elegir el más adecuado para tu proyecto y aprovechar sus ventajas.
-                </p>
-                <p class="lead">
-                    Aprender .NET ofrece un sólido potencial de carrera con alta demanda en el mercado laboral y la posibilidad de encontrar empleo bien remunerado o emprender tu propio negocio.
-                </p>
+                    <p class="lead">Aprender .NET es esencial debido a su versatilidad para crear aplicaciones y las oportunidades profesionales en un mercado en crecimiento.</p>
+                    <p class="lead">
+                        .NET es flexible con múltiples lenguajes como C#, VB.NET y F#, lo que te permite elegir el más adecuado para tu proyecto y aprovechar sus ventajas.
+                    </p>
+                    <p class="lead">
+                        Aprender .NET ofrece un sólido potencial de carrera con alta demanda en el mercado laboral y la posibilidad de encontrar empleo bien remunerado o emprender tu propio negocio.
+                    </p>
+                </div>
             </div>
-        </div>
-        <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-            <div class="row">
-                <div class="col-sm-12 col-xl-4 ">
-                    <div class="card">
-                        <div class="face front">
-                            <img src="@/assets/imagenes/programacion/programacionbasica.png" alt="">
-                            <h3>Metodología</h3>
-                        </div>
+            <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                <div class="row">
+                    <div class="col-sm-12 col-xl-4 ">
+                        <div class="card">
+                            <div class="face front">
+                                <img src="@/assets/imagenes/programacion/programacionbasica.png" alt="">
+                                <h3>Metodología</h3>
+                            </div>
 
-                        <div class="face back">
-                            <h3>Metodología</h3>
-                            <p>Educación a distancia en modalidad híbrida</p>
-                            <div class="link">
+                            <div class="face back">
+                                <h3>Metodología</h3>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
+                                <div class="link">
 
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-</div>
-<!-- /.container -->
+    </div>
+    <!-- /.container -->
 
 </div>
 
@@ -64,7 +65,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -112,7 +113,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en .Net</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de programación basica en .Net</h2>
                 </div>
             </div>
         </div>
@@ -121,7 +122,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#" />
                     <h3>Unidad 1: Introducción a .Net </h3>
                     <p>1.1. ¿Qué es .NET?</p>
                     <p>1.2. NET Framework.</p>
@@ -132,7 +133,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#" />
                     <h3>Unidad 2: El IDE</h3>
                     <p>2.1. La Página de Inicio. </p>
                     <p>2.2. Plantilla de Aplicación.</p>
@@ -144,7 +145,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#" />
                     <h3>Unidad Unidad 3: Fundamentos de
                         programación</h3>
                     <p>3.1. Las Variables.</p>
@@ -158,7 +159,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#" />
                     <h3>Unidad 4: Estructuras de control </h3>
                     <p>4.1. Sentencias If.</p>
                     <p>4.2. Estructura else if.</p>
@@ -170,7 +171,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-net.png" alt="#" />
                     <h3>Unidad 5: Procedimientos.</h3>
                     <p>5.1. Procedimientos. </p>
                     <p>5.2. Procedimientos Sub. </p>

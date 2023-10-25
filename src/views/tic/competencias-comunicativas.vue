@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">Bienvenidos al Curso de Competencias Comunicativas Digitales diseñado
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">Bienvenidos al entrenamiento de Competencias Comunicativas Digitales diseñado
                     específicamente para docentes universitarios. En este programa,
                     exploramos cómo aprovechar las competencias comunicativas digitales
                     para enriquecer tu enseñanza, fomentar la participación de los
@@ -31,7 +31,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -63,7 +64,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -77,7 +78,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso está dirigido a docentes universitarios que
+                    <p class="lead">Este entrenamiento está dirigido a docentes universitarios que
                         deseen mejorar sus habilidades de comunicación en entornos digitales,
                         ya sea para la enseñanza presencial, en línea o mixta. También puede
                         beneficiar a asistentes de enseñanza, administradores académicos y

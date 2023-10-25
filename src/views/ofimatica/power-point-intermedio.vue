@@ -11,13 +11,13 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">Este curso se centra en enseñarte a mejorar
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">Este entrenamiento se centra en enseñarte a mejorar
                     tus presentaciones en Microsoft PowerPoint mediante la incorporación
                     de elementos como formas, gráficos y funciones avanzadas, incluyendo la
                     creación de gráficos con Microsoft Excel.</p>
                 <p class="lead">
-                    Este curso de PowerPoint Intermedio es ideal tanto para principiantes como para usuarios intermedios. Aprenderás a trabajar con plantillas, usar formas y gráficos para destacar contenido, insertar elementos de productos de Microsoft y preparar tus diapositivas para presentaciones completas.
+                    Este entrenamiento de PowerPoint Intermedio es ideal tanto para principiantes como para usuarios intermedios. Aprenderás a trabajar con plantillas, usar formas y gráficos para destacar contenido, insertar elementos de productos de Microsoft y preparar tus diapositivas para presentaciones completas.
                 </p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -31,7 +31,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -63,7 +64,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -107,7 +108,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de PowePoint Intermedio</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de PowePoint Intermedio</h2>
                 </div>
             </div>
         </div>

@@ -11,10 +11,10 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">Este curso es para incursionar en el manejo básico de la hoja de
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">Este entrenamiento es para incursionar en el manejo básico de la hoja de
                     word, como una herramienta de múltiples aplicaciones en diversos campos
-                    laborales y profesionales. El curso aborda los aspectos generales del entorno
+                    laborales y profesionales. El entrenamiento aborda los aspectos generales del entorno
                     de la hoja de word, identificación de herramientas, componentes y funciones
                     básicas que le permitirán al participante iniciar un proceso de reconocimiento y
                     proyección funcional de Word.</p>
@@ -30,7 +30,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -62,7 +63,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -108,7 +109,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Word Basico</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de Word Basico</h2>
                 </div>
             </div>
         </div>

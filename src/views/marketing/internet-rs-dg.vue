@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> ¡Bienvenidos al curso de Internet, Redes Sociales y Dispositivos Digitales!
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead"> ¡Bienvenidos al entrenamiento de Internet, Redes Sociales y Dispositivos Digitales!
                     Este programa de formación te llevará a explorar el fascinante mundo de
                     la tecnología digital, las redes sociales y cómo interactuamos con los
                     dispositivos digitales en nuestra vida cotidiana. En un mundo cada vez
@@ -30,7 +30,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -62,7 +63,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -76,7 +77,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso está dirigido a personas de todos
+                    <p class="lead">Este entrenamiento está dirigido a personas de todos
                         los niveles de experiencia interesadas en aprender sobre
                         tecnología digital, redes sociales y dispositivos digitales.
                         Es adecuado para principiantes, profesionales, emprendedores,

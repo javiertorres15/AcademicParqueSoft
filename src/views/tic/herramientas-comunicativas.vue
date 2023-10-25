@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> Bienvenidos al Curso de Herramientas Comunicativas, donde explorarás
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead"> Bienvenidos al entrenamiento de Herramientas Comunicativas, donde explorarás
                     una amplia gama de herramientas y técnicas destinadas a mejorar tus
                     habilidades de comunicación en diversos contextos, ya sea en el ámbito
                     personal o profesional. Este programa te brindará las herramientas
@@ -30,7 +30,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -62,7 +63,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -76,11 +77,11 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso de Herramientas Comunicativas está dirigido a profesionales de
+                    <p class="lead">Este entrenamiento de Herramientas Comunicativas está dirigido a profesionales de
                         todas las industrias, estudiantes, líderes, emprendedores y cualquier
                         persona que desee mejorar sus habilidades de comunicación en diversos
                         contextos, incluyendo entornos laborales, relaciones personales,
-                        presentaciones públicas y comunicación en línea. Este curso es adecuado
+                        presentaciones públicas y comunicación en línea. Este entrenamiento es adecuado
                         para personas de todos los niveles de experiencia en comunicación, desde
                         principiantes hasta aquellos que deseen perfeccionar y potenciar sus
                         habilidades existentes.</p>

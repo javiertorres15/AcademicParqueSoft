@@ -48,7 +48,7 @@
                     </li>
                     <li class="nav-item">
                         <button class="custom-button-2">
-                            <a class="link-sin-estilo" href="">Aula virtual</a>
+                            <a class="link-sin-estilo" href="http://academic.parquesoftsucre.com/login/index.php" target="_blank">Aula virtual</a>
                         </button>
                     </li>
 
@@ -81,7 +81,7 @@
             </div>
             <div class="box">
                 <h2>Contáctenos</h2>
-                <p><strong>Correo:</strong> academic.asistente@parquesoft.com</p>
+                <p><strong>Correo:</strong> academic.cursosvirtuales@gmail.com</p>
                 <p><strong>Horario:</strong> Lunea a Viernes</p>
                 <p>8:00 am - 12:00 pm</p>
                 <p>2:00 pm - 6:00 pm</p>

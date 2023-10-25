@@ -8,9 +8,9 @@
                     <div class="countdown">
                         <span id="clock"></span>
                     </div>
-                    <h1 style="color: rgb(235, 134, 1);">Vacacional de Robótica</h1>
+                    <h1 style="color: black">Vacacional de Robótica</h1>
                     <p style="color: black;" class="p-large">Clases Online En Vivo, dictadas por expertos en la industria.
-                        Inicia desde cero y te certificas en 8 meses.</p>
+                        </p>
                     <a class="btn-solid-lg page-scroll" href="#register">Registrate</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
@@ -34,18 +34,15 @@
                             <div class="carousel-item active">
                                 <!-- Video en lugar de imagen -->
                                 <video class="d-block w-100" autoplay muted loop>
-                                    <source src="@/views/pro-avanzada/imagenes/video-pro-avanzada.mp4" type="video/mp4">
+                                    <source src="/src/assets/Imagenes/robotica/roboticavideo.mp4" type="video/mp4">
 
                                 </video>
                             </div>
                             <div class="carousel-item">
-                                <video class="d-block w-100">
-                                    <source src="@/assets/imagenes/imagenprincipal.mp4" type="video/mp4">
-                                </video>
-
+                                <img src="/src/assets/Imagenes/robotica/vacacionalCarrusel1.jpg" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                             <div class="carousel-item">
-                                <img src="/src/assets/Imagenes/robotica/robotica avanzada 1.png" class="d-block w-100 img-fluid" alt="Imagen">
+                                <img src="/src/assets/Imagenes/robotica/vacacionalCarrusel2.jpg" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -73,8 +70,8 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="text-container">
-                    <h2>Pre-inscribete usando el formulario</h2>
-                    <p>Es fácil registrarse en el curso, simplemente complete el formulario y haga clic en enviar.</p>
+                    <h2>Inscribete usando el formulario</h2>
+                    <p>Es fácil registrarse en el vacacional, simplemente complete el formulario y haga clic en enviar.</p>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-6">
@@ -204,23 +201,23 @@
             <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
             <div class="col-lg-8">
                 <div class="image-container">
-                    <img class="img-fluid" src="/src/assets/Imagenes/robotica/robotica avanzada.png" alt="alternative">
+                    <img class="img-fluid" src="/src/assets/Imagenes/robotica/roboticaavanzada.png" alt="alternative">
                 </div> <!-- end of image-container -->
                 <br><br>
-                <p>¡Esperamos que se unan a nosotros en este curso de Robotica
-                        avanzada!</p>
+                <p>¡Esperamos que se unan a nosotros en este vacacional de Robotica!</p>
             </div> <!-- end of col -->
             <div class="col-lg-4">
-                <h3>Metodología de las clases del curso:</h3>
+                <h3>Metodología de las clases del vacacional:</h3>
                 <hr>
-                <p>Es un placer darles la bienvenida a este emocionante curso de
-                    Robótica Avanzada, que se llevará a cabo de manera presencial.
+                <p>Es un placer darles la bienvenida a este emocionante vacacional de
+                    Robótica, que se llevará a cabo de manera presencial.
                     Queremos que tengan una comprensión clara de cómo será su
-                    formación a lo largo del curso, por lo que aquí les proporcionamos
+                    formación a lo largo del vacacional, por lo que aquí les proporcionamos
                     una visión general de lo que pueden esperar:</p>
                 <ul class="list-unstyled li-space-lg">
                     <li class="media">
                         <i class="fas fa-square"></i>
+                        
                         <div class="media-body">Clases Presenciales</div>
                     </li>
                     <li class="media">
@@ -244,7 +241,7 @@
                         <div class="media-body">Evaluación Continua</div>
                     </li>
                 </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Malla Curricular</a> 
+                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Malla Curricular</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
@@ -290,6 +287,8 @@ export default {
 
 <style scoped>
 @import '../pro-avanzada/css/swiper.css';
-@import '../robotica/css/style.css';
+@import '../pro-avanzada/css/styles.css';
 @import '../pro-avanzada/css/bootstrap.css';
+
+
 </style>

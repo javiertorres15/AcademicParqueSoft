@@ -11,12 +11,12 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">El presente curso es una introducción a los fundamentos del software
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">El presente entrenamiento es una introducción a los fundamentos del software
                     Power Point y a alguna de sus herramientas más comunes y la filosofía e
                     historia que hay tras este software.</p>
                 <p class="lead">
-                    En el curso, se enseñarán conceptos básicos de PowerPoint, parte de la Suite Office, y se destacarán sus características
+                    En el entrenamiento, se enseñarán conceptos básicos de PowerPoint, parte de la Suite Office, y se destacarán sus características
                     para crear presentaciones estáticas o animadas. Se enfocará en la importancia de estilos, imágenes y animaciones para mejorar el aspecto final de las presentaciones.
                 </p>
             </div>
@@ -31,7 +31,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -63,7 +64,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -77,7 +78,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso está elaborado con la finalidad de poder auxiliar en
+                    <p class="lead">Este entrenamiento está elaborado con la finalidad de poder auxiliar en
                         el manejo del Power Point, diseñado de forma que un usuario que ya
                         tenga experiencia previa en el uso del PowerPoint pueda pasar
                         directamente al submódulo que le interese consultar y un usuario que no
@@ -111,7 +112,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de PowerPoint Basico</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de PowerPoint Basico</h2>
                 </div>
             </div>
         </div>

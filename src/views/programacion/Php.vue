@@ -10,8 +10,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En este curso de PHP aprenderás de forma práctica los conceptos
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">En este entrenamiento de PHP aprenderás de forma práctica los conceptos
                     básicos, las mejores técnicas, así como las librerías más populares y herramientas
                     necesarias para programar de forma eficiente con este lenguaje de programación.</p>
             </div>
@@ -26,7 +26,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -58,7 +59,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -72,7 +73,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">En este curso de PHP aprenderás de forma práctica los conceptos básicos, las
+                    <p class="lead">En este entrenamiento de PHP aprenderás de forma práctica los conceptos básicos, las
                         mejores técnicas, así como las librerías más populares y herramientas necesarias para
                         programar de forma eficiente con este lenguaje de programación.</p>
                 </div>
@@ -104,7 +105,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación en PHP</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de programación en PHP</h2>
                 </div>
             </div>
         </div>
@@ -113,15 +114,15 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#" />
                     <h3>Unidad 1: Primeros pasos con PHP </h3>
-                    <p>1.1. Introducción al curso de PHP.</p>
+                    <p>1.1. Introducción al entrenamiento de PHP.</p>
                     <p>1.2. Instalación y configuración de PHP.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#" />
                     <h3>Unidad 2: Variables y operadores en
                         PHP.</h3>
                     <p>2.1. Presentación de la unidad 2. </p>
@@ -131,7 +132,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#" />
                     <h3>Unidad 3: Condicionales y ciclos en
                         PHP.</h3>
                     <p>3.1. Presentación de la unidad 3.</p>
@@ -141,7 +142,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#" />
                     <h3>Unidad 4: Funciones y estructuras de
                         datos en PHP.</h3>
                     <p>4.1. Presentación de la unidad 4.</p>
@@ -151,12 +152,12 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#"/>
+                    <img src="@/assets/imagenes/programacion/servicios/icon-php.png" alt="#" />
                     <h3>Unidad 5: Programación orientada a
                         Objetos EN PHP.</h3>
                     <p>5.1. Presentación de la unidad 5. </p>
                     <p>5.2. Programación orientada a objetos. </p>
-                    <p>5.3. Conclusión del curso de PHP. </p>
+                    <p>5.3. Conclusión del entrenamiento de PHP. </p>
                 </div>
             </div>
         </div>
@@ -170,7 +171,7 @@ export default {
     components: {
         Inicio,
     }
-    
+
 };
 </script>
 

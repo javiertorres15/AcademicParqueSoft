@@ -10,8 +10,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En este curso de Java aprenderás a dominar este lenguaje de
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">En este entrenamiento de Java aprenderás a dominar este lenguaje de
                     programación básico, desde los conceptos, y poniendo en práctica ejemplos funcionales
                     para su aprendizaje.</p>
                 <p class="lead">
@@ -31,7 +31,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -63,7 +64,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -77,7 +78,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso es perfecto para principiantes sin experiencia en programación,
+                    <p class="lead">Este entrenamiento es perfecto para principiantes sin experiencia en programación,
                         orientado a cualquier persona con deseo de aprender a programar en JAVA.</p>
                     <p class="lead">Estudiantes de carreras de informática, sistemas y programación, que quieran
                         aprender a desarrollar una lógica de programación creando pequeñas aplicaciones
@@ -109,14 +110,12 @@
     </a>
 </div>
 
-
-
 <div id="service" class="service">
     <div class="container">
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de programación basica en Java</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de programación basica en Java</h2>
                 </div>
             </div>
         </div>
@@ -127,7 +126,7 @@
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-java.png" alt="#" />
                     <h3>Unidad 1: Lenguaje Java </h3>
-                    <p>1.1. Introducción al curso.</p>
+                    <p>1.1. Introducción al entrenamiento.</p>
                     <p>1.2. ¿Qué es Java?</p>
                     <p>1.3. Introducción e instalación
                         del entorno.</p>
@@ -207,18 +206,12 @@ export default {
     components: {
         Inicio,
     }
-    
-};
 
+};
 </script>
 
 <style scoped>
 @import '../css/estiloCursos.css';
 
 @import '../css/bootstrap.min.css';
-
-
-
-
-
 </style>

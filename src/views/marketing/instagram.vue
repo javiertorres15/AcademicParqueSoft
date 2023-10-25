@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> El curso de Instagram para el Desarrollo de Marcas es una oportunidad
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead"> El entrenamiento de Instagram para el Desarrollo de Marcas es una oportunidad
                     emocionante para explorar cómo esta poderosa plataforma puede
                     impulsar el crecimiento y el éxito de tu marca o negocio. Instagram se ha
                     convertido en un canal esencial para la promoción y el marketing, y en
@@ -31,7 +31,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -63,7 +64,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -77,12 +78,12 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso de Instagram para el Desarrollo de Marcas está dirigido a
+                    <p class="lead">Este entrenamiento de Instagram para el Desarrollo de Marcas está dirigido a
                         profesionales de marketing, emprendedores, gestores de redes sociales,
                         propietarios de negocios, estudiantes y cualquier persona interesada en
                         aprender a utilizar Instagram de manera efectiva para promover marcas y
                         negocios. No se requieren conocimientos previos en la plataforma, ya que
-                        el curso aborda desde conceptos fundamentales hasta estrategias
+                        el entrenamiento aborda desde conceptos fundamentales hasta estrategias
                         avanzadas para aprovechar al máximo esta poderosa herramienta de
                         marketing en medios sociales.</p>
                 </div>

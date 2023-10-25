@@ -14,14 +14,14 @@
             <!-- Usamos @submit para escuchar el evento de envío del formulario -->
             <form @submit="enviarFormulario" method="post" action="https://script.google.com/macros/s/AKfycbyWht783PrUix-Zk-vIRZGW5EjRI6LDlvfsFz1RKHft0kJmDyhUnVUTS9MiUEC_z4fiuw/exec">
                 <div class="form-group">
-                    <label for="full_name_id" class="control-label">Nombre completo</label>
+                    <label for="full_name_id" class="control-label">Nombres completos</label>
                     <input type="text" class="form-control" id="full_name_id" name="nombre" required>
                     <label for="full_name_id" class="control-label">Apellidos</label>
                     <input type="text" class="form-control" id="full_name_id" name="apellido" required>
                     <label for="full_name_id" class="control-label">Correo electronico</label>
                     <input type="email" class="form-control" id="full_name_id" name="correo" required>
                     <label for="full_name_id" class="control-label">Telefono</label>
-                    <input type="number" class="form-control" id="full_name_id" name="telefono" required pattern="\3[0-9]{9}">
+                    <input type="tel" class="form-control" id="full_name_id" name="telefono" required pattern="\3[0-9]{9}">
                     <label for="gender_id" class="control-label">Género</label>
                     <select class="form-control" id="gender_id" name="genero">
                         <option value="">Seleciona un genero</option>
@@ -32,23 +32,23 @@
                     <label for="category_id" class="control-label">Categoría</label>
                     <select class="form-control" id="category_id" name="categoria">
                         <option value="">Seleciona una categoria</option>
-                        <option value="programacion">Programación</option>
+                        <option value="programacion">Entrenamiento en programación</option>
+                        <option value="ofimatica">Entrenamiento en ofimática</option>
+                        <option value="tic">Entrenamiento en TIC</option>
+                        <option value="diseno">Entrenamiento en Diseño grafico</option>
+                        <option value="marketing">Entrenamiento en marketing digital</option>
+                        <option value="robotica">Entrenamiento en robótica</option>
                         <option value="emprendimiento">Emprendimiento</option>
-                        <option value="ofimatica">Ofimática</option>
-                        <option value="tic">TIC</option>
-                        <option value="diseno">Diseño</option>
-                        <option value="marketing">Marketing</option>
-                        <option value="robotica">Robótica</option>
                     </select>
                     <!-- Agrega el segundo select dinámico -->
-                    <label for="subcategory_id" class="control-label">Curso</label>
+                    <label for="subcategory_id" class="control-label">Entrenamiento</label>
                     <select class="form-control" id="subcategory_id" name="curso" disabled>
-                        <option value="">Selecciona un curso</option>
+                        <option value="">Selecciona un entrenamiento</option>
                     </select>
                 </div>
 
                 <div class="form-group mt-4">
-                    <button type="submit" class="btn btn-primary">Enviar</button>
+                    <button type="submit" class="btn btn-primary">Enviar</button> 
                 </div>
             </form>
             <div class="mt-4"></div>
@@ -64,13 +64,26 @@
 </div>
 </template>
 
+<style>
+    input:invalid {
+        border: 1px solid red;
+    }
+
+    input:invalid::after {
+        content: "Este campo es obligatorio";
+        color: red;
+        font-size: 12px;
+    }
+</style>
+
+
 <script>
 import $ from 'jquery';
 
 $(document).ready(function () {
     // Define un objeto JSON con las opciones para el segundo select
     var subcategories = {
-        programacion: ["Java", "Net", "PHP", "Pythob", "JavaScript", "Node.js"],
+        programacion: ["Java", "Net", "PHP", "Python", "JavaScript", "Node.js"],
         emprendimiento: ["Creación de marcas", "Creación de tiendas online", "Economía doméstica", "Google Ads", "Facebook e Instagram Ads", "Maduración de proyectos", "Plan de negocios", "Gestión de procesos"],
         tic: ["Ciudadano digital nivel 1", "Ciudadano digital nivel 2", "Alfabetización digital", "Herramientas comunicativas", "Competencias comunicativas para docentes"],
         diseno: ["Metodología canvas", "Diseño publicitario", "Diseño UX/UI", "Principios de diseño para presentaciones", "Basic Illustrator", "Basic Photoshop", "Basic after effects"],

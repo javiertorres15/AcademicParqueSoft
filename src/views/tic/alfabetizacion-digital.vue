@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead"> El curso de Alfabetización Digital es una experiencia educativa diseñada
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead"> El entrenamiento de Alfabetización Digital es una experiencia educativa diseñada
                     para capacitar a las personas en el uso efectivo de la tecnología y las
                     herramientas digitales en la vida cotidiana y en el ámbito profesional. En
                     un mundo cada vez más digitalizado, la alfabetización digital se ha
@@ -30,7 +30,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -62,7 +63,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -76,7 +77,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso de Alfabetización Digital está dirigido a personas de todas las
+                    <p class="lead">Este entrenamiento de Alfabetización Digital está dirigido a personas de todas las
                         edades y niveles de experiencia, desde principiantes absolutos hasta
                         aquellos que desean fortalecer sus habilidades tecnológicas, con el
 

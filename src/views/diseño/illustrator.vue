@@ -10,8 +10,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">En el Curso de Adobe Illustrator básico, aprenderás a usar este software de dibujo vectorial líder. Dominarás la interfaz, herramientas, atajos y técnicas esenciales para crear diseños digitales, ideales para redes sociales y proyectos editoriales. También podrás llevar a cabo un proyecto de aprendizaje opcional al finalizar el curso.</p>
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">En el entrenamiento de Adobe Illustrator básico, aprenderás a usar este software de dibujo vectorial líder. Dominarás la interfaz, herramientas, atajos y técnicas esenciales para crear diseños digitales, ideales para redes sociales y proyectos editoriales. También podrás llevar a cabo un proyecto de aprendizaje opcional al finalizar el entrenamiento.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -24,7 +24,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -56,7 +57,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p></p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>

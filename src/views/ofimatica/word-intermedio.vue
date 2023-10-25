@@ -11,8 +11,8 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Presentación del curso:<br></h2>
-                <p class="lead">Este curso Microsoft Word Intermedio brinda conocer
+                <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
+                <p class="lead">Este entrenamiento Microsoft Word Intermedio brinda conocer
                     herramientas de trabajo aplicados en los diferentes roles laborales y
                     profesionales. El participante manipulara las diferentes funciones para crear
                     documentos con calidad, de forma que el usuario pueda conseguir dar formatos
@@ -30,7 +30,8 @@
 
                             <div class="face back">
                                 <h3>Metodología</h3>
-                                <p>Educación a distancia en modalidad híbrida</p>
+                                <p>Educación híbrida usando metodología dual</p>
+                                <p>La metodología dual se centra en el aprendizaje práctico en el entorno laboral, complementado con la educación teórica en un aula. Esta combinación ayuda a los estudiantes a adquirir habilidades relevantes y experiencia laboral mientras obtienen una educación formal.</p>
                                 <div class="link">
 
                                 </div>
@@ -62,7 +63,7 @@
 
                             <div class="face back">
                                 <h3>Duración</h3>
-                                <p>Duración: 3 semanas</p>
+                                <p class="text-align">Nuestra formación integral se extiende a lo largo de un total de 40 horas de instrucción experta y enriquecedora para brindarte una experiencia de aprendizaje completa.</p>
                                 <div class="link">
 
                                 </div>
@@ -76,8 +77,8 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este curso está dirigido a quienes necesiten o deseen aprender y
-                        potencializar el manejo de Microsoft Word de forma simple y efectiva, para
+                    <p class="lead">Este entrenamiento está dirigido a quienes necesiten o deseen aprender y
+                        potencializar el manejo de Microsoft Word de forma simple y efectiva, para
                         poder elaborar sus hojas de texto de forma correcta, optimizando al máximo el
                         tiempo en la realización de documentos.</p>
                 </div>
@@ -109,7 +110,7 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="titlepage">
-                    <h2><strong class="yellow">Contenidos</strong><br>Curso de Word Intermedio</h2>
+                    <h2><strong class="yellow">Contenidos</strong><br>Entrenamiento de Word Intermedio</h2>
                 </div>
             </div>
         </div>

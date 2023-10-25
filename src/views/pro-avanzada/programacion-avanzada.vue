@@ -34,15 +34,15 @@
                             <div class="carousel-item active">
                                 <!-- Video en lugar de imagen -->
                                 <video class="d-block w-100" autoplay muted loop>
-                                    <source src="@/views/pro-avanzada/imagenes/video-inicio.mp4" type="video/mp4">
+                                    <source src="/src/assets/Imagenes/programacion-avanzada/proAvanzadaV.mp4" type="video/mp4">
 
                                 </video>
                             </div>
                             <div class="carousel-item">
-                                <img src="@/assets/imagenes/O1.png" class="d-block w-100 img-fluid" alt="Imagen">
+                                <img src="/src/assets/Imagenes/programacion-avanzada/ProAvanCarrusel.png" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                             <div class="carousel-item">
-                                <img src="@/assets/imagenes/O1.png" class="d-block w-100 img-fluid" alt="Imagen">
+                                <img src="/src/assets/Imagenes/programacion-avanzada/ProAvanCarrusel.png" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -70,8 +70,8 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="text-container">
-                    <h2>Pre-inscribete usando el formulario</h2>
-                    <p>Es fácil registrarse en el curso, simplemente complete el formulario y haga clic en enviar.</p>
+                    <h2>Inscribete usando el formulario</h2>
+                    <p>Es fácil registrarse en el entrenamiento, simplemente complete el formulario y haga clic en enviar.</p>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-6">
@@ -108,7 +108,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h2>¿Qué aprenderás en este curso?</h2>
+                <h2>¿Qué aprenderás en este entrenamiento?</h2>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
         <div class="row">
@@ -136,7 +136,7 @@
                         <i class="bullet">3</i>
                         <div class="media-body">
                             <h4>Proyectos Prácticos</h4>
-                            <p style="text-align: justify;">A lo largo del curso, trabajarás en proyectos que aplicarán los
+                            <p style="text-align: justify;">A lo largo del entrenamiento, trabajarás en proyectos que aplicarán los
                                 conceptos aprendidos, lo que te permitirá adquirir experiencia
                                 práctica.</p>
                         </div>
@@ -185,17 +185,17 @@
             <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
             <div class="col-lg-8">
                 <div class="image-container">
-                    <img class="img-fluid" src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="alternative">
+                    <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/ProAcom.png" alt="alternative">
                     <br><br>
-                    <p>¡Esperamos que se unan a nosotros en este curso de programación
+                    <p>¡Esperamos que se unan a nosotros en este entrenamiento de programación
                         avanzada!</p>
                 </div> <!-- end of image-container -->
             </div> <!-- end of col -->
             <div class="col-lg-4">
-                <h3>Metodologías de las clases del curso:</h3>
+                <h3>Metodologías de las clases del entrenamiento:</h3>
                 <hr>
-                <h5>Estimados interesados en el Curso de Programación Avanzada,</h5>
-                <p style="text-align: justify;">Este curso se realizará de forma virtual y se centrará en la práctica. A
+                <h5>Estimados interesados en el entrenamiento de Programación Avanzada,</h5>
+                <p style="text-align: justify;">Este entrenamiento se realizará de forma virtual y se centrará en la práctica. A
                     través de componentes prácticos y proyectos, afianzarán sus
                     conocimientos de programación de manera efectiva. A pesar de ser
                     en línea, tendrán la oportunidad de aplicar lo que aprendan en
@@ -210,70 +210,7 @@
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox -->
 
-<!-- Testimonials -->
-<div class="slider-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h3>Reseñas</h3>
 
-                <!-- Text Slider -->
-                <div class="slider-container">
-                    <div class="swiper-container text-slider">
-                        <div class="carrousel">
-                            <div id="carouselExampleIndicators" class="carousel slide">
-                                <!-- Slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel Quiroz - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                                <div class="carrousel-inner">
-                                    <div class="image-wrapper">
-                                        <img class="img-fluid" src="@/assets/Imagenes/programacion-avanzada/testimonio.jpeg" alt="alternative">
-                                    </div> <!-- end of image-wrapper -->
-                                    <div class="text-wrapper">
-                                        <div class="testimonial-text">Un curso intensivo pero gratificante. Pragmático en el aprendizaje y la aplicación del conocimiento sobre el mundo de la tecnología e innovación. Combinado con el deseo de profundizar aún más, de seguro es un gran comienzo para cualquiera que desee adentrarse por primera vez a la industria 4.0.</div>
-                                        <div class="testimonial-author">Daniel - Programador</div>
-                                    </div> <!-- end of text-wrapper -->
-                                </div> <!-- end of swiper-slide -->
-                            </div>
-                        </div> <!-- end of swiper-wrapper -->
-
-                        
-
-                    </div> <!-- end of swiper-container -->
-                </div> <!-- end of slider-container -->
-                <!-- end of text slider -->
-
-            </div> <!-- end of col -->
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of slider-2 -->
-<!-- end of testimonials -->
 </template>
 
 <script>
@@ -315,4 +252,6 @@ export default {
 @import '../pro-avanzada/css/swiper.css';
 @import '../pro-avanzada/css/styles.css';
 @import '../pro-avanzada/css/bootstrap.css';
+
+
 </style>
