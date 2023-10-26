@@ -11,8 +11,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
-                <p class="lead">En este entrenamiento te compartiremos todo el
-                    potencial que se puede encontrar para el diseño de presentaciones</p>
+                <p class="lead">En este exclusivo entrenamiento, estamos emocionados de ofrecerte una inmersión profunda en el mundo del diseño de presentaciones. Nuestro objetivo es brindarte una comprensión completa de todo el potencial que se puede desbloquear en el diseño de presentaciones y cómo estas pueden convertirse en herramientas efectivas para la comunicación y el impacto.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -72,9 +71,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Dirigido a emprendedores, personal de ventas, gerentes
-                        de proyectos, en general personal que debe montar presentaciones
-                        en la empresa.</p>
+                    <p class="lead">Este entrenamiento Principio de Diseño para Presentaciones está diseñado específicamente para Emprendedores, Personal de Ventas, Gerentes de Proyectos y, en general, para todos aquellos en la empresa que deseen perfeccionar sus habilidades en la creación de presentaciones efectivas. Nuestro objetivo es proporcionar una formación completa y práctica que te capacitará para diseñar presentaciones atractivas, impactantes y memorables</p>
                 </div>
             </div>
         </div>

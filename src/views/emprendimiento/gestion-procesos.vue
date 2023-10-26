@@ -12,11 +12,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
-                <p class="lead"> En este entrenamiento, explicaremos cómo utilizar una de las plataformas de
-                    publicidad en línea más poderosas para alcanzar a tu audiencia,
-                    promocionar tu negocio y obtener resultados medibles.
-                    Google Ads ofrece una amplia gama de herramientas y estrategias para
-                    anunciantes, desde pequeñas empresas hasta grandes corporaciones.</p>
+                <p class="lead"> Este entrenamiento de Maduración de Proyectos se adapta a una audiencia diversa, incluyendo gerentes de proyectos, emprendedores, profesionales en desarrollo de negocios, estudiantes y académicos. Durante el curso, aprenderás a llevar proyectos desde la etapa de concepción hasta la ejecución con éxito y eficiencia.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -76,8 +72,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">todas las personas que usan las soluciones y herramientas
-                        profesionales de Google.</p>
+                    <p class="lead">Este curso de Maduración de Proyectos se adapta a una audiencia diversa, incluyendo gerentes de proyectos, emprendedores, profesionales en desarrollo de negocios, estudiantes y académicos. Durante el curso, aprenderás a llevar proyectos desde la etapa de concepción hasta la ejecución con éxito y eficiencia.</p>
                 </div>
             </div>
         </div>
@@ -116,78 +111,64 @@
         <div class="row">
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 1: Introducción a Google Ads. </h3>
-                    <p>1.1. ¿Qué es Google Ads y por qué es importante?.</p>
-                    <p>1.2. Tipos de anuncios disponibles en Google Ads.</p>
-                    <p>1.3. Configuración de una cuenta de Google Ads.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 1: Fundamentos de la Gestión por Procesos. </h3>
+                    <p>1.1. ¿Qué es la gestión por procesos?.</p>
+                    <p>1.2. Importancia de la gestión por procesos.</p>
+                    <p>1.3. Ciclo de vida de un proceso.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 2: Planificación de Campañas Publicitarias. </h3>
-                    <p>2.1. Definición de objetivos publicitarios. </p>
-                    <p>2.2. Investigación de palabras clave.</p>
-                    <p>2.3. Estrategias de segmentación de audiencia.</p>
-                    <p>2.4. Presupuesto y puja en Google Ads.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 2: Mapeo y Documentación de Procesos.</h3>
+                    <p>2.1. Técnicas de mapeo de procesos. </p>
+                    <p>2.2. Creación de diagramas de flujo.</p>
+                    <p>2.3. Documentación de procedimientos.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 3: Creación y Optimización de Anuncios </h3>
-                    <p>3.1. Diseño de anuncios efectivos.</p>
-                    <p>3.2. Uso de extensiones de anuncios.</p>
-                    <p>3.3. Pruebas A/B y optimización de anuncios.</p>
-                    <p>3.4. Calidad del anuncio y puntuación de calidad.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 3: Análisis y Optimización de Procesos </h3>
+                    <p>3.1. Identificación de cuellos de botella.</p>
+                    <p>3.2. Rediseño de procesos.</p>
+                    <p>3.3. Medición de la eficiencia.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 4: Gestión de Campañas y Presupuesto. </h3>
-                    <p>4.1. Configuración de campañas y grupos de anuncios.</p>
-                    <p>4.2. Programación de anuncios y ajustes de oferta.</p>
-                    <p>4.3. Seguimiento y control del presupuesto.</p>
-                    <p>4.4. Herramientas de programación y automatización.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 4: Implementación de la Gestión por Procesos</h3>
+                    <p>4.1. Introducción a la implementación.</p>
+                    <p>4.2. Cómo involucrar a los equipos.</p>
+                    <p>4.3. Herramientas de gestión por procesos.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 5: Estrategias Avanzadas de Google Ads. </h3>
-                    <p>5.1. Segmentación por ubicación y dispositivos.</p>
-                    <p>5.2. Estrategias de puja avanzadas.</p>
-                    <p>5.3. Remarketing y público similar.</p>
-                    <p>5.4. Informes y análisis de rendimiento.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 5: Mejora Continua y Monitoreo </h3>
+                    <p>5.1. Concepto de mejora continua.</p>
+                    <p>5.2. Indicadores clave de rendimiento (KPIs).</p>
+                    <p>5.3. Monitoreo y ajuste de procesos.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 6: Cumplimiento Legal y Ético. </h3>
-                    <p>6.1. Directrices de Google Ads y políticas publicitarias.</p>
-                    <p>6.2. Buenas prácticas en publicidad en línea.</p>
-                    <p>6.3. Consideraciones éticas en la publicidad digital.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 6: Estudios de Caso y Ejemplos Prácticos. </h3>
+                    <p>6.1. Revisión de casos reales de éxito.</p>
+                    <p>6.2. Aplicación de la gestión por procesos en diversas industrias.</p>
+                    <p>6.3. Lecciones aprendidas de organizaciones destacadas.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 7: Casos Prácticos y Ejemplos. </h3>
-                    <p>7.1. Estudios de casos reales de campañas exitosas.</p>
-                    <p>7.2. Creación y optimización de campañas en tiempo real.</p>
-                    <p>7.3. Lecciones aprendidas de campañas anteriores.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/google-ads.png" alt="#" />
-                    <h3>Unidad 8: Evaluación y Certificación. </h3>
-                    <p>8.1. Examen final.</p>
-                    <p>8.2. Evaluación de campañas publicitarias individuales .</p>
-                    <p>8.3. Entrega de certificados aprobados.</p>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/plan-negocios.jpg" alt="#" />
+                    <h3>Unidad 7: Evaluación y Certificación.</h3>
+                    <p>7.1. Examen final.</p>
+                    <p>7.2. Evaluación de proyectos individuales.</p>
                 </div>
             </div>
         </div>

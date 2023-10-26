@@ -71,7 +71,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Público en general, interesados en ilustración y diseño gráfico</p>
+                    <p class="lead">Nuestro entrenamiento de Illustrator está diseñado para atraer y beneficiar a un amplio público en general, incluyendo a aquellos interesados en ilustración y diseño gráfico. Sea que seas un apasionado del arte, un aspirante a diseñador gráfico, un entusiasta de la creatividad, o alguien que simplemente quiere aprender una habilidad nueva y emocionante, este curso está diseñado para ti.</p>
 
                 </div>
             </div>

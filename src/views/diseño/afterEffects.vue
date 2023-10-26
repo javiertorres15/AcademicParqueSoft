@@ -71,9 +71,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este entrenamiento de After Effects está dirigido para todo tipo de
-                        persona que desee aprender a llevar cabo la manipulación gráfica en
-                        movimiento.</p>
+                    <p class="lead">Nuestro entrenamiento de After Effects está diseñado para atraer y beneficiar a un público amplio y diverso. Este programa está dirigido a aquellos que sienten una fuerte pasión por la creación de efectos visuales en movimiento y desean aprender y dominar Adobe After Effects. Este curso es una herramienta valiosa tanto para aspirantes a artistas de efectos visuales que buscan desarrollar habilidades profesionales en el software líder de la industria, como para cualquier persona que simplemente sienta una profunda curiosidad y pasión por la manipulación gráfica en movimiento.</p>
                 </div>
             </div>
         </div>

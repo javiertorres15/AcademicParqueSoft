@@ -76,8 +76,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Gerentes de Proyectos, Emprendedores, Profesionales en Desarrollo de
-                        Negocios y Estudiantes y Académicos</p>
+                    <p class="lead">Este curso de Maduración de Proyectos se adapta a una audiencia diversa, incluyendo gerentes de proyectos, emprendedores, profesionales en desarrollo de negocios, estudiantes y académicos. Durante el curso, aprenderás a llevar proyectos desde la etapa de concepción hasta la ejecución con éxito y eficiencia.</p>
                 </div>
             </div>
         </div>

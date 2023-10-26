@@ -77,7 +77,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead"> </p>
+                    <p class="lead">Este entrenamiento en Excel está diseñado para brindar una introducción sólida al manejo básico de la hoja de cálculo. Está dirigido a un público diverso y variado, incluyendo a profesionales de todos los campos laborales, estudiantes, emprendedores y cualquier persona interesada en adquirir habilidades esenciales en Excel </p>
                 </div>
             </div>
         </div>

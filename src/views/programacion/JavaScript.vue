@@ -81,8 +81,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Diseñadores WEB</p>
-                    <p class="lead">Programadores</p>
+                    <p class="lead">Diseñadores web y programadores entusiastas que estén interesados en potenciar sus habilidades a través de entrenamientos altamente especializados. Si eres un profesional creativo o técnico apasionado por el diseño web o la programación y deseas ampliar tus conocimientos, esta oportunidad es para ti.</p>
 
                 </div>
             </div>

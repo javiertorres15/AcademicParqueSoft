@@ -11,13 +11,11 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
-                <p class="lead">En este entrenamiento de Java aprenderás a dominar este lenguaje de
-                    programación básico, desde los conceptos, y poniendo en práctica ejemplos funcionales
-                    para su aprendizaje.</p>
+                <p class="lead">Descubre qué es Node.js, y por qué es tan potente. Si ya has
+                    trabajado con Node.js, vas a profundizar conocimientos sobre cómo
+                    funciona por debajo todo el código que ya has hecho.</p>
                 <p class="lead">
-                    Aprenderás las sentencias condicionales y repetitivas, que te van a permitir desarrollar tu
-                    lógica de programación con éxito y la teoría base para poner en práctica con ejemplos
-                    sobre la Programación Orienta a Objetos con JAVA.
+                    En nuestros cursos, aprenderás los fundamentos de Node.js, incluyendo el manejo de la asincronía, la comprensión de los módulos del core, y la utilización de módulos y paquetes externos.
                 </p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -78,14 +76,8 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Este entrenamiento es perfecto para principiantes sin experiencia en programación,
-                        orientado a cualquier persona con deseo de aprender a programar en JAVA.</p>
-                    <p class="lead">Estudiantes de carreras de informática, sistemas y programación, que quieran
-                        aprender a desarrollar una lógica de programación creando pequeñas aplicaciones
-                        en JAVA.</p>
-                    <p class="lead">Persona con ganas de iniciarse de verdad en la programación, aprendiendo el
-                        paradigma orientado a objetos con JAVA, y quieran algún día hacer brillar su genio
-                        interior para crear cosas formidables.</p>
+                    <p class="lead">Nuestra propuesta de aprendizaje en Node.js está diseñada para abordar las necesidades y expectativas de una amplia audiencia, que incluye desde Desarrolladores Web Principiantes que buscan dar sus primeros pasos en el mundo de la programación del lado del servidor, hasta Desarrolladores Front-End que desean ampliar sus habilidades en el back-end. También damos la bienvenida a Estudiantes de Programación que desean enriquecer sus conocimientos y habilidades técnicas, Emprendedores Tecnológicos que buscan comprender cómo funciona la tecnología detrás de sus proyectos, así como a Profesionales de TI y Administradores de Sistemas que desean profundizar su comprensión de Node.js para mejorar la administración de sistemas y servidores</p>
+
                 </div>
             </div>
         </div>
@@ -125,76 +117,114 @@
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
-                    <h3>Unidad 1: Lenguaje Java </h3>
-                    <p>1.1. Introducción al entrenamiento.</p>
-                    <p>1.2. ¿Qué es Java?</p>
-                    <p>1.3. Introducción e instalación
-                        del entorno.</p>
-                    <p>1.4. ¿Qué es un programa en
-                        Java?</p>
+                    <h3>Unidad 1: Introducción a Node.js </h3>
+                    <p>1.1. ¿Qué es Node.js?</p>
+                    <p>1.2. Ventajas y casos de uso de Node.js</p>
+                    <p>1.3. Instalación de Node.js y npm</p>
+                    <p>1.4. Hola Mundo en Node.js</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
-                    <h3>Unidad 2: Variables y operadores</h3>
-                    <p>2.1. Variable y tipos de datos. </p>
-                    <p>2.2. Operadores.</p>
-                    <p>2.3. Operadores relacionales. </p>
-                    <p>2.4. Conversión de tipos </p>
+                    <h3>Unidad 2: Fundamentos de JavaScript</h3>
+                    <p>2.1. Repaso de JavaScript (variables, tipos de datos, estructuras de
+                        control) </p>
+                    <p>2.2. Funciones en JavaScript</p>
+                    <p>2.3. Callbacks y asincronía en JavaScript </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
-                    <h3>Unidad 3: Sentencias condicionales y
-                        repetitivas.</h3>
-                    <p>3.1. Sentencia condicional if.</p>
-                    <p>3.2. Sentencia selectiva switch.</p>
-                    <p>3.3. Sentencia repetitiva for.</p>
-                    <p>3.4. Sentencias repetitivas while y do while </p>
-                    <p>3.5. Ejercicio de Sentencias y Bucles </p>
+                    <h3>Unidad 3: Módulos y Require</h3>
+                    <p>3.1. Módulos en Node.js</p>
+                    <p>3.2. Creación y exportación de módulos</p>
+                    <p>3.3. Uso de require para importar módulos</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
-                    <h3>Unidad 4: Excepciones, funciones y
-                        recursividad.</h3>
-                    <p>4.1. Excepciones.</p>
-                    <p>4.2. Funciones.</p>
-                    <p>4.3. Sobrecarga de funciones</p>
-                    <p>4.4. Recursividad</p>
+                    <h3>Unidad 4: Sistema de archivos y Streams</h3>
+                    <p>4.1. Lectura y escritura de archivos.</p>
+                    <p>4.2. Streams y su utilidad.</p>
+                    <p>4.3. Creación de un servidor web básico.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
-                    <h3>Unidad 5: Programación orientada a
-                        Objetos.</h3>
-                    <p>5.1. Clases y Objetos. </p>
-                    <p>5.2. Herencia. </p>
-                    <p>5.3. Constructores. </p>
-                    <p>5.4. Uso de This y Super. </p>
-                    <p>5.5. Polimorfismo. </p>
-                    <p>5.6. Clases Abstractas e Interfaces. </p>
-                    <p>5.7. Ejercicio de Clases y Objetos.</p>
-
+                    <h3>Unidad 5: Gestión de paquetes con npm </h3>
+                    <p>5.1. Introducción a npm.</p>
+                    <p>5.2. Instalación y actualización de paquetes. </p>
+                    <p>5.3. Uso de package.json para gestionar dependencias. </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
                     <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
-                    <h3>Unidad 6: Arrays-Arreglos.</h3>
-                    <p>6.1. Arreglos Unidimensionales. </p>
-                    <p>6.2. Arreglos Bidimensionales. </p>
-                    <p>6.3. Ejercicio de Arreglos y Clases. </p>
-                    <p>6.4. Analizamos el ejercicio.</p>
-                    <p>6.5. Creamos la clase Atleta. </p>
-                    <p>6.6. Creamos la clase competencia. </p>
+                    <h3>Unidad 6: Event Loop y Asincronía.</h3>
+                    <p>6.1. El Event Loop de Node.js. </p>
+                    <p>6.2. Callbacks, Promises y async/await. </p>
+                    <p>6.3. Gestión de errores sincrónicos. </p>
                 </div>
             </div>
-
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
+                    <h3>Unidad 7: Express.js y Desarrollo Web.</h3>
+                    <p>7.1. Introducción a Express.js </p>
+                    <p>7.2. Creación de rutas y manejo de peticiones. </p>
+                    <p>7.3. Uso de plantillas para generar contenido dinámico. </p>
+                    <p>7.4. Middleware en Express.js</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
+                    <h3>Unidad 8: Bases de Datos.</h3>
+                    <p>8.1. Conexión a bases de datos. </p>
+                    <p>8.2. Operaciones CRUD (Crear, Leer, Actualizar, Borrar). </p>
+                    <p>8.3. Uso de bases de datos NoSQL como MongoDB. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
+                    <h3>Unidad 9: Autenticación y Seguridad.</h3>
+                    <p>9.1. Autenticación de usuarios. </p>
+                    <p>9.2. Uso de tokens JWT. </p>
+                    <p>9.3. Seguridad en aplicaciones Node.js </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
+                    <h3>Unidad 10: Despliegue y Hosting.</h3>
+                    <p>10.1. Opciones de hosting para aplicaciones Node.js </p>
+                    <p>10.2. Despliegue en servicios en la nube. </p>
+                    <p>10.3. Configuración de un servidor en producción. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
+                    <h3>Unidad 11: Pruebas y Depuración.</h3>
+                    <p>11.1. Pruebas unitarias y de integración </p>
+                    <p>11.2. Depuración de aplicaciones Node.js </p>
+                    <p>11.3. Herramientas y técnicas de pruebas. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div id="ho_color" class="service_box">
+                    <img src="@/assets/imagenes/programacion/servicios/icon-node.png" alt="#" />
+                    <h3>Unidad 12: Proyecto Final.</h3>
+                    <p>12.1. Desarrollo de una aplicación completa </p>
+                    <p>12.2. Implementación de funcionalidades avanzadas. </p>
+                    <p>12.3. Optimización y mejora del rendimiento. </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>

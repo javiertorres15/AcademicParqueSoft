@@ -80,8 +80,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Emprendedores, inversores, directivos, consultores,
-                        diseñadores de modelos de negocio y personal académico.</p>
+                    <p class="lead">Nuestra propuesta de entrenamientos de Metodología Canvas enriquecerá las habilidades y conocimientos de un público diverso y altamente cualificado. Este programa se ha diseñado cuidadosamente para satisfacer las necesidades de Emprendedores que buscan dominar la metodología Canvas para impulsar sus proyectos empresariales, Inversores que desean evaluar y comprender en profundidad las estrategias de los emprendedores.</p>
 
                 </div>
             </div>

@@ -78,7 +78,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">Profesionales, estudiantes y público en general.</p>
+                    <p class="lead">Nuestro completo entrenamiento de PowerPoint Intermedio está diseñado para proporcionar a los participantes una base sólida en el diseño, organización y presentación efectiva de información visual en entornos profesionales y académicos. Este curso se adentra en aspectos más avanzados de PowerPoint, incluyendo técnicas de diseño de diapositivas, animaciones, narrativa visual y habilidades de comunicación persuasiva..</p>
                 </div>
             </div>
         </div>

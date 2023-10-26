@@ -135,7 +135,7 @@
                     <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
                     <div class="dropdown-content">
                         <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1" @click="scrollToTop">Ciudadano digital nivel 1</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1" @click="scrollToTop">Ciudadano digital nivel 2</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital2" @click="scrollToTop">Ciudadano digital nivel 2</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/alfabetizacion-digital" @click="scrollToTop">Alfabetización digital</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/herramientas-comunicativas" @click="scrollToTop">Herramientas comunicativas</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/competencias-comunicativas" @click="scrollToTop">Competencias comunicativas para docentes</router-link>
@@ -164,7 +164,7 @@
                         <router-link class="nav-link active" aria-current="page" to="/excel-avanzado" @click="scrollToTop">Excel Avanzando</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/power-point-bsc" @click="scrollToTop">Power Point Básico</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/power-point-intermedio" @click="scrollToTop">Power Point Intermedio</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/epower-point-avanzado" @click="scrollToTop">Power Point Avanzando</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/power-point-avanzado" @click="scrollToTop">Power Point Avanzando</router-link>
                     </div>
                 </div>
             </div>

@@ -71,10 +71,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">El entrenamiento de Illustrator básico está dirigido a todas aquellas
-                        personas interesadas en tener los conocimientos básicos necesarios para
-                        trabajar con el programa y poder realizar pequeños trabajos de diseños
-                        publicitarios, logotipos y pósters.</p>
+                    <p class="lead">Nuestro entrenamiento de Photoshop está diseñado para atraer y beneficiar a un amplio público en general, incluyendo a aquellos que sienten una fuerte afinidad por el diseño gráfico y están interesados en aprender y dominar Adobe Photoshop. Este programa es un recurso valioso tanto para aspirantes a diseñadores gráficos que buscan adquirir habilidades profesionales en el software líder de la industria, como para cualquier persona que simplemente sienta curiosidad y pasión por el diseño gráfico y la edición de imágenes</p>
                 </div>
             </div>
         </div>

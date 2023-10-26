@@ -75,7 +75,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead"></p>
+                    <p class="lead">Nuestro completo entrenamiento de Excel Avanzado está diseñado para proporcionar a los participantes un dominio sólido en el análisis, diseño, organización y presentación de información administrativa de oficina. Este curso aborda temas avanzados como el cruce de información y el análisis de datos, equipando a los estudiantes con habilidades esenciales para la gestión eficiente de información en entornos profesionales y empresariales.</p>
                 </div>
             </div>
         </div>

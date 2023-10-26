@@ -12,11 +12,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Presentación del entrenamiento:<br></h2>
-                <p class="lead"> En este entrenamiento, explicaremos cómo utilizar una de las plataformas de
-                    publicidad en línea más poderosas para alcanzar a tu audiencia,
-                    promocionar tu negocio y obtener resultados medibles.
-                    Google Ads ofrece una amplia gama de herramientas y estrategias para
-                    anunciantes, desde pequeñas empresas hasta grandes corporaciones.</p>
+                <p class="lead"> En este exhaustivo y enriquecedor entrenamiento, te guiaremos a través de un proceso integral que te permitirá no solo comprender en profundidad, sino también aplicar con maestría, los fundamentos esenciales de la creación y consolidación de una marca sólida y efectiva para tu negocio, producto o servicio. Las marcas son un activo valioso que ejerce una influencia trascendental en la percepción de tu audiencia y, en última instancia, en el logro del éxito sostenible de tu empresa en un mercado competitivo.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <div class="row">
@@ -76,8 +72,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">todas las personas que usan las soluciones y herramientas
-                        profesionales de Google.</p>
+                    <p class="lead">Este entrenamiento exhaustivo está especialmente diseñado para satisfacer las necesidades y aspiraciones de un público diverso y apasionado que abarca desde Aspirantes a Diseñadores en busca de adentrarse en el emocionante mundo de la creación de marcas, hasta Profesionales Creativos con experiencia que desean perfeccionar sus habilidades y estrategias en el arte de la gestión de marcas. Además, está dirigido a cualquier persona interesada en profundizar su comprensión y apreciación del impacto de las marcas en nuestro entorno empresarial y cultural.</p>
                 </div>
             </div>
         </div>
@@ -152,7 +147,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 5: Gestión y Expansión de Marca</h3>
                     <p>5.1. Protección legal de la marca (registro de marca, derechos de autor, etc.).</p>
                     <p>5.2. Mantenimiento de la consistencia de marca.</p>
@@ -161,7 +156,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 6: Desarrollo de una Estrategia de Marca a Largo Plazo. </h3>
                     <p>6.1. Evaluación del impacto de la marca a lo largo del tiempo.</p>
                     <p>6.2. Adquisición de lealtad de marca y compromiso del cliente.</p>
@@ -170,7 +165,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 7: Casos Prácticos y Ejemplos. </h3>
                     <p>7.1. Estudios de casos de marcas exitosas.</p>
                     <p>7.2. Creación de una marca en tiempo real.</p>
@@ -179,7 +174,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#"/>
+                    <img src="@/assets/imagenes/emprendimiento/iconos/creacion-marcas.png" alt="#" />
                     <h3>Unidad 8: Evaluación y Certificación. </h3>
                     <p>8.1. Examen final y evaluación de proyectos de marca.</p>
                     <p>8.2. Entrega de certificados aprobados.</p>

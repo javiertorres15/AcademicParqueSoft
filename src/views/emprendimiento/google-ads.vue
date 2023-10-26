@@ -76,8 +76,7 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
-                    <p class="lead">todas las personas que usan las soluciones y herramientas
-                        profesionales de Google.</p>
+                    <p class="lead">Este completo entrenamiento sobre Google Ads está diseñado para satisfacer las necesidades de una audiencia diversa, desde emprendedores y propietarios de pequeñas empresas hasta profesionales de marketing de grandes corporaciones. Nuestro programa te proporcionará las habilidades esenciales para aprovechar una de las plataformas de publicidad en línea más poderosas y efectivas para llegar a tu audiencia, promocionar tu negocio y medir resultados de manera precisa.</p>
                 </div>
             </div>
         </div>
