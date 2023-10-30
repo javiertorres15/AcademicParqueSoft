@@ -41,166 +41,31 @@
         <h2>Entrenamientos</h2>
     </div>
 
-    <!--   Tarjetas-->
     <div class="container-card">
 
         <div class="card">
             <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/programacion.png" alt="programacion">
+                <img src="@/assets/Imagenes/Cabeceras/Robotica_A.jpg" alt="robo-avanzada">
             </figure>
             <div class="contenido-card">
-                <h3>Programación</h3>
+                <h3>Vacacional de Robotica</h3>
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <button class="dropdown-btn">Entrenamiento disponibles ▼</button>
-                    <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/java" @click="scrollToTop">Java</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/net" @click="scrollToTop">Net</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/php" @click="scrollToTop">PHP</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/python" @click="scrollToTop">Python</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/javascript" @click="scrollToTop">JavaScript</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/node" @click="scrollToTop">Node.js</router-link>
-                    </div>
+                    <router-link class="nav-link active" aria-current="page" to="/robotica-avanzada" @click="scrollToTop">
+                        <button class="cssbuttons-io-button">Vamos
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                                    <path fill="none" d="M0 0h24v24H0z"></path>
+                                    <path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path>
+                                </svg>
+                            </div>
+                        </button>
+                    </router-link>
                 </div>
             </div>
+            
         </div>
-
-        <div class="card">
-            <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/diseno.jpg" alt="diseno">
-            </figure>
-            <div class="contenido-card">
-                <h3>Diseño</h3>
-            </div>
-            <div class="card-footer">
-                <div class="dropdown">
-                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
-                    <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/diseno-publicitario" @click="scrollToTop">Diseño publicitario</router-link>
-                        <!-- <router-link class="nav-link active" aria-current="page" to="/diseno-UxUis" @click="scrollToTop">Diseño UX/UI</router-link> -->
-                        <router-link class="nav-link active" aria-current="page" to="/diseno-presentaciones" @click="scrollToTop">Principios de diseño para presentaciones</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/illustrator" @click="scrollToTop">Basic Illustrator</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/photoshop" @click="scrollToTop">Basic Photoshop</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/afterEffects" @click="scrollToTop">Basic after effects</router-link>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        
-
-        <div class="card">
-            <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/marketing.jpg" alt="marketing">
-            </figure>
-            <div class="contenido-card">
-                <h3>Marketing</h3>
-            </div>
-            <div class="card-footer">
-                <div class="dropdown">
-                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
-                    <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/community-manager" @click="scrollToTop">Community Manager</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/habilidades-sociales" @click="scrollToTop">Habilidades sociales</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/instagram" @click="scrollToTop">Instagram para el desarrollo de marcas</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/internet-rs-dg" @click="scrollToTop">Internet, redes sociales y dispositivos digitales</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/marketing-digital" @click="scrollToTop">Marketing digital</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/meta-ads" @click="scrollToTop">Facebook e Instagram Ads</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/posicionamiento-buscadores" @click="scrollToTop">Posicionamiento en buscadores</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/posicionamientos-marcas" @click="scrollToTop">Posicionamientos de marcas</router-link>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        
-
-        
-
-    </div>
-    <!--   Fin Tarjetas-->
-    <div class="container-card">
-
-        <div class="card">
-            <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/tic02.jpg" alt="tic">
-            </figure>
-            <div class="contenido-card">
-                <h3>TIC</h3>
-            </div>
-            <div class="card-footer">
-                <div class="dropdown">
-                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
-                    <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1" @click="scrollToTop">Ciudadano Digital - Nivel 1</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital2" @click="scrollToTop">Ciudadano Digital - Nivel 2</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/alfabetizacion-digital" @click="scrollToTop">Alfabetización Digital</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/herramientas-comunicativas" @click="scrollToTop">Herramientas Comunicativas</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/competencias-comunicativas" @click="scrollToTop">Competencias Comunicativas para Docentes</router-link>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        
-        <div class="card">
-            <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/ofimatica.jpg" alt="ofimatica">
-            </figure>
-            <div class="contenido-card">
-                <h3>Ofimática</h3>
-            </div>
-            <div class="card-footer">
-                <div class="dropdown">
-                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
-                    <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/word-basico" @click="scrollToTop">Word Básico</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/word-intermedio" @click="scrollToTop">Word Intermedio</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/word-avanzado" @click="scrollToTop">Word Avanzando</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/excel-basico" @click="scrollToTop">Excel Básico</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/excel-intermedio" @click="scrollToTop">Excel Intermedio</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/excel-avanzado" @click="scrollToTop">Excel Avanzando</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/power-point-bsc" @click="scrollToTop">Power Point Básico</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/power-point-intermedio" @click="scrollToTop">Power Point Intermedio</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/power-point-avanzado" @click="scrollToTop">Power Point Avanzando</router-link>
-                    </div>
-                </div>
-            </div>
-        </div>
-       
-
-        <div class="card">
-            <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="emprendimiento">
-            </figure>
-            <div class="contenido-card">
-                <h3>Emprendimiento</h3>
-            </div>
-            <div class="card-footer">
-                <div class="dropdown">
-                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
-                    <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/creacion-de-marcas" @click="scrollToTop">Creación de marcas</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/metodologia-canvas" @click="scrollToTop">Metodología canvas</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/creacion-tiendas-online" @click="scrollToTop">Creación de tiendas online</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/economia-domestica" @click="scrollToTop">Economía doméstica</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/google-ads" @click="scrollToTop">Google Ads</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/maduracion-de-proyectos" @click="scrollToTop">Maduración de proyectos</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/plan-de-negocios" @click="scrollToTop">Plan de negocios</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/gestion-procesos" @click="scrollToTop">Gestión de procesos</router-link>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-    <!--  Fin Tarjetas-->
-
-    <!--   Tarjetas-->
-    <div class="container-card">
 
         <div class="card">
             <figure class="imagen_card">
@@ -251,31 +116,166 @@
             </div>
             <div class="cinta">Próximamente</div>
         </div>
+
+    </div>
+
+    <!--   Tarjetas-->
+    <div class="container-card">
+
         <div class="card">
             <figure class="imagen_card">
-                <img src="@/assets/Imagenes/Cabeceras/Robotica_A.jpg" alt="robo-avanzada">
+                <img src="@/assets/Imagenes/Cabeceras/programacion.png" alt="programacion">
             </figure>
             <div class="contenido-card">
-                <h3>Vacacional de Robotica</h3>
+                <h3>Programación</h3>
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <router-link class="nav-link active" aria-current="page" to="/robotica-avanzada" @click="scrollToTop">
-                        <button class="cssbuttons-io-button">Vamos
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-                                    <path fill="none" d="M0 0h24v24H0z"></path>
-                                    <path fill="currentColor" d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z"></path>
-                                </svg>
-                            </div>
-                        </button>
-                    </router-link>
+                    <button class="dropdown-btn">Entrenamiento disponibles ▼</button>
+                    <div class="dropdown-content">
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Java</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Net</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">PHP</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Python</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">JavaScript</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Node.js</router-link>
+                    </div>
+                </div>
+            </div>
+            <div class="cinta">Próximamente</div>
+        </div>
+
+        <div class="card">
+            <figure class="imagen_card">
+                <img src="@/assets/Imagenes/Cabeceras/diseno.jpg" alt="diseno">
+            </figure>
+            <div class="contenido-card">
+                <h3>Diseño</h3>
+            </div>
+            <div class="card-footer">
+                <div class="dropdown">
+                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
+                    <div class="dropdown-content">
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Diseño publicitario</router-link>
+                        <!-- <router-link class="nav-link active" aria-current="page" to="/diseno-UxUis" @click="scrollToTop">Diseño UX/UI</router-link> -->
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Principios de diseño para presentaciones</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Basic Illustrator</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Basic Photoshop</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Basic after effects</router-link>
+                    </div>
+                </div>
+            </div>
+            <div class="cinta">Próximamente</div>
+        </div>
+
+        <div class="card">
+            <figure class="imagen_card">
+                <img src="@/assets/Imagenes/Cabeceras/marketing.jpg" alt="marketing">
+            </figure>
+            <div class="contenido-card">
+                <h3>Marketing</h3>
+            </div>
+            <div class="card-footer">
+                <div class="dropdown">
+                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
+                    <div class="dropdown-content">
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Community Manager</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Habilidades sociales</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Instagram para el desarrollo de marcas</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Internet, redes sociales y dispositivos digitales</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Marketing digital</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Facebook e Instagram Ads</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Posicionamiento en buscadores</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Posicionamientos de marcas</router-link>
+                    </div>
                 </div>
             </div>
             <div class="cinta">Próximamente</div>
         </div>
 
     </div>
+    <!--   Fin Tarjetas-->
+    <div class="container-card">
+
+        <div class="card">
+            <figure class="imagen_card">
+                <img src="@/assets/Imagenes/Cabeceras/tic02.jpg" alt="tic">
+            </figure>
+            <div class="contenido-card">
+                <h3>TIC</h3>
+            </div>
+            <div class="card-footer">
+                <div class="dropdown">
+                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
+                    <div class="dropdown-content">
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Ciudadano Digital - Nivel 1</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Ciudadano Digital - Nivel 2</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Alfabetización Digital</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Herramientas Comunicativas</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Competencias Comunicativas para Docentes</router-link>
+                    </div>
+                </div>
+            </div>
+            <div class="cinta">Próximamente</div>
+        </div>
+
+        <div class="card">
+            <figure class="imagen_card">
+                <img src="@/assets/Imagenes/Cabeceras/ofimatica.jpg" alt="ofimatica">
+            </figure>
+            <div class="contenido-card">
+                <h3>Ofimática</h3>
+            </div>
+            <div class="card-footer">
+                <div class="dropdown">
+                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
+                    <div class="dropdown-content">
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Word Básico</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Word Intermedio</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Word Avanzando</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Excel Básico</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Excel Intermedio</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Excel Avanzando</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Power Point Básico</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Power Point Intermedio</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Power Point Avanzando</router-link>
+                    </div>
+                </div>
+                <div class="cinta">Próximamente</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <figure class="imagen_card">
+                <img src="@/assets/Imagenes/Cabeceras/emprendimiento.jpg" alt="emprendimiento">
+            </figure>
+            <div class="contenido-card">
+                <h3>Emprendimiento</h3>
+            </div>
+            <div class="card-footer">
+                <div class="dropdown">
+                    <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
+                    <div class="dropdown-content">
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Creación de marcas</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Metodología canvas</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Creación de tiendas online</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Economía doméstica</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Google Ads</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Maduración de proyectos</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Plan de negocios</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/" @click="scrollToTop">Gestión de procesos</router-link>
+                    </div>
+                </div>
+                <div class="cinta">Próximamente</div>
+            </div>
+        </div>
+
+    </div>
+
+    <!--  Fin Tarjetas-->
+
+    <!--   Tarjetas-->
+
 </div>
 <!--Fin   Tarjetas-->
 </template>
@@ -354,8 +354,8 @@
     transform: scale(0.95);
 }
 
-.dropdown:hover{
-    scrollbar-color: blue !important; 
+.dropdown:hover {
+    scrollbar-color: blue !important;
 }
 
 /* Estilo para el botón del dropdown */
@@ -401,7 +401,6 @@
 .dropdown-content a:hover {
     background-color: gainsboro;
 }
-
 
 /* Animación de entrada */
 @keyframes fadeInDown {
