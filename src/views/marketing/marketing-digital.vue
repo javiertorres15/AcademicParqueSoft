@@ -79,7 +79,7 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Dirigido a:<br></h2>
                     <p class="lead">Este entrenamiento de Marketing Digital está diseñado para
-                        profesionales de marketing y publicidad, emprendedores, estudiantes
+                        profesionales de marketing, publicidad, emprendedores, estudiantes
                         universitarios y cualquier persona interesada en adquirir habilidades
                         esenciales para comprender y aprovechar las estrategias y herramientas
                         del marketing en línea, sin importar su nivel de experiencia previa en el

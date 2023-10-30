@@ -32,12 +32,12 @@
                     <label for="category_id" class="control-label">Categoría</label>
                     <select class="form-control" id="category_id" name="categoria">
                         <option value="">Seleciona una categoria</option>
-                        <option value="programacion">Entrenamiento en programación</option>
-                        <option value="ofimatica">Entrenamiento en ofimática</option>
+                        <option value="robotica">Entrenamiento en Robótica</option>
+                        <option value="programacion">Entrenamiento en Programación</option>
+                        <option value="ofimatica">Entrenamiento en Ofimática</option>
                         <option value="tic">Entrenamiento en TIC</option>
                         <option value="diseno">Entrenamiento en Diseño grafico</option>
-                        <option value="marketing">Entrenamiento en marketing digital</option>
-                        <option value="robotica">Entrenamiento en robótica</option>
+                        <option value="marketing">Entrenamiento en Marketing digital</option>
                         <option value="emprendimiento">Emprendimiento</option>
                     </select>
                     <!-- Agrega el segundo select dinámico -->
@@ -89,7 +89,7 @@ $(document).ready(function () {
         diseno: ["Metodología canvas", "Diseño publicitario", "Diseño UX/UI", "Principios de diseño para presentaciones", "Basic Illustrator", "Basic Photoshop", "Basic after effects"],
         marketing: ["Community Manager", "Habilidades sociales", "Instagram para el desarrollo de marcas", "Internet, redes sociales y dispositivos digitales", "Marketing digital", "Posicionamiento en buscadores", "Posicionamientos de marcas"],
         ofimatica: ["Word Básico", "Word Intermedio", "Word Avanzando", "Excel Básico", "Excel Intermedio", "Excel Avanzando", "Power Point Básico", "Power Point Intermedio", "Power Point Avanzando"],
-        robotica: ["Vacacional", "Entrenamiento instensivo de Robótica"]
+        robotica: ["Vacacional", "Entrenamiento intensivo"]
     };
 
     // Cuando cambia la selección en el primer select

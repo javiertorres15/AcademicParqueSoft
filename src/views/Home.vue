@@ -12,7 +12,7 @@
                 <div class="carousel-item active">
                     <!-- Video en lugar de imagen -->
                     <video class="d-block w-100" autoplay muted loop>
-                        <source src="@/assets/imagenes/imagenprincipal.mp4" type="video/mp4">
+                        <source src="@/assets/imagenes/videoinicio.mp4" type="video/mp4">
                         Tu navegador no admite el elemento de video.
                     </video>
                 </div>
@@ -77,9 +77,8 @@
                 <div class="dropdown">
                     <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
                     <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/metodologia-canvas" @click="scrollToTop">Metodología canvas</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/diseno-publicitario" @click="scrollToTop">Diseño publicitario</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/diseno-UxUis" @click="scrollToTop">Diseño UX/UI</router-link>
+                        <!-- <router-link class="nav-link active" aria-current="page" to="/diseno-UxUis" @click="scrollToTop">Diseño UX/UI</router-link> -->
                         <router-link class="nav-link active" aria-current="page" to="/diseno-presentaciones" @click="scrollToTop">Principios de diseño para presentaciones</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/illustrator" @click="scrollToTop">Basic Illustrator</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/photoshop" @click="scrollToTop">Basic Photoshop</router-link>
@@ -108,6 +107,7 @@
                         <router-link class="nav-link active" aria-current="page" to="/instagram" @click="scrollToTop">Instagram para el desarrollo de marcas</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/internet-rs-dg" @click="scrollToTop">Internet, redes sociales y dispositivos digitales</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/marketing-digital" @click="scrollToTop">Marketing digital</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/meta-ads" @click="scrollToTop">Facebook e Instagram Ads</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/posicionamiento-buscadores" @click="scrollToTop">Posicionamiento en buscadores</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/posicionamientos-marcas" @click="scrollToTop">Posicionamientos de marcas</router-link>
                     </div>
@@ -134,11 +134,11 @@
                 <div class="dropdown">
                     <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
                     <div class="dropdown-content">
-                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1" @click="scrollToTop">Ciudadano digital nivel 1</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital2" @click="scrollToTop">Ciudadano digital nivel 2</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/alfabetizacion-digital" @click="scrollToTop">Alfabetización digital</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/herramientas-comunicativas" @click="scrollToTop">Herramientas comunicativas</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/competencias-comunicativas" @click="scrollToTop">Competencias comunicativas para docentes</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital1" @click="scrollToTop">Ciudadano Digital - Nivel 1</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/ciudadano-digital2" @click="scrollToTop">Ciudadano Digital - Nivel 2</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/alfabetizacion-digital" @click="scrollToTop">Alfabetización Digital</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/herramientas-comunicativas" @click="scrollToTop">Herramientas Comunicativas</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/competencias-comunicativas" @click="scrollToTop">Competencias Comunicativas para Docentes</router-link>
                     </div>
                 </div>
             </div>
@@ -183,10 +183,10 @@
                     <button class="dropdown-btn">Entrenamientos disponibles ▼</button>
                     <div class="dropdown-content">
                         <router-link class="nav-link active" aria-current="page" to="/creacion-de-marcas" @click="scrollToTop">Creación de marcas</router-link>
+                        <router-link class="nav-link active" aria-current="page" to="/metodologia-canvas" @click="scrollToTop">Metodología canvas</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/creacion-tiendas-online" @click="scrollToTop">Creación de tiendas online</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/economia-domestica" @click="scrollToTop">Economía doméstica</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/google-ads" @click="scrollToTop">Google Ads</router-link>
-                        <router-link class="nav-link active" aria-current="page" to="/meta-ads" @click="scrollToTop">Facebook e Instagram Ads</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/maduracion-de-proyectos" @click="scrollToTop">Maduración de proyectos</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/plan-de-negocios" @click="scrollToTop">Plan de negocios</router-link>
                         <router-link class="nav-link active" aria-current="page" to="/gestion-procesos" @click="scrollToTop">Gestión de procesos</router-link>
@@ -354,6 +354,10 @@
     transform: scale(0.95);
 }
 
+.dropdown:hover{
+    scrollbar-color: blue !important; 
+}
+
 /* Estilo para el botón del dropdown */
 .dropdown-btn {
 
@@ -398,6 +402,7 @@
     background-color: gainsboro;
 }
 
+
 /* Animación de entrada */
 @keyframes fadeInDown {
     0% {
@@ -423,7 +428,7 @@ export default {
 
 document.addEventListener("DOMContentLoaded", function () {
     // Configura el intervalo en milisegundos (10 segundos = 10000 ms)
-    const interval = 20000;
+    const interval = 30000;
 
     // Selecciona el carrusel por su id
     const carousel = document.getElementById("myCarousel");

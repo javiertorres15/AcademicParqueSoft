@@ -241,7 +241,7 @@
                         <div class="media-body">Evaluación Continua</div>
                     </li>
                 </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Malla Curricular</a>
+                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Programa académico</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->

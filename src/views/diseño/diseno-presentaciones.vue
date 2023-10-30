@@ -130,7 +130,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/presentaciones.png" alt="#"/>
+                    <img src="@/assets/imagenes/diseno/iconos/presentaciones.png" alt="#" />
                     <h3>Unidad 2: Power Point</h3>
                     <p>2.1. Todo sobre Power Point </p>
                     <p>2.2. Crea tus propias plantillas</p>
@@ -159,10 +159,12 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div id="ho_color" class="service_box">
-                    <img src="@/assets/imagenes/diseno/iconos/presentaciones.png" alt="#"/>
-                    <h3>Unidad 4: Storytelling enfocado a tus
-                        presentaciones</h3>
-                   
+                    <img src="@/assets/imagenes/diseno/iconos/presentaciones.png" alt="#" />
+                    <h3>Unidad 4: Elementos Interactivos</h3>
+                    <p>4.1. Inclusión de elementos interactivos como botones y enlaces.</p>
+                    <p>4.2. Animaciones y transiciones.</p>
+                    <p>4.3. Uso de multimedia (audio y video).</p>
+                    <p>4.4. Prácticas con herramientas de diseño de presentaciones.</p>
                 </div>
             </div>
         </div>

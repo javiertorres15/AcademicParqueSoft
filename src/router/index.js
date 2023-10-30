@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 
+
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   scrollBehavior(to, from, savedPosition) {
@@ -325,6 +327,13 @@ const router = createRouter({
       path: '/robotica-avanzada',
       name: 'robotica-avanzada',
       component: () => import('../views/robotica/robotica-avanzada.vue')
+    }
+    //VISOR PDF
+    ,
+    {
+      path: '/pdf-viewer',
+      name: 'PdfViewer',
+      component: () => import('../views/pro-avanzada/PdfViewer.vue'),
     }
   ],
 })

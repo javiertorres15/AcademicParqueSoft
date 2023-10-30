@@ -203,17 +203,22 @@
                     participación activa en esta experiencia de aprendizaje
                     enriquecedora.</p>
 
-                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Malla Curricular</a>
+                    <a class="btn-solid-reg mfp-close page-scroll" target="_blank" href="https://drive.google.com/file/d/1WM7uXg1lJo8ce5C9wqdKSYMtMgbpCLna/view?usp=sharing">
+                    Programa academico
+                </a>
+
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox -->
-
-
 </template>
 
 <script>
+import PDF from '@/assets/archivos/Pensum.pdf'; // Asegúrate de ajustar la ruta según la estructura de tu proyecto
+
+// Luego, puedes usar la variable PDF en tu plantilla HTML.
+
 export default {
     data() {
         return {
@@ -252,6 +257,4 @@ export default {
 @import '../pro-avanzada/css/swiper.css';
 @import '../pro-avanzada/css/styles.css';
 @import '../pro-avanzada/css/bootstrap.css';
-
-
 </style>

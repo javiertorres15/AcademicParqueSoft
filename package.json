@@ -16,6 +16,7 @@
     "bootstrap-icons": "^1.10.5",
     "gsap": "^3.12.2",
     "jquery": "^3.7.1",
+    "pdfjs-dist": "^3.11.174",
     "swiper": "^10.3.1",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"

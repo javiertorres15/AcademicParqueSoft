@@ -31,13 +31,13 @@
                             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                         </div>
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <!-- Video en lugar de imagen -->
                                 <video class="d-block w-100" autoplay muted loop>
                                     <source src="/src/assets/Imagenes/robotica/roboticavideo.mp4" type="video/mp4">
                                 </video>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item active">
                                 <img src="/src/assets/Imagenes/robotica/carruselRobotica1.jpg" class="d-block w-100 img-fluid" alt="Imagen">
                             </div>
                             <div class="carousel-item">
@@ -197,7 +197,7 @@
                 <p>Nuestras clases virtuales de robótica se basan en una metodología interactiva y práctica que combina teoría y aplicación.</p>
                 <p>Clases en Vivo: Ofrecemos clases en vivo a través de una plataforma de videoconferencia, donde los instructores presentarán conceptos y responderán preguntas en tiempo real.</p>
                 <p>Material Didáctico: Los estudiantes tendrán acceso a material de estudio, tutoriales y recursos en línea para reforzar los conceptos aprendidos.Proyectos Prácticos: Los estudiantes trabajarán en proyectos prácticos a lo largo del entrenamiento, aplicando lo que han aprendido en la construcción y programación de robots reales.</p>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#register">SIGN UP</a>
+                <a class="btn-solid-reg mfp-close page-scroll" href="#register">Programa académico</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
