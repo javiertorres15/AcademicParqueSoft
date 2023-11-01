@@ -48,11 +48,11 @@
                 <img src="@/assets/Imagenes/Cabeceras/Robotica_A.jpg" alt="robo-avanzada">
             </figure>
             <div class="contenido-card">
-                <h3>Vacacional de Robotica</h3>
+                <h3>Vacacional de Robótica</h3>
             </div>
             <div class="card-footer">
                 <div class="dropdown">
-                    <router-link class="nav-link active" aria-current="page" to="/robotica-avanzada" @click="scrollToTop">
+                    <router-link class="nav-link active" aria-current="page" to="/vacacional-robotica" @click="scrollToTop">
                         <button class="cssbuttons-io-button">Vamos
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">

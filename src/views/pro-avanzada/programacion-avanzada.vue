@@ -215,8 +215,6 @@
 </template>
 
 <script>
-import PDF from '@/assets/archivos/Pensum.pdf'; // Asegúrate de ajustar la ruta según la estructura de tu proyecto
-
 // Luego, puedes usar la variable PDF en tu plantilla HTML.
 
 export default {

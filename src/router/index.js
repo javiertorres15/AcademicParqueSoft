@@ -324,17 +324,12 @@ const router = createRouter({
     }
     ,
     {
-      path: '/robotica-avanzada',
-      name: 'robotica-avanzada',
+      path: '/vacacional-robotica',
+      name: 'vacacional-robotica',
       component: () => import('../views/robotica/robotica-avanzada.vue')
     }
     //VISOR PDF
     ,
-    {
-      path: '/pdf-viewer',
-      name: 'PdfViewer',
-      component: () => import('../views/pro-avanzada/PdfViewer.vue'),
-    }
   ],
 })
 
